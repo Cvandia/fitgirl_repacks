@@ -26,7 +26,7 @@ const isDarkTheme = () => {
 isDarkTheme() && document.body.classList.add('dark');
 
 theme.addEventListener('click', function () {
-  localStorage.setItem('fitgirl-repacks-theme', isDarkTheme() || 'dark');
+  localStorage.setItem('fitgirl-repacks-theme', isDarkTheme() ? 'light' : 'dark');
   document.body.classList.toggle('dark');
 });
 
@@ -50,6 +50,13 @@ const initPage = async () => {
   }
   renderData = rawData;
 
+  // 从 URL 参数获取搜索词
+  const urlParams = new URLSearchParams(window.location.search);
+  const searchParam = urlParams.get('search');
+  if (searchParam) {
+    performSearch(searchParam);
+  }
+
   // 渲染页面
   renderSearch();
   renderPage();
@@ -61,20 +68,42 @@ const renderSearch = () => {
   const input = document.createElement('input');
   input.type = 'text';
   input.name = 'searchTerm';
+  input.id = 'searchTerm';
   input.placeholder = `在 ${renderData.length} 款游戏中搜索`;
 
   // 用户按回车键搜索
   input.addEventListener('keydown', event => {
     if (event.key === 'Enter') {
-      const searchTerm = input.value.toLowerCase().split(' ');
-      renderData = rawData.filter(item => searchTerm.every(word => item[1].toLowerCase().includes(word)));
-      currentPage = 1;
-      renderPage();
+      performSearch(input.value);
     }
   });
 
-  // 将搜索框添加到页面
+  // 创建搜索按钮
+  const button = document.createElement('button');
+  button.textContent = '搜索';
+  button.addEventListener('click', () => {
+    performSearch(input.value);
+  });
+
+  // 将搜索框和按钮添加到页面
   search.appendChild(input);
+  search.appendChild(button);
+};
+
+// 执行搜索
+const performSearch = (searchTerm) => {
+  const terms = searchTerm.toLowerCase().split(' ');
+  renderData = rawData.filter(item => terms.every(word => item[1].toLowerCase().includes(word)));
+  currentPage = 1;
+  renderPage();
+  updateURL(searchTerm);
+};
+
+// 更新 URL 参数
+const updateURL = (searchTerm) => {
+  const urlParams = new URLSearchParams(window.location.search);
+  urlParams.set('search', searchTerm);
+  history.pushState({}, '', '?' + urlParams.toString());
 };
 
 // 渲染数据区域
@@ -151,7 +180,7 @@ const renderPagination = () => {
   // 创建上一页按钮
   const prevButton = document.createElement('button');
   prevButton.textContent = '上一页';
-  if (currentPage <= 1) prevButton.disabled = 'disabled';
+  if (currentPage <= 1) prevButton.disabled = true;
   prevButton.addEventListener('click', () => {
     if (currentPage > 1) {
       currentPage--;
@@ -164,7 +193,7 @@ const renderPagination = () => {
   for (let i = startPage; i <= endPage; i++) {
     const pageButton = document.createElement('button');
     pageButton.textContent = i;
-    if (currentPage == i) pageButton.disabled = 'disabled';
+    if (currentPage === i) pageButton.disabled = true;
     pageButton.addEventListener('click', event => {
       currentPage = parseInt(event.target.textContent);
       renderPage();
@@ -175,7 +204,7 @@ const renderPagination = () => {
   // 创建下一页按钮
   const nextButton = document.createElement('button');
   nextButton.textContent = '下一页';
-  if (currentPage >= totalPages) nextButton.disabled = 'disabled';
+  if (currentPage >= totalPages) nextButton.disabled = true;
   nextButton.addEventListener('click', () => {
     if (currentPage < totalPages) {
       currentPage++;
