@@ -23,11 +23,16 @@ const isDarkTheme = () => {
   return localStorage.getItem('fitgirl-repacks-theme') === 'dark';
 };
 
-isDarkTheme() && document.body.classList.add('dark');
+if (isDarkTheme()) {
+  document.body.classList.add('dark');
+  document.body.style.transition = 'background-color 0.5s ease';
+}
 
 theme.addEventListener('click', function () {
-  localStorage.setItem('fitgirl-repacks-theme', isDarkTheme() ? 'light' : 'dark');
+  const newTheme = isDarkTheme() ? 'light' : 'dark';
+  localStorage.setItem('fitgirl-repacks-theme', newTheme);
   document.body.classList.toggle('dark');
+  document.body.style.transition = 'background-color 0.5s ease';
 });
 
 // 初始化页面
