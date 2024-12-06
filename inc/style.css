@@ -87,29 +87,17 @@ a {
   align-items: center;
 }
 
-#search input {
-  flex: 1;
-  margin: 20px 10px;
-padding: 0 20px;
-line-height: 40px;
-font-size: 16px;
-text-align: center;
-color: var(--font-color);
-border: 1px solid var(--block-border-color);
-border-radius: 20px;
-background-color: var(--background-color);
-}
-
 #search button {
-margin: 20px 10px;
-padding: 0 20px;
-line-height: 40px;
-font-size: 16px;
-color: var(--font-color);
-border: 1px solid var(--block-border-color);
-border-radius: 20px;
-background-color: var(--background-color);
-cursor: pointer;
+  margin: 20px 10px;
+  padding: 0 20px;
+  width: 25%;
+  line-height: 40px;
+  font-size: 16px;
+  color: var(--font-color);
+  border: 1px solid var(--block-border-color);
+  border-radius: 20px;
+  background-color: var(--background-color);
+  cursor: pointer;
 }
 
 #search input {
