@@ -1,15 +1,20 @@
-﻿# FitGirl Repacks 镜像库
-![](https://img.shields.io/badge/ci-passing-brightgreen.svg?logo=github)
-![](https://img.shields.io/badge/license-MIT-brightgreen.svg)
+﻿<div align="center">
 
-## 声明
+# FitGirl Repacks 镜像库
+
+![](https://count.getloli.com/get/@fitgirl_repacks?theme=booru-lewd)
+![](https://img.shields.io/badge/ci-passing-brightgreen.svg?logo=github) ![](https://img.shields.io/badge/license-MIT-brightgreen.svg)
+
+</div>
+
+## 📜 声明
 简单镜像了 FitGirl Repacks 的数据，帮助访问不便的人们。  
 感谢 FitGirl 为我们带来的绝佳游戏体验，如有可能，请尽量访问原站。
 
-## 使用
+## 🌐 使用
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
-## 更新
+## 🔄 更新
 最后更新时间 `2024-12-06`，共 `4882` 款游戏。
 - Spirit Mancer: Demon Hunter Edition + 5 DLCs/Bonuses
 - GigaBash – v1.5.2 + 5 DLCs
@@ -23,5 +28,5 @@
 - Vaporum: Lockdown – Build #80 (Patch #5)
 - ……
 
-## 感谢
+## 🙏 感谢
 - [FitGirl Repacks](https://fitgirl-repacks.site/)
