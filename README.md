@@ -12,7 +12,7 @@
 感谢 FitGirl 为我们带来的绝佳游戏体验，如有可能，请尽量访问原站。
 
 ## 🌐 使用
-[https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
+[https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
 最后更新时间 `2024-12-06`，共 `4882` 款游戏。
