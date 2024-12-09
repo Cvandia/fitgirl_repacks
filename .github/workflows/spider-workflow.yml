@@ -29,6 +29,7 @@ jobs:
 
       - name: Run spider
         run: |
+          cd ./spider
           python spider.py
 
       - name: Commit changes
