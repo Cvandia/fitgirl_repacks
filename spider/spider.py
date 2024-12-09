@@ -6,7 +6,6 @@ import random
 from bs4 import BeautifulSoup
 from datetime import datetime
 from loguru import logger
-from rich.progress import Progress
 
 site_url = "https://fitgirl-repacks.site"
 sem = asyncio.Semaphore(3)  # Limit to 3 concurrent tasks
@@ -27,7 +26,7 @@ async def fetch_data(session, page):
     return articles
 
 
-async def process_articles(session, page, progress, task_id):
+async def process_articles(session, page, total_pages):
     articles = await fetch_data(session, page)
     data_list = []
     now_article = 0
@@ -79,7 +78,7 @@ async def process_articles(session, page, progress, task_id):
             )
         else:
             logger.warning(f"× 抛弃第 {now_article}/{len(articles)} 条数据")
-        progress.update(task_id, advance=1)
+    logger.success(f"第 {page} / {total_pages}页已完成")
     return data_list
 
 
@@ -98,25 +97,19 @@ async def main():
             os._exit(0)
 
         all_data = []
-        with Progress(
-            *Progress.get_default_columns(),
-            "[yellow]{task.completed}/{task.total}",
-        ) as progress:
-            task_id = progress.add_task(
-                "爬取中...", total=(end_page - start_page + 1) * 10
-            )
-            for i in range(start_page, end_page + 1, 3):
-                tasks = [
-                    process_articles(session, page, progress, task_id)
-                    for page in range(i, min(i + 3, end_page + 1))
-                ]
-                for task in asyncio.as_completed(tasks):
-                    data = await task
-                    all_data.extend(data)
-                    if len(all_data) % 6 == 0:
-                        pause_time = random.randint(6, 12)
-                        logger.info(f"暂停 {pause_time} 秒")
-                        await asyncio.sleep(pause_time)
+    
+        for i in range(start_page, end_page + 1, 3):
+            tasks = [
+                process_articles(session, page, end_page)
+                for page in range(i, min(i + 3, end_page + 1))
+            ]
+            for task in asyncio.as_completed(tasks):
+                data = await task
+                all_data.extend(data)
+                if len(all_data) % 6 == 0:
+                    pause_time = random.randint(6, 12)
+                    logger.info(f"暂停 {pause_time} 秒")
+                    await asyncio.sleep(pause_time)
 
         config_file = "./config.txt"
         if os.path.exists(config_file):
