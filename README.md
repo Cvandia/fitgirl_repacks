@@ -15,7 +15,8 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2024-12-08`，共 `4888` 款游戏。
+最后更新时间 `2024-12-09`，共 `4890` 款游戏。
+- Bullet Runner – v1.0.2
 - Highway Police Simulator – v1.0.0.17750
 - Immortal Life – v1.0.33 (Spirits of Jade Update)
 - InFlux Redux + Windows 7 Fix
@@ -25,7 +26,6 @@
 - The Thing: Remastered – v1.0.1561.1369
 - theHunter: Call of the Wild – Complete Collection – v2891297 + 64 DLCs
 - Mouthwashing – Build 15980018
-- Euro Truck Simulator 2 – v1.53.2.1s + 94 DLCs
 - ……
 
 ## 🙏 感谢
