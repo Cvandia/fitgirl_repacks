@@ -22,10 +22,13 @@ jobs:
       - name: List files
         run: ls -R | sed -e 's/:$//' -e 's/[^-][^\/]*\//--/g' -e 's/^/   /' -e 's/-/|/'
 
-      - name: Run Python script
+      - name: Install dependencies
         run: |
           cd ./spider
           pip install -r requirements.txt
+
+      - name: Run spider
+        run: |
           python spider.py
 
       - name: Commit changes
