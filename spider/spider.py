@@ -5,6 +5,7 @@ import time
 import random
 from bs4 import BeautifulSoup
 from datetime import datetime
+from googletrans import Translator
 
 site_url = "https://fitgirl-repacks.site"
 
@@ -44,6 +45,8 @@ while start_page <= end_page:
         time.sleep(300)
         continue
 
+    translator = Translator()
+
     # 解析爬取到的数据
     now_article = 0
     for article in articles:
@@ -63,6 +66,15 @@ while start_page <= end_page:
             article_cover = article_cover_element.get("src") if article_cover_element else None
             article_description = article_description_element.find_next_sibling().text.strip() if article_description_element else None
             article_content = article_content_element.text.strip() if article_content_element else None
+
+            # 翻译为中文
+            try:
+                if article_description:
+                    article_description = translator.translate(article_description, src='en', dest='zh-cn').text
+                if article_content:
+                    article_content = translator.translate(article_content, src='en', dest='zh-cn').text
+            except Exception as e:
+                print(f"× 翻译失败：{e}")
             data_list.append([article_id, article_title, article_time, article_link, article_cover, article_description, article_content])
         else:
             print(f"× 抛弃第 {now_article}/{len(articles)} 条数据")
