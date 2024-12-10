@@ -11,9 +11,9 @@ site_url = "https://fitgirl-repacks.site"
 sem = asyncio.Semaphore(3)  # Limit to 3 concurrent tasks
 
 
-async def fetch_page(session, url):
+async def fetch_page(session: aiohttp.ClientSession, url):
     async with sem:
-        async with session.get(url) as response:
+        async with session.get(url, max_redirects=5) as response:
             return await response.text()
 
 
@@ -97,7 +97,7 @@ async def main():
             os._exit(0)
 
         all_data = []
-    
+
         for i in range(start_page, end_page + 1, 3):
             tasks = [
                 process_articles(session, page, end_page)
