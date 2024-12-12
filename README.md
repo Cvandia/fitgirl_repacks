@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2024-12-11`，共 `4891` 款游戏。
+最后更新时间 `2024-12-12`，共 `4895` 款游戏。
+- Legacy of Kain: Soul Reaver 1 & 2 Remastered
+- Wartales: The Mercenaries Edition – v1.0.39118 + 4 DLCs
+- Archons
 - Viscera
 - Priest Simulator: Vampire Show – Splendor Set, v2.0.0.160 + Her Ghost DLC + Bonus OST
 - Sorry We’re Closed: Deluxe Edition + Bonus Soundtrack
-- World War Z: Aftermath – Deluxe Edition – v2.36 (0.1.MS.747246/752065) + All DLCs
-- Critter Café + Windows 7 Fix
-- Doll Impostor – Update 10/HotFix 3 + Windows 7 Fix
-- Bullet Runner – v1.0.2
-- Highway Police Simulator – v1.0.0.17750
-- Spirit Mancer: Demon Hunter Edition + 5 DLCs/Bonuses
-- GigaBash – v1.5.2 + 5 DLCs
+- The Nameless: Slay Dragon – v10.1
+- The Thing: Remastered – v1.0.1561.1369
+- theHunter: Call of the Wild – Complete Collection – v2891297 + 64 DLCs
+- Mouthwashing – Build 15980018
 - ……
 
 ## 🙏 感谢
