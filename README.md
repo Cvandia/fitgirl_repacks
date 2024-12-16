@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2024-12-13`，共 `4897` 款游戏。
-- Stars In The Trash: Deluxe Edition – Build 20241208 + Bonus Content
-- Thief Simulator – v1.8 + 2 DLCs
+最后更新时间 `2024-12-16`，共 `4905` 款游戏。
+- Northgard: The Viking Age Edition – v3.6.18.40721 + 16 DLCs/Bonuses
+- TankHead
+- Generation Zero: Ultimate Bundle – 2901094 + 24 DLCs
+- The Strange City
+- Ship Graveyard Simulator 2, v11780 + 4 DLCs
+- Tales Beyond The Tomb: Pineville Night Stalker
+- Battle Shapers + Original Soundtrack Bundle, v1.0.0.9952
 - Legacy of Kain: Soul Reaver 1 & 2 Remastered
 - Wartales: The Mercenaries Edition – v1.0.39118 + 4 DLCs
 - Archons
-- Viscera
-- Railroads Online – v0.10.0.0.0 (51996) / Release + Windows 7 Fix
-- The Nameless: Slay Dragon – v10.1
-- The Thing: Remastered – v1.0.1561.1369
-- theHunter: Call of the Wild – Complete Collection – v2891297 + 64 DLCs
 - ……
 
 ## 🙏 感谢
