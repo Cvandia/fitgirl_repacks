@@ -15,7 +15,7 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2024-12-16`，共 `4905` 款游戏。
+最后更新时间 `2024-12-17`，共 `4905` 款游戏。
 - Northgard: The Viking Age Edition – v3.6.18.40721 + 16 DLCs/Bonuses
 - TankHead
 - Generation Zero: Ultimate Bundle – 2901094 + 24 DLCs
