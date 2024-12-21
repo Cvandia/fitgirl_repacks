@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2024-12-17`，共 `4905` 款游戏。
-- Northgard: The Viking Age Edition – v3.6.18.40721 + 16 DLCs/Bonuses
-- TankHead
-- Generation Zero: Ultimate Bundle – 2901094 + 24 DLCs
-- The Strange City
+最后更新时间 `2024-12-21`，共 `4911` 款游戏。
+- Cowboy 3030
+- TEKKEN 8: Ultimate Edition, v1.10.01 + 17 DLCs + Bonus Soundtrack
+- On Your Tail: Deluxe Bundle – v1.0.1 + Bonus Content
+- Teenage Mutant Ninja Turtles: Mutants Unleashed – Digital Deluxe Edition, Build 16615507 + 4 DLCs
+- Flint: Treasure of Oblivion
+- Songs of Conquest – v1.4.8 + 4 DLCs/Bonuses
+- Snow Bros. Wonderland
 - Ship Graveyard Simulator 2, v11780 + 4 DLCs
 - Tales Beyond The Tomb: Pineville Night Stalker
 - Battle Shapers + Original Soundtrack Bundle, v1.0.0.9952
-- Legacy of Kain: Soul Reaver 1 & 2 Remastered
-- Wartales: The Mercenaries Edition – v1.0.39118 + 4 DLCs
-- Archons
 - ……
 
 ## 🙏 感谢
