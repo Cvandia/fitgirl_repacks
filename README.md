@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2024-12-21`，共 `4911` 款游戏。
+最后更新时间 `2024-12-23`，共 `4912` 款游戏。
+- S.T.A.L.K.E.R. 2: Heart of Chornobyl – Deluxe Edition, v1.1.1 + 3 DLC* + Bonus Content [Monkey Repack]
+- DETECTIVE: The Motel
+- WARNO – 141373 + 11 DLCs
 - Cowboy 3030
 - TEKKEN 8: Ultimate Edition, v1.10.01 + 17 DLCs + Bonus Soundtrack
 - On Your Tail: Deluxe Bundle – v1.0.1 + Bonus Content
 - Teenage Mutant Ninja Turtles: Mutants Unleashed – Digital Deluxe Edition, Build 16615507 + 4 DLCs
-- Flint: Treasure of Oblivion
-- Songs of Conquest – v1.4.8 + 4 DLCs/Bonuses
-- Snow Bros. Wonderland
-- Ship Graveyard Simulator 2, v11780 + 4 DLCs
-- Tales Beyond The Tomb: Pineville Night Stalker
-- Battle Shapers + Original Soundtrack Bundle, v1.0.0.9952
+- Northgard: The Viking Age Edition – v3.6.18.40721 + 16 DLCs/Bonuses
+- TankHead
+- Generation Zero: Ultimate Bundle – 2901094 + 24 DLCs
 - ……
 
 ## 🙏 感谢
