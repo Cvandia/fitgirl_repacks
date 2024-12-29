@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2024-12-27`，共 `4918` 款游戏。
-- Workers & Resources: Soviet Republic – Complete, v1.0.0.17 + 4 DLCs/Bonuses
-- Trade Conquest
-- Hellbreach: Vegas – v1.0.4
-- Penny Blood: Hellbound – v1.0.00628
-- Monster Jam Showdown, v1442067 + 7 DLCs + Windows 7 Fix
-- Glorious Companions – v1.0 (Release)
-- My Recycling Center: Complete Edition, Build 16763757 + 3 DLCs
-- Recycling Center Simulator – v1.1.6
-- Nine Sols – v202412161711
+最后更新时间 `2024-12-29`，共 `4921` 款游戏。
+- SimRail: The Railway Simulator, v14.12.2024 + Cargo Pack DLC
+- Entropy Survivors – v1.0.5.21467
+- Hollowbody + Soundtrack Bundle – Patch #10 Hotfix + Bonus OST
+- Open Wheel Manager 2
+- Alaskan Road Truckers: Mother Truckers Edition, v1.6 + 5 DLCs
+- Locked In Mind
+- Mindlock – The Apartment, Build 16776082
 - Pyramids and Aliens: Escape Room, v1.0.6
+- Everdream Valley: Deluxe Bundle , v4.1204.1925 + 5 DLCs/Bonuses
+- S.T.A.L.K.E.R. 2: Heart of Chornobyl – Deluxe Edition, v1.1.1 + 3 DLC* + Bonus Content [Monkey Repack]
 - ……
 
 ## 🙏 感谢
