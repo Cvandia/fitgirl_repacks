@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2024-12-29`，共 `4921` 款游戏。
+最后更新时间 `2024-12-31`，共 `4925` 款游戏。
+- Caribbean Legend: Complete Edition, v1.3.3 (28.12.24) + 3 DLCs
+- Vincemus – Air Combat, v1.2.0a
+- Warhammer 40,000: Gladius – Complete Edition – v1.15.0 + 17 DLCs/Bonuses
+- Architect Simulator
+- POOLS, v12.12.24 + Bonus Soundtrack
 - SimRail: The Railway Simulator, v14.12.2024 + Cargo Pack DLC
 - Entropy Survivors – v1.0.5.21467
-- Hollowbody + Soundtrack Bundle – Patch #10 Hotfix + Bonus OST
-- Open Wheel Manager 2
-- Alaskan Road Truckers: Mother Truckers Edition, v1.6 + 5 DLCs
-- Locked In Mind
-- Mindlock – The Apartment, Build 16776082
-- Pyramids and Aliens: Escape Room, v1.0.6
-- Everdream Valley: Deluxe Bundle , v4.1204.1925 + 5 DLCs/Bonuses
-- S.T.A.L.K.E.R. 2: Heart of Chornobyl – Deluxe Edition, v1.1.1 + 3 DLC* + Bonus Content [Monkey Repack]
+- Penny Blood: Hellbound – v1.0.00628
+- Monster Jam Showdown, v1442067 + 7 DLCs + Windows 7 Fix
+- Glorious Companions – v1.0 (Release)
 - ……
 
 ## 🙏 感谢
