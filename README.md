@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2024-12-31`，共 `4925` 款游戏。
+最后更新时间 `2025-01-01`，共 `4927` 款游戏。
+- Grand Theft Auto V / GTA 5 – v1.0.3411/1.70 + NVE Platinum Modpack + Bonus Content
+- The Ghost Treasure, v0.0.1
+- Dustborn – v1.10
+- Ink Inside: Deluxe Edition – v1.0.2 + Bonus Content
 - Caribbean Legend: Complete Edition, v1.3.3 (28.12.24) + 3 DLCs
 - Vincemus – Air Combat, v1.2.0a
 - Warhammer 40,000: Gladius – Complete Edition – v1.15.0 + 17 DLCs/Bonuses
 - Architect Simulator
 - POOLS, v12.12.24 + Bonus Soundtrack
 - SimRail: The Railway Simulator, v14.12.2024 + Cargo Pack DLC
-- Entropy Survivors – v1.0.5.21467
-- Penny Blood: Hellbound – v1.0.00628
-- Monster Jam Showdown, v1442067 + 7 DLCs + Windows 7 Fix
-- Glorious Companions – v1.0 (Release)
 - ……
 
 ## 🙏 感谢
