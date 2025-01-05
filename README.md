@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-01-01`，共 `4927` 款游戏。
-- Grand Theft Auto V / GTA 5 – v1.0.3411/1.70 + NVE Platinum Modpack + Bonus Content
-- The Ghost Treasure, v0.0.1
-- Dustborn – v1.10
-- Ink Inside: Deluxe Edition – v1.0.2 + Bonus Content
-- Caribbean Legend: Complete Edition, v1.3.3 (28.12.24) + 3 DLCs
-- Vincemus – Air Combat, v1.2.0a
-- Warhammer 40,000: Gladius – Complete Edition – v1.15.0 + 17 DLCs/Bonuses
-- Architect Simulator
-- POOLS, v12.12.24 + Bonus Soundtrack
-- SimRail: The Railway Simulator, v14.12.2024 + Cargo Pack DLC
+最后更新时间 `2025-01-05`，共 `4935` 款游戏。
+- South Park: Snow Day! – v1.0.7/Build 10513 CL#188694 + 14 DLCs + Windows 7 Fix
+- Broken Sword – Shadow of the Templars: Reforged, v1.1.6
+- From the Depths – v4.2.1.1 + 2 DLCs
+- Get To Work – v1.0.4
+- Touhou Danmaku Kagura: Phantasia Lost – Digital Deluxe Edition, v1.5.2 + 13 DLCs/Bonuses
+- My Summer Car – v241230-03 (Release)
+- Airship: Kingdoms Adrift – v1.6.1.2
+- Joyville 2
+- Against the Storm: Complete – v1.6.2R + 2 DLCs/Bonuses
+- Limoria
 - ……
 
 ## 🙏 感谢
