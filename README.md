@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-01-05`，共 `4935` 款游戏。
-- South Park: Snow Day! – v1.0.7/Build 10513 CL#188694 + 14 DLCs + Windows 7 Fix
-- Broken Sword – Shadow of the Templars: Reforged, v1.1.6
-- From the Depths – v4.2.1.1 + 2 DLCs
-- Get To Work – v1.0.4
-- Touhou Danmaku Kagura: Phantasia Lost – Digital Deluxe Edition, v1.5.2 + 13 DLCs/Bonuses
-- My Summer Car – v241230-03 (Release)
-- Airship: Kingdoms Adrift – v1.6.1.2
-- Joyville 2
-- Against the Storm: Complete – v1.6.2R + 2 DLCs/Bonuses
-- Limoria
+最后更新时间 `2025-01-09`，共 `4952` 款游戏。
+- Deathless. Tales of Old Rus: Deluxe Edition, v1.0.0.30713 + Bonus Content
+- Empires of the Undergrowth – v1.000419
+- [REDACTED] – v1.0.0.6
+- Blood Bowl 3: Brutal Edition – Build 50513 + 6 DLCs
+- Amenti
+- Umamusume: Pretty Derby – Party Dash – Special Edition, v1.04.00 + All DLCs
+- Touch Type Tale: Strategic Typing – Deluxe Edition, v1.2.68 + Bonus Content
+- MX vs ATV Legends – v3.17 + 27 DLCs + Windows 7 Fix
+- Incredifall, Build 16195065/16820890 + BUILD IT DLC + Windows 7 Fix
+- DREAMERS + Bonus Content
 - ……
 
 ## 🙏 感谢
