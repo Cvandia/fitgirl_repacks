@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-01-09`，共 `4952` 款游戏。
+最后更新时间 `2025-01-11`，共 `4954` 款游戏。
+- The Last Flame – v1.0 (Release)
+- Builders of Egypt – v1.036
+- Galactic Civilizations IV: Supernova Edition – v2.92 + 5 DLCs/Bonuses
+- HELLSEED: All Chapters – Build 16646433
+- Per Aspera: Deluxe Edition – v1.8.3.63441 + 6 DLCs/Bonuses
+- Exsys
+- Tale of Immortal – v1.1.105.269 + 2 DLCs + Bonus OST
+- XENOTILT: HOSTILE PINBALL ACTION – v1.081
+- Farm Manager 2021, v1.1.20241030.529 + 3 DLCs
 - Deathless. Tales of Old Rus: Deluxe Edition, v1.0.0.30713 + Bonus Content
-- Empires of the Undergrowth – v1.000419
-- [REDACTED] – v1.0.0.6
-- Blood Bowl 3: Brutal Edition – Build 50513 + 6 DLCs
-- Amenti
-- Umamusume: Pretty Derby – Party Dash – Special Edition, v1.04.00 + All DLCs
-- Touch Type Tale: Strategic Typing – Deluxe Edition, v1.2.68 + Bonus Content
-- MX vs ATV Legends – v3.17 + 27 DLCs + Windows 7 Fix
-- Incredifall, Build 16195065/16820890 + BUILD IT DLC + Windows 7 Fix
-- DREAMERS + Bonus Content
 - ……
 
 ## 🙏 感谢
