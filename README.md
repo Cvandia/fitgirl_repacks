@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-01-17`，共 `4982` 款游戏。
-- Battle Waves: Card Tactics
-- Umbra: The Last Summoner – v1.0a
-- Reus 2: Complete Edition , v1.5.0 + Ice Age DLC + Bonus Content
-- Age of Darkness: Final Stand – v1.0 (Release)
-- Gangs of Neo Tokyo
-- Peaks of Yore – v1.9.0b
-- Cursed Digicam
-- The Haunting of Joni Evers – v1.0.4
-- I Am Future: Cozy Apocalypse Survival – Supporter Edition, v1.1.0.006r + Bonus Content
-- Status One
+最后更新时间 `2025-01-19`，共 `4987` 款游戏。
+- DYSMANTLE: Complete Bundle, v1.4.0.41 + 3 DLCs
+- Catizens – Game & Soundtrack Bundle, v1.0.r153 + Bonus OST
+- Stasis: Bone Totem + Supporters Pack Combo, v1.0.4.3 + Bonus Content
+- Ultimate General: American Revolution – Premium Edition, v1.0.3 rev.55378 + DLC
+- Car Mechanic Simulator 2021: Gold Bundle – v1.0.37 + 19 DLCs
+- Pocket Cars – v1.0.0 (Release)
+- Tales of Graces f Remastered: Deluxe Edition – v1.0.0 + 11 DLCs/Bonuses
+- Wandering Sword – v1.23.26_2 + Mount Pack: Majestic Steeds DLC
+- Montezuma’s Revenge: 40th Anniversary Deluxe Edition + Director’s Cut DLC
+- Foxyball – v1.0.5
 - ……
 
 ## 🙏 感谢
