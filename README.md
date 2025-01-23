@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-01-21`，共 `4994` 款游戏。
-- Nymphomaniac: Sex Addict – v11750 + Windows 7 Fix
-- The Star Named EOS: Deluxe Edition Bundle, v1.0.0.04 + Bonus Content
-- My Memory of Us – Build 16287132 (Secret Update HotFix)
-- Dread Weight + Creator’s Cache (All Sprites) DLC
-- TrickShot Simulator
-- From The Past
-- Keylocker: Turn Based Cyberpunk Action – Soundtrack Bundle, Build 16635931 + Bonus OST
-- Tavern Talk: Pen & Paper Edition, BuildID 16658962 + 6 DLCs/Bonuses
-- Great God Grove: Divine Edition, v2024.11.25 01 + Bonus Content
-- DYSMANTLE: Complete Bundle, v1.4.0.41 + 3 DLCs
+最后更新时间 `2025-01-23`，共 `5002` 款游戏。
+- NEEDY STREAMER OVERLOAD / NEEDY GIRL OVERDOSE: Internet Angel Pack, v1.4.0 + Bonus Content
+- Uncle Chop’s Rocket Shop: Deluxe Edition, v1.4.0:5875 + 2 DLCs/Bonuses
+- The Lost Village – v1.2.10 + 4 DLCs
+- Somber Echoes – v21558
+- DRAGON BALL: Sparking! ZERO, v2008.007.003.005.004 + 9 DLCs + Multiplayer + Windows 7 Fix
+- Primeval
+- DEEP IN THE DREAD
+- The Other Me
+- Warlords Under Siege – v1.0 (Release)
+- JOY OF PROGRAMMING – Software Engineering Simulator, v1.0.0 (Release)
 - ……
 
 ## 🙏 感谢
