@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-01-23`，共 `5002` 款游戏。
-- NEEDY STREAMER OVERLOAD / NEEDY GIRL OVERDOSE: Internet Angel Pack, v1.4.0 + Bonus Content
-- Uncle Chop’s Rocket Shop: Deluxe Edition, v1.4.0:5875 + 2 DLCs/Bonuses
-- The Lost Village – v1.2.10 + 4 DLCs
-- Somber Echoes – v21558
+最后更新时间 `2025-01-25`，共 `5008` 款游戏。
+- Mika and The Witch’s Mountain
+- None Shall Intrude – v1.0.01
+- Cyber Manhunt 2: New World – The Hacking Simulator, v1.0.7
+- Tactical Breach Wizards – v2025-01-17-Mango + 2 DLCs
+- Rally Mechanic Simulator – v1.0.165
+- Across The Obelisk: Complete Bundle – v1.5.0 + 9 DLCs
+- Blacksmith Simulator – v1.0.0.0 (Release)
+- Steel Division 2: Total Conflict Edition – v143305 + 35 DLCs
 - DRAGON BALL: Sparking! ZERO, v2008.007.003.005.004 + 9 DLCs + Multiplayer + Windows 7 Fix
 - Primeval
-- DEEP IN THE DREAD
-- The Other Me
-- Warlords Under Siege – v1.0 (Release)
-- JOY OF PROGRAMMING – Software Engineering Simulator, v1.0.0 (Release)
 - ……
 
 ## 🙏 感谢
