@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-01-25`，共 `5008` 款游戏。
+最后更新时间 `2025-01-27`，共 `5015` 款游戏。
+- Flashing Lights: Police, Firefighting, Emergency Services Simulator – Chief Edition, Build 180125-1 + 5 DLCs
+- Sword of the Necromancer: Resurrection, v1.0.3
+- Mark of the Deep
+- Rock Star Life Simulator
+- Pine: A Story of Loss – Collector’s Edition, v1.4.12853 + Bonus Content
+- FINAL FANTASY VII REBIRTH: Digital Deluxe Edition + All DLCs + Bonus Content + Unlocker + Fixes (Monkey Repack)
+- Magenta Horizon: Neverending Harvest – v1.0.1
 - Mika and The Witch’s Mountain
 - None Shall Intrude – v1.0.01
 - Cyber Manhunt 2: New World – The Hacking Simulator, v1.0.7
-- Tactical Breach Wizards – v2025-01-17-Mango + 2 DLCs
-- Rally Mechanic Simulator – v1.0.165
-- Across The Obelisk: Complete Bundle – v1.5.0 + 9 DLCs
-- Blacksmith Simulator – v1.0.0.0 (Release)
-- Steel Division 2: Total Conflict Edition – v143305 + 35 DLCs
-- DRAGON BALL: Sparking! ZERO, v2008.007.003.005.004 + 9 DLCs + Multiplayer + Windows 7 Fix
-- Primeval
 - ……
 
 ## 🙏 感谢
