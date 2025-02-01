@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-01-27`，共 `5015` 款游戏。
-- Flashing Lights: Police, Firefighting, Emergency Services Simulator – Chief Edition, Build 180125-1 + 5 DLCs
-- Sword of the Necromancer: Resurrection, v1.0.3
-- Mark of the Deep
-- Rock Star Life Simulator
-- Pine: A Story of Loss – Collector’s Edition, v1.4.12853 + Bonus Content
-- FINAL FANTASY VII REBIRTH: Digital Deluxe Edition + All DLCs + Bonus Content + Unlocker + Fixes (Monkey Repack)
-- Magenta Horizon: Neverending Harvest – v1.0.1
-- Mika and The Witch’s Mountain
-- None Shall Intrude – v1.0.01
-- Cyber Manhunt 2: New World – The Hacking Simulator, v1.0.7
+最后更新时间 `2025-02-01`，共 `5030` 款游戏。
+- DeTechtive 2112 – v1.0
+- Cryptical Path
+- The Stone of Madness
+- somnus
+- The End of the Sun – v1.0.3
+- Princess&Blade – v0.95.6
+- UBOAT – v2025.1 Patch 5
+- Learning Factory: Curious Mind Edition, v1.0.0.546 Release + Bonus Content
+- Battle Realms: Zen Edition – v1.59.1 (Release)
+- Suicide Squad: Kill the Justice League, v1.0.6.0 + Offline DLCs + CrackFix/EAC Bypass + Bonus Soundtrack
 - ……
 
 ## 🙏 感谢
