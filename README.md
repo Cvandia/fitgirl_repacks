@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-02-01`，共 `5030` 款游戏。
+最后更新时间 `2025-02-03`，共 `5042` 款游戏。
+- Techno Banter
+- Coridden – v1.0.1
+- ReSetna – v1.0.0
+- Foundation: Supporter Edition – v1.10.2.0 + 2 DLCs/Bonuses
+- Deliver Us Mars: Deluxe Edition, v2.0.1 (Denuvoless) + Bonus Soundtrack
+- Marvel’s Spider-Man 2: Digital Deluxe Edition, v1.130.1.0/v1.131.0.0 + 2 DLCs + Unlocker + Bonus Soundtrack
 - DeTechtive 2112 – v1.0
 - Cryptical Path
-- The Stone of Madness
-- somnus
-- The End of the Sun – v1.0.3
-- Princess&Blade – v0.95.6
-- UBOAT – v2025.1 Patch 5
-- Learning Factory: Curious Mind Edition, v1.0.0.546 Release + Bonus Content
-- Battle Realms: Zen Edition – v1.59.1 (Release)
-- Suicide Squad: Kill the Justice League, v1.0.6.0 + Offline DLCs + CrackFix/EAC Bypass + Bonus Soundtrack
+- Road Maintenance Simulator 2: Winter Services – v1.0.0.4213
+- Enotria: The Last Song – v1.007.28161
 - ……
 
 ## 🙏 感谢
