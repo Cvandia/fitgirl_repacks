@@ -15,7 +15,10 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-02-03`，共 `5042` 款游戏。
+最后更新时间 `2025-02-05`，共 `5050` 款游戏。
+- The Sims 2 Legacy Collection – v1.0.0.72 + All DLCs
+- The Sims Legacy Collection – v1.0.0.70 + All DLCs
+- Poppy Playtime, Build 17177248 + All 4 Chapters
 - Techno Banter
 - Coridden – v1.0.1
 - ReSetna – v1.0.0
@@ -23,9 +26,6 @@
 - Deliver Us Mars: Deluxe Edition, v2.0.1 (Denuvoless) + Bonus Soundtrack
 - Marvel’s Spider-Man 2: Digital Deluxe Edition, v1.130.1.0/v1.131.0.0 + 2 DLCs + Unlocker + Bonus Soundtrack
 - DeTechtive 2112 – v1.0
-- Cryptical Path
-- Road Maintenance Simulator 2: Winter Services – v1.0.0.4213
-- Enotria: The Last Song – v1.007.28161
 - ……
 
 ## 🙏 感谢
