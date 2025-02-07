@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-02-05`，共 `5050` 款游戏。
-- The Sims 2 Legacy Collection – v1.0.0.72 + All DLCs
-- The Sims Legacy Collection – v1.0.0.70 + All DLCs
-- Poppy Playtime, Build 17177248 + All 4 Chapters
-- Techno Banter
-- Coridden – v1.0.1
-- ReSetna – v1.0.0
-- Foundation: Supporter Edition – v1.10.2.0 + 2 DLCs/Bonuses
-- Deliver Us Mars: Deluxe Edition, v2.0.1 (Denuvoless) + Bonus Soundtrack
-- Marvel’s Spider-Man 2: Digital Deluxe Edition, v1.130.1.0/v1.131.0.0 + 2 DLCs + Unlocker + Bonus Soundtrack
-- DeTechtive 2112 – v1.0
+最后更新时间 `2025-02-07`，共 `5057` 款游戏。
+- Runa & The Chaikurú Legacy
+- KAMiBAKO – Mythology of Cube –
+- Grief like a stray dog – Build 17201665
+- Exogate Initiative – v1.0.0.97bd92b
+- Kingdom Come: Deliverance II, v1.1.1-11377_release_1_1 + 4 DLCs/Bonuses
+- Teenage Mutant Ninja Turtles: Splintered Fate – Digital Deluxe Edition, v1.7.0 + DLC + Bonus Content
+- THE MUTE HOUSE – v1.0.39
+- Backyard Boxing – v1.1.3
+- Eyes of War – Build 0.3 (v1.0 Release)
+- FAIRY TAIL 2 – v1.2.0.0 + 11 DLCs
 - ……
 
 ## 🙏 感谢
