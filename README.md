@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-02-09`，共 `5065` 款游戏。
-- UNDERWARD
-- Ambulance Life: A Paramedic Simulator – v1.1.1
-- Immortals of Aveum, v1.0.6.6 (Build 226.971, Denuvoless)
-- Keep Driving – v1.0.0.1
-- World of Outlaws: Dirt Racing 24 Gold Edition
-- Dungeon Defenders: Ultimate Collection – v10.1.0 + 38 DLCs
-- IN THE FACADE WE TRUST + Main Soundtrack SUPPORTER PACK
-- UnderRail Complete – v1.2.0.21 + 2 DLCs
-- Hired 2 Die – v1.0.0.2
-- Runa & The Chaikurú Legacy
+最后更新时间 `2025-02-11`，共 `5072` 款游戏。
+- Night Slashers: Remake – v1.0.4
+- Dream Cage – v1.1.0
+- Let’s Cook Together 2
+- Instruments of Destruction – v1.11c
+- Fresh Start Cleaning Simulator – v0.1.K_1404
+- Astral Throne: Supporter Bundle – v1.0.0 + Bonus Content
+- While Waiting
+- Rift of the NecroDancer – v1.0.1 + 2 DLCs/Bonuses
+- Vampire Therapist – Build 17268945 + Couples Therapy DLC
+- Blood Bar Tycoon + 2 DLCs/Bonuses
 - ……
 
 ## 🙏 感谢
