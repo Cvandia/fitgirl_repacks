@@ -15,7 +15,8 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-02-11`，共 `5072` 款游戏。
+最后更新时间 `2025-02-13`，共 `5078` 款游戏。
+- The Backrooms: Mass Extinction – v1.2.2 Beta (Final Release)
 - Night Slashers: Remake – v1.0.4
 - Dream Cage – v1.1.0
 - Let’s Cook Together 2
@@ -24,8 +25,7 @@
 - Astral Throne: Supporter Bundle – v1.0.0 + Bonus Content
 - While Waiting
 - Rift of the NecroDancer – v1.0.1 + 2 DLCs/Bonuses
-- Vampire Therapist – Build 17268945 + Couples Therapy DLC
-- Blood Bar Tycoon + 2 DLCs/Bonuses
+- Skelethrone: The Chronicles of Ericona – v1.4.6.0
 - ……
 
 ## 🙏 感谢
