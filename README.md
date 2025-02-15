@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-02-13`，共 `5078` 款游戏。
-- The Backrooms: Mass Extinction – v1.2.2 Beta (Final Release)
-- Night Slashers: Remake – v1.0.4
-- Dream Cage – v1.1.0
-- Let’s Cook Together 2
-- Instruments of Destruction – v1.11c
-- Fresh Start Cleaning Simulator – v0.1.K_1404
-- Astral Throne: Supporter Bundle – v1.0.0 + Bonus Content
-- While Waiting
-- Rift of the NecroDancer – v1.0.1 + 2 DLCs/Bonuses
+最后更新时间 `2025-02-15`，共 `5086` 款游戏。
+- Arctic Motel Simulator
+- Mind Over Magic – v515-1396-adfa0d31 (v1.0 Release)
+- Astral Ascent – v1.10.1 + DLC + Bonus Content
 - Skelethrone: The Chronicles of Ericona – v1.4.6.0
+- Tales Beyond The Tomb: The Last Vigil
+- Door Kickers 2: Task Force North – v1.00 (Release)
+- Renaissance Kingdom Wars: Deluxe Edition + Bonus Soundtrack
+- Deep Rock Galactic: Dwarven Legacy, v1.39.110917.0 + 12 DLCs/Bonuses
+- Avowed: Premium Edition – v1.2.5.0 + 2 DLCs/Bonuses
+- Benign Land
 - ……
 
 ## 🙏 感谢
