@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-02-15`，共 `5086` 款游戏。
+最后更新时间 `2025-02-17`，共 `5096` 款游戏。
+- Shujinkou: Super Deluxe Edition, v1.25 + 4 DLCs/Bonuses
+- Beyond Blue – v1.7.17798
+- Achilles: Legends Untold – Rev.35426 + Bonus Content
+- Panelka
+- Invertigo
+- Shadowgate 2 – v1.0.1
+- DeathOmen
+- Garden Life: A Cozy Simulator – v1272@67558 + 2 DLCs
 - Arctic Motel Simulator
 - Mind Over Magic – v515-1396-adfa0d31 (v1.0 Release)
-- Astral Ascent – v1.10.1 + DLC + Bonus Content
-- Skelethrone: The Chronicles of Ericona – v1.4.6.0
-- Tales Beyond The Tomb: The Last Vigil
-- Door Kickers 2: Task Force North – v1.00 (Release)
-- Renaissance Kingdom Wars: Deluxe Edition + Bonus Soundtrack
-- Deep Rock Galactic: Dwarven Legacy, v1.39.110917.0 + 12 DLCs/Bonuses
-- Avowed: Premium Edition – v1.2.5.0 + 2 DLCs/Bonuses
-- Benign Land
 - ……
 
 ## 🙏 感谢
