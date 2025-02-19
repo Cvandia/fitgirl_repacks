@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-02-17`，共 `5096` 款游戏。
-- Shujinkou: Super Deluxe Edition, v1.25 + 4 DLCs/Bonuses
-- Beyond Blue – v1.7.17798
-- Achilles: Legends Untold – Rev.35426 + Bonus Content
-- Panelka
-- Invertigo
-- Shadowgate 2 – v1.0.1
-- DeathOmen
-- Garden Life: A Cozy Simulator – v1272@67558 + 2 DLCs
-- Arctic Motel Simulator
-- Mind Over Magic – v515-1396-adfa0d31 (v1.0 Release)
+最后更新时间 `2025-02-19`，共 `5101` 款游戏。
+- Before They Wake
+- Klobgniak – v0.3.0.0
+- Smoking Gun
+- Ranch Simulator: Build, Farm, Hunt – v1.152s + 2 DLCs/Bonuses
+- Galactic Simulator – v0.2.1
+- Flash Doll
+- Artifice: War Tactics – v1.0.8
+- Commando Hero 2: First Blood
+- Shadow of the Ninja: Reborn – Deluxe Pack + Bonus Soundtrack
+- Mini Airways – v0.11.3f1
 - ……
 
 ## 🙏 感谢
