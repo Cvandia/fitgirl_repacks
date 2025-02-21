@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-02-19`，共 `5101` 款游戏。
-- Before They Wake
-- Klobgniak – v0.3.0.0
-- Smoking Gun
-- Ranch Simulator: Build, Farm, Hunt – v1.152s + 2 DLCs/Bonuses
-- Galactic Simulator – v0.2.1
-- Flash Doll
-- Artifice: War Tactics – v1.0.8
-- Commando Hero 2: First Blood
-- Shadow of the Ninja: Reborn – Deluxe Pack + Bonus Soundtrack
-- Mini Airways – v0.11.3f1
+最后更新时间 `2025-02-21`，共 `5110` 款游戏。
+- Laundromat Simulator
+- THE KING OF FIGHTERS XIII GLOBAL MATCH
+- UNDER NIGHT IN-BIRTH II Sys:Celes, v1.21 + 4 DLCs
+- Microtopia – v1.0.4
+- Soulbind: Tales of the Underworld
+- Wéko The Mask Gatherer
+- Gym Nights
+- Smells Like a Mushroom
+- Headquarters: World War II – Complete, v1.02.01 + 3 DLCs/Bonuses
+- Kitten Burst – Game + Soundtrack Bundle, v4.04c + Bonus OST
 - ……
 
 ## 🙏 感谢
