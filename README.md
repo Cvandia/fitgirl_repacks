@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-02-23`，共 `5118` 款游戏。
-- Riders Republic – v1.26.0 (Offline Zen Mode Only)
-- Matchbox Driving Adventures – v1.08
-- The Last FARMER – v1.0.11
-- X4: Foundations – Community of Planets Collector’s Edition 2024, v7.50 (553255) + 16 DLCs/Bonuses
-- Panic in the Woods – v1.0.1
-- Feudal Baron: King’s Land – v1.0.20241220.698
-- Piczle Cross: Rune Factory – v1.0 (050225)
-- Fight School Simulator
-- Songs of Silence: Deluxe Edition, v1.2.0-d.8104 + 3 DLCs/Bonuses
-- Laundromat Simulator
+最后更新时间 `2025-02-27`，共 `5134` 款游戏。
+- Terror of the Seven Seas – v1.12
+- Monospaced Lovers, v1.0.1.1 + Bonus Soundtrack
+- The Gravedigger – v1.0.9
+- Rogue Samurai
+- Tech Store Simulator – v1.5
+- The Little Brave
+- Visions of Mana: Digital Deluxe Edition, v1.0.3.0 (Denuvoless) + 6 DLCs
+- Just Xiangqi – v1.1.0
+- Vampire Survivors: Game + All DLC + OST Bundle, v1.12.108 + 6 DLCs/Bonuses
+- Monster High: Skulltimate Secrets – v1.12
 - ……
 
 ## 🙏 感谢
