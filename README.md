@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-03-01`，共 `5143` 款游戏。
-- Mortal Darkness
-- Last Half of Darkness: 35th Anniversary Edition – v1.12
-- Смута / Smuta / 1612 – v2.1.0 + Pre-order DLC
-- Nightfall Comes – v1.0.0 (Release)
-- Expeditions: A MudRunner Game, Season 2 Update (Build 17182680) + 5 DLCs
-- Train Traffic Manager
-- Granblue Fantasy Versus: Rising, v2.01 + 35 DLCs/Bonuses + Multiplayer
-- Earthquake: Margarita School
-- The Test: Reality Check + Bonus Soundtrack
-- Railway Empire 2: Deluxe Edition – v1.6.0.63057 + 9 DLCs/Bonuses
+最后更新时间 `2025-03-05`，共 `5158` 款游戏。
+- CrossOver: Roll For Initiative
+- Ninja Slayer: Neo-Saitama in Flames
+- Gone Rogue: Supporter Edition – v1.18 + Bonus Soundtrack
+- UNCURSED
+- Old World: Complete – v1.0.76630 + 6 DLCs
+- Speedollama – Game, Art and Music, v1.3.0 + Bonus Content
+- Warbringers of Angrul
+- Life is Strange: Double Exposure, v1.0.3 + Sudachi/Torzu Switch Emulators
+- Haydee 3 – v1.0.20.1523
+- Rising Sun: Iron Aces + Bonus Soundtrack
 - ……
 
 ## 🙏 感谢
