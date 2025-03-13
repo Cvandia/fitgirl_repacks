@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-03-05`，共 `5158` 款游戏。
-- CrossOver: Roll For Initiative
-- Ninja Slayer: Neo-Saitama in Flames
-- Gone Rogue: Supporter Edition – v1.18 + Bonus Soundtrack
-- UNCURSED
-- Old World: Complete – v1.0.76630 + 6 DLCs
-- Speedollama – Game, Art and Music, v1.3.0 + Bonus Content
-- Warbringers of Angrul
-- Life is Strange: Double Exposure, v1.0.3 + Sudachi/Torzu Switch Emulators
-- Haydee 3 – v1.0.20.1523
-- Rising Sun: Iron Aces + Bonus Soundtrack
+最后更新时间 `2025-03-13`，共 `5178` 款游戏。
+- Wanderstop – Build #15399
+- Rise of the Ronin, v1.09 + DLC + Bonus Soundtrack
+- CONTROL: Ultimate Edition – v1.30 (517.915) + All DLCs
+- Hauntsville
+- Zombieville USA 3D
+- Eldrador Creatures Shadowfall – v20250131
+- Risk of Rain 2 – v1.3.7 #438 + 5 DLCs/Bonuses
+- Immortal Hunters – v0.1.1655.fb15f73 (v1.0 Release)
+- My Life: Zoo Vet – v1.2.0
+- One Lonely Outpost – v0.9.11a022-c4afe (v1.0 Release) + Bonus Soundtrack
 - ……
 
 ## 🙏 感谢
