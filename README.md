@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-03-13`，共 `5178` 款游戏。
-- Wanderstop – Build #15399
-- Rise of the Ronin, v1.09 + DLC + Bonus Soundtrack
-- CONTROL: Ultimate Edition – v1.30 (517.915) + All DLCs
-- Hauntsville
-- Zombieville USA 3D
-- Eldrador Creatures Shadowfall – v20250131
-- Risk of Rain 2 – v1.3.7 #438 + 5 DLCs/Bonuses
-- Immortal Hunters – v0.1.1655.fb15f73 (v1.0 Release)
-- My Life: Zoo Vet – v1.2.0
-- One Lonely Outpost – v0.9.11a022-c4afe (v1.0 Release) + Bonus Soundtrack
+最后更新时间 `2025-03-17`，共 `5202` 款游戏。
+- Potion Shop Simulator
+- Dancing Pandas: Ranger’s Path – v4.34H
+- Siberian Way – v1.1.2
+- Out of the Park Baseball 26 – v26.1 Build 39
+- World Racing 2: Champion Edition – v1.5.3
+- Ale & Tale Tavern – v1.3.21 + Bonus Soundtrack
+- Ethereal Abyss – v1.1.0
+- Oasis Mission: Colony Sim – v1.0 (Release)
+- Sugardew Island: Your Cozy Farm Shop – Supporter Bundle, v3781 + DLC
+- The Phantom – v1.013
 - ……
 
 ## 🙏 感谢
