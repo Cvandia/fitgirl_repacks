@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-03-17`，共 `5202` 款游戏。
+最后更新时间 `2025-03-19`，共 `5212` 款游戏。
+- Sonic X Shadow Generations – v1.01 + 4 DLCs + Sudachi Switch Emulator
+- Corner Kitchen: Fast Food Simulator – v1.1.1
+- Squirrel with a Gun – v1.5.10.0
+- Candy & Toys Store Simulator
+- Beyond Galaxyland – v1.0.0.6/v1.0.2.2 + Bonus Soundtrack
+- Harvest Days: My Dream Farm – Digital Supporter Edition + DLC/Bonus Content
+- Shark Siege: Together Survival
+- Monster Girls and the Mysterious Adventure – Remastered Edition, v1.3.14200
+- 3D Escape Room: Detective Story – v1.1.5
 - Potion Shop Simulator
-- Dancing Pandas: Ranger’s Path – v4.34H
-- Siberian Way – v1.1.2
-- Out of the Park Baseball 26 – v26.1 Build 39
-- World Racing 2: Champion Edition – v1.5.3
-- Ale & Tale Tavern – v1.3.21 + Bonus Soundtrack
-- Ethereal Abyss – v1.1.0
-- Oasis Mission: Colony Sim – v1.0 (Release)
-- Sugardew Island: Your Cozy Farm Shop – Supporter Bundle, v3781 + DLC
-- The Phantom – v1.013
 - ……
 
 ## 🙏 感谢
