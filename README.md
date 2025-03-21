@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-03-19`，共 `5212` 款游戏。
-- Sonic X Shadow Generations – v1.01 + 4 DLCs + Sudachi Switch Emulator
-- Corner Kitchen: Fast Food Simulator – v1.1.1
-- Squirrel with a Gun – v1.5.10.0
-- Candy & Toys Store Simulator
-- Beyond Galaxyland – v1.0.0.6/v1.0.2.2 + Bonus Soundtrack
+最后更新时间 `2025-03-21`，共 `5219` 款游戏。
+- Natsu-Mon: 20th Century Summer Kid + Broadcast Over Sunset DLC
+- Sledders – v1.0 (Release)
+- Aquatic Store Simulator
+- Romancing SaGa 2: Revenge of the Seven, v1.0.2 + 4 Switch Emulators
+- The Invincible: Deluxe Edition, v1.6 (v44.494 CL_54877) + Bonus Content + Windows 7 Fix
+- Quarterstaff – v1.0.0-5db267
+- Cities: Skylines II – v1.2.5f1 + 16 DLCs + Bonus OSTs
 - Harvest Days: My Dream Farm – Digital Supporter Edition + DLC/Bonus Content
 - Shark Siege: Together Survival
 - Monster Girls and the Mysterious Adventure – Remastered Edition, v1.3.14200
-- 3D Escape Room: Detective Story – v1.1.5
-- Potion Shop Simulator
 - ……
 
 ## 🙏 感谢
