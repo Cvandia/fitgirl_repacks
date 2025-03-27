@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-03-23`，共 `5226` 款游戏。
-- Wonder Ball – v1.03
-- BLEACH: Rebirth of Souls, v1.03 (Build 17746622 + 17819379) + 6 DLCs
-- KAISERPUNK: Supporter Edition – v1.00.002 + DLC + Bonus OST + DLC Fix
-- Poop Killer: Flush or Die
-- Cataclismo – v1.0.0.33.199
-- Avium – Build 17756139
-- Death Stream
-- Sonic X Shadow Generations – v1.01 + 4 DLCs + Sudachi Switch Emulator
-- Corner Kitchen: Fast Food Simulator – v1.1.1
-- Squirrel with a Gun – v1.5.10.0
+最后更新时间 `2025-03-27`，共 `5240` 款游戏。
+- Mortal Kombat 1: Khaos Reigns Kollection – v1.28.0 + All DLCs + Ryujinx/Sudachi Switch Emulators
+- Dark Deity 2: Deluxe Edition – v1.0.1 + Bonus Soundtrack
+- Device Doctor Simulator 2024 – v1.01
+- Empires of the Undergrowth: Complete – v1.101071 + 2 DLCs/Bonuses
+- Redemption of Liuyin – v0.1
+- GUILTY GEAR -STRIVE-: Blazing Edition, v1.44 + 31 DLCs/Bonuses
+- Suzukuri Dungeon: Karin in the Mountain – v1.02
+- Curse of the Sea Rats – v1.5.7 + Bonus Soundtrack
+- IZON.
+- Human: Fall Flat – v1092002 (Candyland Update) + Bonus OST
 - ……
 
 ## 🙏 感谢
