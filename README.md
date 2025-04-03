@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-03-27`，共 `5240` 款游戏。
-- Mortal Kombat 1: Khaos Reigns Kollection – v1.28.0 + All DLCs + Ryujinx/Sudachi Switch Emulators
-- Dark Deity 2: Deluxe Edition – v1.0.1 + Bonus Soundtrack
-- Device Doctor Simulator 2024 – v1.01
-- Empires of the Undergrowth: Complete – v1.101071 + 2 DLCs/Bonuses
-- Redemption of Liuyin – v0.1
-- GUILTY GEAR -STRIVE-: Blazing Edition, v1.44 + 31 DLCs/Bonuses
-- Suzukuri Dungeon: Karin in the Mountain – v1.02
-- Curse of the Sea Rats – v1.5.7 + Bonus Soundtrack
-- IZON.
-- Human: Fall Flat – v1092002 (Candyland Update) + Bonus OST
+最后更新时间 `2025-04-03`，共 `5268` 款游戏。
+- Train Yard Builder
+- Food GO! Simulator
+- Within the Cosmos
+- Deep Inside
+- Animal Simulator
+- I Had a Plan! – v1.0.3
+- Ship Graveyard Simulator 2, v13195 + 5 DLCs
+- Lurking Danger
+- THEMIS
+- Depersonalization – v2.0.42 (0388)
 - ……
 
 ## 🙏 感谢
