@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-04-03`，共 `5268` 款游戏。
-- Train Yard Builder
-- Food GO! Simulator
-- Within the Cosmos
-- Deep Inside
-- Animal Simulator
-- I Had a Plan! – v1.0.3
-- Ship Graveyard Simulator 2, v13195 + 5 DLCs
-- Lurking Danger
-- THEMIS
-- Depersonalization – v2.0.42 (0388)
+最后更新时间 `2025-04-09`，共 `5292` 款游戏。
+- Inspector Schmidt: The Ebbing
+- Leila: Supporter Edition + Bonus DLC
+- Imagine Earth: Green Planet Bundle , v1.19 + 2 DLCs/Bonuses
+- Voidborn – v1.0.0 (Release)
+- TACTICAL BANDITS – v1.00.16
+- BLACKSHARD
+- Petit Island – v1.0.0.5
+- Movies Tycoon – v2.1.1 + Dawn of Cinema DLC
+- Rogue Loops – v1.0.12
+- Dune: Imperium – v2.2.8.1190 + Rise Of Ix DLC
 - ……
 
 ## 🙏 感谢
