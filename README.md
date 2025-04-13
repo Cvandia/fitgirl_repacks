@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-04-09`，共 `5292` 款游戏。
-- Inspector Schmidt: The Ebbing
-- Leila: Supporter Edition + Bonus DLC
-- Imagine Earth: Green Planet Bundle , v1.19 + 2 DLCs/Bonuses
-- Voidborn – v1.0.0 (Release)
-- TACTICAL BANDITS – v1.00.16
-- BLACKSHARD
-- Petit Island – v1.0.0.5
-- Movies Tycoon – v2.1.1 + Dawn of Cinema DLC
-- Rogue Loops – v1.0.12
-- Dune: Imperium – v2.2.8.1190 + Rise Of Ix DLC
+最后更新时间 `2025-04-13`，共 `5308` 款游戏。
+- Sandwalkers – v2.0.0 (Release) + Bonus Soundtrack
+- Veins of DARKNESS – Fix 2.0
+- Spin Rhythm XD – v1.5.0 + 4 DLCs/Bonuses
+- Cinemaster: Cinema Simulator – v1.6
+- Commandos: Origins – Deluxe Edition & Classified Archives, v1.0.0.74101 + 3 DLCs/Bonuses
+- Skulltide – v1.0 (Release)
+- Funko Fusion – v2.6.3.152571 + 27 DLCs
+- The Stalked 2
+- Axon TD: Uprising – v1.1.4 + Bonus Soundtrack
+- All in Abyss: Judge the Fake – Digital Deluxe Edition + 3 DLCs/Bonuses
 - ……
 
 ## 🙏 感谢
