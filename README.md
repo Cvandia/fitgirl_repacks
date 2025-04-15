@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-04-13`，共 `5308` 款游戏。
-- Sandwalkers – v2.0.0 (Release) + Bonus Soundtrack
-- Veins of DARKNESS – Fix 2.0
-- Spin Rhythm XD – v1.5.0 + 4 DLCs/Bonuses
-- Cinemaster: Cinema Simulator – v1.6
-- Commandos: Origins – Deluxe Edition & Classified Archives, v1.0.0.74101 + 3 DLCs/Bonuses
-- Skulltide – v1.0 (Release)
-- Funko Fusion – v2.6.3.152571 + 27 DLCs
-- The Stalked 2
-- Axon TD: Uprising – v1.1.4 + Bonus Soundtrack
-- All in Abyss: Judge the Fake – Digital Deluxe Edition + 3 DLCs/Bonuses
+最后更新时间 `2025-04-15`，共 `5316` 款游戏。
+- SNOW BROS. 2 SPECIAL
+- Monaco 2 – v1.0.0+18962
+- The Talos Principle: Reawakened – v729654
+- Stop the Blight: Deluxe Edition – v1.0.0 + Bonus Soundtrack
+- Cassette Beasts: Complete Edition – v1.8.0 + 7 DLCs/Bonuses
+- Locomoto – v1.0.1-114-15996
+- Monster Energy Supercross 25: The Official Video Game + DLC
+- Blue Prince
+- Detective – The Test
+- Pub Toilet Simulator 25 – v1.01
 - ……
 
 ## 🙏 感谢
