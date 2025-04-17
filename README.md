@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-04-15`，共 `5316` 款游戏。
-- SNOW BROS. 2 SPECIAL
-- Monaco 2 – v1.0.0+18962
-- The Talos Principle: Reawakened – v729654
-- Stop the Blight: Deluxe Edition – v1.0.0 + Bonus Soundtrack
-- Cassette Beasts: Complete Edition – v1.8.0 + 7 DLCs/Bonuses
-- Locomoto – v1.0.1-114-15996
-- Monster Energy Supercross 25: The Official Video Game + DLC
-- Blue Prince
-- Detective – The Test
-- Pub Toilet Simulator 25 – v1.01
+最后更新时间 `2025-04-17`，共 `5319` 款游戏。
+- Dark Envoy: Director’s Cut – Supporter Edition, v1.6.1.73592 + Bonus Content
+- Chains of Freedom – v1.0.1 (44)
+- Nikoderiko: The Magical World – Director’s Cut, Build 18097949 (Denuvoless)
+- Barotrauma: Supporter Bundle – v1.8.6.2 + 2 DLCs/Bonuses
+- Sweep
+- Big Buck Hunter: Ultimate Trophy
+- Vampire Hunters – v1.3.0.CL11455
+- Single Espresso – v1.0.0.1111.0425
+- PROGRESS ORDERS – v1.0.1
+- Axon TD: Uprising – v1.1.4 + Bonus Soundtrack
 - ……
 
 ## 🙏 感谢
