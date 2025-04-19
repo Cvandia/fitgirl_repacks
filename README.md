@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-04-17`，共 `5319` 款游戏。
-- Dark Envoy: Director’s Cut – Supporter Edition, v1.6.1.73592 + Bonus Content
-- Chains of Freedom – v1.0.1 (44)
-- Nikoderiko: The Magical World – Director’s Cut, Build 18097949 (Denuvoless)
+最后更新时间 `2025-04-19`，共 `5327` 款游戏。
+- Baldur’s Gate 3: Digital Deluxe Edition – v4.1.1.6758295 (Patch 8, “The Final” Patch) + DLC/Bonus Content + Multiplayer
+- Coridden: Deluxe Edition – v1.2.3 + 3 DLCs
+- Mandragora: Whispers of the Witch Tree – Digital Deluxe Edition, v1.2.4.2147 + 9 DLCs/Bonuses
+- Storage Guys – v1.0.2
+- Lab Rat
+- ArkCraft: The Rebirth of the World
 - Barotrauma: Supporter Bundle – v1.8.6.2 + 2 DLCs/Bonuses
 - Sweep
 - Big Buck Hunter: Ultimate Trophy
 - Vampire Hunters – v1.3.0.CL11455
-- Single Espresso – v1.0.0.1111.0425
-- PROGRESS ORDERS – v1.0.1
-- Axon TD: Uprising – v1.1.4 + Bonus Soundtrack
 - ……
 
 ## 🙏 感谢
