@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-04-19`，共 `5327` 款游戏。
-- Baldur’s Gate 3: Digital Deluxe Edition – v4.1.1.6758295 (Patch 8, “The Final” Patch) + DLC/Bonus Content + Multiplayer
-- Coridden: Deluxe Edition – v1.2.3 + 3 DLCs
-- Mandragora: Whispers of the Witch Tree – Digital Deluxe Edition, v1.2.4.2147 + 9 DLCs/Bonuses
-- Storage Guys – v1.0.2
-- Lab Rat
-- ArkCraft: The Rebirth of the World
-- Barotrauma: Supporter Bundle – v1.8.6.2 + 2 DLCs/Bonuses
-- Sweep
-- Big Buck Hunter: Ultimate Trophy
-- Vampire Hunters – v1.3.0.CL11455
+最后更新时间 `2025-04-21`，共 `5341` 款游戏。
+- Pax Augusta
+- Vivat Slovakia – v1.0b12
+- Creepy Shift: House For Sale
+- Block Fortress 2
+- Three Kingdoms: The Last Warlord – v1.0.4.4026 + 8 DLCs
+- Medieval Blacksmith – v1.6.0
+- XENOBREAKERS: Classic Tower Defense
+- Viscerafest
+- LUNAR Remastered Collection
+- Soulslinger: Envoy of Death – v1.0 (Release)
 - ……
 
 ## 🙏 感谢
