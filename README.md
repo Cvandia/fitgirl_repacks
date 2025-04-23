@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-04-21`，共 `5341` 款游戏。
-- Pax Augusta
-- Vivat Slovakia – v1.0b12
-- Creepy Shift: House For Sale
-- Block Fortress 2
-- Three Kingdoms: The Last Warlord – v1.0.4.4026 + 8 DLCs
-- Medieval Blacksmith – v1.6.0
+最后更新时间 `2025-04-23`，共 `5344` 款游戏。
+- Post Trauma – v1.04
+- Sacre Bleu – v1.0.10
+- Synergy: Supporter Edition – v1.0.2504161516 + Bonus Content DLC
+- Citadelum – v2.0.0.10 + Bonus Soundtrack
+- Rise of Rebellion
+- Short Snow
+- FATAL FURY: City of the Wolves, v1.1.2-72904 + DLC
+- Artisan TD – v1.310
+- Echoes of Yi: Samsara – v16.269
 - XENOBREAKERS: Classic Tower Defense
-- Viscerafest
-- LUNAR Remastered Collection
-- Soulslinger: Envoy of Death – v1.0 (Release)
 - ……
 
 ## 🙏 感谢
