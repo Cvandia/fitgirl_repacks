@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-04-29`，共 `5377` 款游戏。
-- Lollipop Chainsaw RePOP, v1.12 + Bonus Soundtracks + Windows 7 Fix
-- Shadow of the Night – v2.0
-- Lost Records: Bloom & Rage – Soundtrack Edition, v2.00.128634 (Tapes 1 & 2) + Bonus OST
-- Leafing Home
-- Do Not Press The Button (Or You’ll Delete The Multiverse)
-- Amerzone: The Explorer’s Legacy – Digital Deluxe Edition + Bonus Content
-- Survivalist: Invisible Strain – v242 (Release)
-- Days Gone – v1.08 + Broken Road DLC
-- Burial
-- CyberCorp – v1.00 (Release)
+最后更新时间 `2025-05-01`，共 `5388` 款游戏。
+- Pure Bubble Hockey
+- Mirthwood – v1.0.65p2
+- SubwaySim 2 – v2153
+- MX vs ATV Legends – v4.0 + 34 DLCs + Windows 7 Fix
+- Age of Reforging: The Freelands – v1a (Release)
+- Smalland: Survive the Wilds & Soundtracks, v1.7.1_15_e769f28c + Bonus OST
+- Realpolitiks 3: Earth and Beyond – v1.0 (Release)
+- Cavalry Girls – v2.0.2119 + Clover DLC
+- Human Fast Food
+- V Rising + DLC Bundle, v1.1.0.1-r91217-b18 + 8 DLCs/Bonuses + Dedicated Server + Windows 7 Fix
 - ……
 
 ## 🙏 感谢
