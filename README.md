@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-05-01`，共 `5388` 款游戏。
-- Pure Bubble Hockey
-- Mirthwood – v1.0.65p2
-- SubwaySim 2 – v2153
-- MX vs ATV Legends – v4.0 + 34 DLCs + Windows 7 Fix
-- Age of Reforging: The Freelands – v1a (Release)
-- Smalland: Survive the Wilds & Soundtracks, v1.7.1_15_e769f28c + Bonus OST
-- Realpolitiks 3: Earth and Beyond – v1.0 (Release)
-- Cavalry Girls – v2.0.2119 + Clover DLC
-- Human Fast Food
-- V Rising + DLC Bundle, v1.1.0.1-r91217-b18 + 8 DLCs/Bonuses + Dedicated Server + Windows 7 Fix
+最后更新时间 `2025-05-03`，共 `5398` 款游戏。
+- Subverse – v1.1.1
+- Skin Deep – v2025.04.27.1441 + Bonus Soundtrack
+- Moroi – v1.10
+- Stellar Outpost Commander
+- Astral Ascent – v2.0.0 (1063) + 4 DLCs/Bonuses
+- Haunted House Renovator – v1.3.190 + Bonus Soundtrack
+- KIBORG – v2025.04.30_15:00:05
+- MotoGP 25 + 2 DLCs
+- Badlands Crew – v30737 + Bonus Soundtrack
+- The Nameless: Slay Dragon – v2025.4.25
 - ……
 
 ## 🙏 感谢
