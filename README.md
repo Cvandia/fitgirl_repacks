@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-05-03`，共 `5398` 款游戏。
-- Subverse – v1.1.1
-- Skin Deep – v2025.04.27.1441 + Bonus Soundtrack
-- Moroi – v1.10
-- Stellar Outpost Commander
-- Astral Ascent – v2.0.0 (1063) + 4 DLCs/Bonuses
-- Haunted House Renovator – v1.3.190 + Bonus Soundtrack
-- KIBORG – v2025.04.30_15:00:05
-- MotoGP 25 + 2 DLCs
-- Badlands Crew – v30737 + Bonus Soundtrack
-- The Nameless: Slay Dragon – v2025.4.25
+最后更新时间 `2025-05-05`，共 `5403` 款游戏。
+- Out of Hands: Nightmare Collector’s Edition, v1.0.0#164 + Bonus DLC
+- Dimensionals – v1.0 (Release)
+- Onimusha: Warlords – Build 17777991
+- Herald: The Interactive Period Drama – Complete Edition, v2.0.1
+- Shimagami – v1.05 + 5 DLCs
+- Card Summoner
+- SimRail: The Railway Simulator, v30.04.2025 + 2 DLCs
+- Neptunia Riders VS Dogoos: Deluxe Edition + 3 DLCs/Bonuses
+- Necrophosis
+- MEMORIAPOLIS – v1.0.26
 - ……
 
 ## 🙏 感谢
