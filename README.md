@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-05-07`，共 `5409` 款游戏。
-- Worlds of Aria: Supporters Edition – v1.2.0 + 2 DLCs
-- Stickman Strikes: Conquer Fantasy World – v0.1.53
-- Aquarist: Full Experience Bundle – Build 18222695 + 3 DLCs
-- Vellum – v1.0 (Release)
-- despelote
-- Revenge of the Savage Planet: Cosmic Hoarder Edition, v2025-4-24-94552 + 6 DLCs/Bonuses
-- Shimagami – v1.05 + 5 DLCs
-- Card Summoner
-- SimRail: The Railway Simulator, v30.04.2025 + 2 DLCs
-- Neptunia Riders VS Dogoos: Deluxe Edition + 3 DLCs/Bonuses
+最后更新时间 `2025-05-09`，共 `5416` 款游戏。
+- The Monster Breeder – v1.0 (Release)
+- iDigging – v1.0.1
+- Slitterhead – v1.02.2-r00065826 (Denuvoless)
+- ICARUS: Complete the Set – v2.2.53.136221 + 16 DLCs
+- Age of Empires II: Definitive Edition – v101.103.12349.0 (#143421) + 13 DLCs/Bonuses + Windows 7 Fix
+- TROUBLESHOOTER: Complete Collection – Build 18318222 + 20 DLCs/Bonuses
+- Cybernetic Fault
+- Teardown: Deluxe Edition, v1.6.3 + 3 DLCs
+- Drop Duchy – v0.40.6
+- Rift of the NecroDancer: Ultimate Pack, v1.4.0 + 10 DLCs/Bonuses
 - ……
 
 ## 🙏 感谢
