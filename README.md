@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-05-11`，共 `5424` 款游戏。
-- Oil Refinery – The Simulation, v1.1.5
-- Hotel Owner Simulator – v1.0.5.5
-- Ultimate Fishing Simulator 2 – v1.25.05.09.3975
-- Liquor Store Simulator – v1.0.1
+最后更新时间 `2025-05-13`，共 `5441` 款游戏。
 - Cash Cleaner Simulator – v1.0.1 + Luxury Loadout DLC
 - Laundry & Supermarket Simulator / Laundry Simulator: PowerWash It! – v1.0.5
 - The Midnight Walk
 - Spirit of the North 2
-- Slitterhead – v1.02.2-r00065826 (Denuvoless)
-- ICARUS: Complete the Set – v2.2.53.136221 + 16 DLCs
+- Scourge of War – Remastered, Build 18258168 + 4 DLCs
+- Deck of Haunts – v1.01
+- Touhou Spell Carnival + DLC
+- Unblock – v1.0.1
+- ZEPHON: Supporter Edition – v1.1.0 + 4 DLCs/Bonuses
+- Space Engineers: Ultimate Edition – v1.206.030 b1 + 20 DLCs*
 - ……
 
 ## 🙏 感谢
