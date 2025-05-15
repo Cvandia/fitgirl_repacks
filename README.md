@@ -15,16 +15,16 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-05-13`，共 `5441` 款游戏。
-- Cash Cleaner Simulator – v1.0.1 + Luxury Loadout DLC
-- Laundry & Supermarket Simulator / Laundry Simulator: PowerWash It! – v1.0.5
-- The Midnight Walk
-- Spirit of the North 2
-- Scourge of War – Remastered, Build 18258168 + 4 DLCs
-- Deck of Haunts – v1.01
-- Touhou Spell Carnival + DLC
-- Unblock – v1.0.1
-- ZEPHON: Supporter Edition – v1.1.0 + 4 DLCs/Bonuses
+最后更新时间 `2025-05-15`，共 `5446` 款游戏。
+- EBOLA VILLAGE – Build 18363918
+- Crow Country – Build 18416687 + Bonus OST
+- The Sinking City Remastered: Deluxe Edition, Build 18222381 + 6 DLCs/Bonuses
+- MyPawnShop – v0.14.0
+- The Precinct – v1.4.18135
+- Wildermyth: Complete Edition – v1.16+559 + 3 DLCs/Bonuses
+- Yes, Your Grace 2: Snowfall – v1.0.10457
+- EVERSPACE 2: Complete Edition, v1.4.47960 + 6 DLCs/Bonuses
+- Darfall – v1.0.0 (Release)
 - Space Engineers: Ultimate Edition – v1.206.030 b1 + 20 DLCs*
 - ……
 
