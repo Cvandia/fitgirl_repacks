@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-05-15`，共 `5446` 款游戏。
-- EBOLA VILLAGE – Build 18363918
-- Crow Country – Build 18416687 + Bonus OST
-- The Sinking City Remastered: Deluxe Edition, Build 18222381 + 6 DLCs/Bonuses
-- MyPawnShop – v0.14.0
-- The Precinct – v1.4.18135
+最后更新时间 `2025-05-17`，共 `5451` 款游戏。
+- Kingdom Come: Deliverance II, v1.3 + 5 DLCs/Bonuses
+- Chill Town – v1.0.0 Build 63
+- BACKROOMS: LIMINAL ESCAPE
+- Field of Glory: Kingdoms – Complete Bundle, v1.0.6 + Rajas and Tribes DLC
+- Manivore
+- Cubic Odyssey – v1.0.1.15 + Multiplayer
+- Talon’s Blade – v1.01
 - Wildermyth: Complete Edition – v1.16+559 + 3 DLCs/Bonuses
 - Yes, Your Grace 2: Snowfall – v1.0.10457
 - EVERSPACE 2: Complete Edition, v1.4.47960 + 6 DLCs/Bonuses
-- Darfall – v1.0.0 (Release)
-- Space Engineers: Ultimate Edition – v1.206.030 b1 + 20 DLCs*
 - ……
 
 ## 🙏 感谢
