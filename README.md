@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-05-17`，共 `5451` 款游戏。
-- Kingdom Come: Deliverance II, v1.3 + 5 DLCs/Bonuses
-- Chill Town – v1.0.0 Build 63
-- BACKROOMS: LIMINAL ESCAPE
-- Field of Glory: Kingdoms – Complete Bundle, v1.0.6 + Rajas and Tribes DLC
-- Manivore
-- Cubic Odyssey – v1.0.1.15 + Multiplayer
-- Talon’s Blade – v1.01
-- Wildermyth: Complete Edition – v1.16+559 + 3 DLCs/Bonuses
-- Yes, Your Grace 2: Snowfall – v1.0.10457
-- EVERSPACE 2: Complete Edition, v1.4.47960 + 6 DLCs/Bonuses
+最后更新时间 `2025-05-19`，共 `5463` 款游戏。
+- Toy Shop Simulator – v1.0.0b6
+- Train Valley 2: Definitive Edition, Build #268 + 10 DLCs/Bonuses
+- Void Sails
+- Stone 4 Souls
+- Psychoscopy
+- Labyrinth of the Demon King
+- Last Vanguard – v1.0.1
+- Delivery INC – v1.8.3 + 3 DLCs
+- Preserve – v1.0.1
+- Yasha: Legends of the Demon Blade – v1.0.1-882
 - ……
 
 ## 🙏 感谢
