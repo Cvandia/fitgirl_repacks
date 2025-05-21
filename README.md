@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-05-19`，共 `5463` 款游戏。
-- Toy Shop Simulator – v1.0.0b6
-- Train Valley 2: Definitive Edition, Build #268 + 10 DLCs/Bonuses
-- Void Sails
-- Stone 4 Souls
-- Psychoscopy
-- Labyrinth of the Demon King
-- Last Vanguard – v1.0.1
-- Delivery INC – v1.8.3 + 3 DLCs
-- Preserve – v1.0.1
-- Yasha: Legends of the Demon Blade – v1.0.1-882
+最后更新时间 `2025-05-21`，共 `5473` 款游戏。
+- Tales & Tactics – v1.1.03
+- S.T.A.L.K.E.R.: Legends of the Zone Trilogy – Enhanced Edition, v1.7.0.12606
+- House Flipper 2, v1.8 + 2 DLCs + Windows 7 Fix
+- Kitty Collapse
+- Undying Flower
+- Cosmic Coliseum
+- Kulebra and the Souls of Limbo: Deluxe Edition, v1.0.13 + Bonus Soundtrack
+- Gloom: System Breach – v1.0.7
+- Tennis Manager 25 – v5.0.775
+- DreadOut Remastered Collection – v2.2.18f/v1.0.8
 - ……
 
 ## 🙏 感谢
