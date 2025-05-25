@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-05-23`，共 `5475` 款游戏。
+最后更新时间 `2025-05-25`，共 `5483` 款游戏。
+- Warhammer 40,000: Battlesector – Deluxe Edition, v1.5.257 (25003) + 10 DLCs/Bonuses
+- Teenage Mutant Ninja Turtles: Tactical Takedown – v25.21.b
+- Tainted Grail: The Fall of Avalon – Supporter Edition, v1.0 (Release) + DLC
+- DRAGON QUEST III HD-2D Remake, v1.2.0.0 (Denuvoless) + 5 DLCs
+- Blades of Fire
+- Survive the Fall: Ultimate Edition – v1.0.1.2364 + 3 DLCs/Bonuses
+- Bloodshed – v1.0.4 Release (Build #255)
+- Warhammer 40,000: Gladius – Complete Edition – v1.16.0 + 18 DLCs/Bonuses
+- ODDRooM – v1.0.0 (Release) + Bonus OST
 - Deliver At All Costs
-- Sea of Stars – v2.0.58728 + 3 DLCs/Bonuses
-- JDM: Japanese Drift Master – v1.1.36.1 + Supporter Pack DLC
-- FANTASIAN Neo Dimension – v1.0.2 (Denuvoless)
-- AI LIMIT: Deluxe Edition, v1.0.022 + 2 DLCs
-- Kathy Rain 2: Soothsayer – v1.0.2.4024
-- RoadCraft: Rebuild Edition – v0.1.D1.1.429865/430509 + 4 DLCs
-- Tactical Warfare
-- Tales & Tactics – v1.1.03
-- S.T.A.L.K.E.R.: Legends of the Zone Trilogy – Enhanced Edition, v1.7.0.12606
 - ……
 
 ## 🙏 感谢
