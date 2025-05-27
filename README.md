@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-05-25`，共 `5483` 款游戏。
+最后更新时间 `2025-05-27`，共 `5486` 款游戏。
+- Out of Sight – v1.0.36
+- MOBILE SUIT GUNDAM SEED BATTLE DESTINY REMASTERED, v1.0.1
+- Among The Whispers – Provocation
+- Worshippers of Cthulhu – v1.0.0.0 (Release)
+- Dragon Ball: Xenoverse 2 – Special Edition, v1.24.01 + 32 DLCs
+- Monster Train 2: Supporter Pack, Build #11691 + 2 Bonus DLCs
+- Castle of Secrets
 - Warhammer 40,000: Battlesector – Deluxe Edition, v1.5.257 (25003) + 10 DLCs/Bonuses
-- Teenage Mutant Ninja Turtles: Tactical Takedown – v25.21.b
-- Tainted Grail: The Fall of Avalon – Supporter Edition, v1.0 (Release) + DLC
-- DRAGON QUEST III HD-2D Remake, v1.2.0.0 (Denuvoless) + 5 DLCs
-- Blades of Fire
-- Survive the Fall: Ultimate Edition – v1.0.1.2364 + 3 DLCs/Bonuses
-- Bloodshed – v1.0.4 Release (Build #255)
-- Warhammer 40,000: Gladius – Complete Edition – v1.16.0 + 18 DLCs/Bonuses
-- ODDRooM – v1.0.0 (Release) + Bonus OST
 - Deliver At All Costs
+- Sea of Stars – v2.0.58728 + 3 DLCs/Bonuses
 - ……
 
 ## 🙏 感谢
