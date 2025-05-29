@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-05-27`，共 `5486` 款游戏。
+最后更新时间 `2025-05-29`，共 `5495` 款游戏。
+- Fuga: Melodies of Steel 3, v1.00 + Bonus Content
+- Trident’s Tale
+- Firefighting Simulator: The Squad – v1.0.41.0 (MS Store)
+- Workers & Resources: Soviet Republic – Complete, v1.1.0.7 + 5 DLCs/Bonuses
+- Call of Duty: Vanguard – v1.26 Campaign/Zombies + Bonus Soundtrack
+- Section 13 – v1.0 (Release)
+- Pacific Drive: Deluxe Edition – v1.9.3-CL30287 + 5 DLCs/Bonuses
 - Out of Sight – v1.0.36
 - MOBILE SUIT GUNDAM SEED BATTLE DESTINY REMASTERED, v1.0.1
 - Among The Whispers – Provocation
-- Worshippers of Cthulhu – v1.0.0.0 (Release)
-- Dragon Ball: Xenoverse 2 – Special Edition, v1.24.01 + 32 DLCs
-- Monster Train 2: Supporter Pack, Build #11691 + 2 Bonus DLCs
-- Castle of Secrets
-- Warhammer 40,000: Battlesector – Deluxe Edition, v1.5.257 (25003) + 10 DLCs/Bonuses
-- Deliver At All Costs
-- Sea of Stars – v2.0.58728 + 3 DLCs/Bonuses
 - ……
 
 ## 🙏 感谢
