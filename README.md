@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-05-31`，共 `5504` 款游戏。
-- Pieces of Me
-- Project Warlock II – v1.0.0.0
-- Power Sink + Bonus Soundtrack
-- The Golden Retreat – v1.0.1
-- ELDEN RING NIGHTREIGN: Deluxe Edition, v1.01/1.01.1 + 4 DLCs/Bonuses
-- Near-Mage: Deluxe Edition – v1.0.0b + 3 DLCs/Bonuses
-- Oddsparks: An Automation Adventure – Deluxe Edition, v1.0.S30597 + DLC
-- Zombie Cure Lab, v1.0.0 (Release) + Bonus Soundtrack
-- Gunsmith Simulator: Deluxe Edition, v1.3.10 + 3 DLCs/Bonuses
+最后更新时间 `2025-06-01`，共 `5510` 款游戏。
+- Car Dealer Simulator
+- Automate It: Factory Puzzle – Supporter Bundle, v1.0.0.6 + Bonus Soundtrack
+- Scar-Lead Salvation: Deluxe Edition + 4 DLCs/Bonuses
+- Disney Illusion Island Starring Mickey & Friends
+- Flashing Lights: Police, Firefighting, Emergency Services Simulator – Chief Edition, Build 230525-1 + 7 DLCs
+- MindKatt: First Strike
+- to a T
+- Grandma, No! Deluxe Edition – v20250522R + Bonus Content
 - Cypress Legacy
+- Fuga: Melodies of Steel 3, v1.00 + Bonus Content
 - ……
 
 ## 🙏 感谢
