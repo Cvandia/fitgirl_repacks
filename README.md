@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-06-01`，共 `5510` 款游戏。
-- Car Dealer Simulator
-- Automate It: Factory Puzzle – Supporter Bundle, v1.0.0.6 + Bonus Soundtrack
-- Scar-Lead Salvation: Deluxe Edition + 4 DLCs/Bonuses
-- Disney Illusion Island Starring Mickey & Friends
-- Flashing Lights: Police, Firefighting, Emergency Services Simulator – Chief Edition, Build 230525-1 + 7 DLCs
-- MindKatt: First Strike
-- to a T
-- Grandma, No! Deluxe Edition – v20250522R + Bonus Content
-- Cypress Legacy
-- Fuga: Melodies of Steel 3, v1.00 + Bonus Content
+最后更新时间 `2025-06-03`，共 `5519` 款游戏。
+- PaperKlay
+- Trash Goblin – v1.0.6497
+- Star Mission: Remote Sectors – v1.0.0
+- Thriving City: Song – Deluxe Edition, v1.2.1R (40) + Bonus Soundtrack
+- Triton Survival
+- The Book of Aaru
+- Tavern Talk: Supporter Edition, Build 18582949 + 7 DLCs/Bonuses
+- Spectator 2
+- Twilight Wars – v1.0.0
+- Farm Together 2 + Soundtrack Bundle, Build 18675684 + 2 DLCs/Bonuses + Crackfix
 - ……
 
 ## 🙏 感谢
