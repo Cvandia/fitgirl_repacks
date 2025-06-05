@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-06-03`，共 `5519` 款游戏。
+最后更新时间 `2025-06-05`，共 `5525` 款游戏。
+- POPUCOM: Too Many Clothes Edition, v1.0.1 + 2 DLCs + Online Multiplayer
+- Cyber Knights: Flashpoint – v2.0.1
+- GT Manager
+- The Rewinder 2, v2.1.5 + Bonus OST
+- ContractVille – v1.0 (Release)
+- Paranormal Cleanup – v1.0.0d
 - PaperKlay
 - Trash Goblin – v1.0.6497
 - Star Mission: Remote Sectors – v1.0.0
 - Thriving City: Song – Deluxe Edition, v1.2.1R (40) + Bonus Soundtrack
-- Triton Survival
-- The Book of Aaru
-- Tavern Talk: Supporter Edition, Build 18582949 + 7 DLCs/Bonuses
-- Spectator 2
-- Twilight Wars – v1.0.0
-- Farm Together 2 + Soundtrack Bundle, Build 18675684 + 2 DLCs/Bonuses + Crackfix
 - ……
 
 ## 🙏 感谢
