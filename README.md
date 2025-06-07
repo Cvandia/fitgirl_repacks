@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-06-05`，共 `5525` 款游戏。
+最后更新时间 `2025-06-07`，共 `5527` 款游戏。
+- DELTARUNE: Game + Soundtrack Bundle, v14 (Chapters 1-4)
+- Lysfanga: The Time Shift Warrior – Build 14218760 + Bonus OST
 - POPUCOM: Too Many Clothes Edition, v1.0.1 + 2 DLCs + Online Multiplayer
 - Cyber Knights: Flashpoint – v2.0.1
 - GT Manager
 - The Rewinder 2, v2.1.5 + Bonus OST
 - ContractVille – v1.0 (Release)
 - Paranormal Cleanup – v1.0.0d
-- PaperKlay
-- Trash Goblin – v1.0.6497
-- Star Mission: Remote Sectors – v1.0.0
-- Thriving City: Song – Deluxe Edition, v1.2.1R (40) + Bonus Soundtrack
+- Farm Together 2 + Soundtrack Bundle, Build 18675684 + 2 DLCs/Bonuses + Crackfix
+- Car Dealer Simulator
 - ……
 
 ## 🙏 感谢
