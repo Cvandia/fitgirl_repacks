@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-06-07`，共 `5527` 款游戏。
-- DELTARUNE: Game + Soundtrack Bundle, v14 (Chapters 1-4)
-- Lysfanga: The Time Shift Warrior – Build 14218760 + Bonus OST
-- POPUCOM: Too Many Clothes Edition, v1.0.1 + 2 DLCs + Online Multiplayer
-- Cyber Knights: Flashpoint – v2.0.1
-- GT Manager
-- The Rewinder 2, v2.1.5 + Bonus OST
-- ContractVille – v1.0 (Release)
-- Paranormal Cleanup – v1.0.0d
-- Farm Together 2 + Soundtrack Bundle, Build 18675684 + 2 DLCs/Bonuses + Crackfix
-- Car Dealer Simulator
+最后更新时间 `2025-06-09`，共 `5537` 款游戏。
+- NOBUNAGA’S AMBITION: Awakening – Digital Deluxe Edition – v1.1.6 + 19 DLCs + Windows 7 Fix
+- Mini Cozy Room: Lo-Fi – All in One Bundle, v1.02.04 + 5 DLCs
+- Zombie Graveyard Simulator – v1.2.0
+- The Ranch of Rivershine – v1.9.0.3.2 + Bonus Soundtrack
+- Zefyr: A Thief’s Melody – Supporter Edition, v1.0.42 + 2 DLCs/Bonuses
+- Fable Hospital – v1.0.4
+- SEDAP! A Culinary Adventure – v1.0.2
+- Lies of P: Overture Bundle, v1.8.0.0 + 4 DLCs/Bonuses + Windows 7 Fix
+- Cone Crushers: Autocross
+- Pro Cycling Manager 25 – v1.1.2.415
 - ……
 
 ## 🙏 感谢
