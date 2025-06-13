@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-06-11`，共 `5544` 款游戏。
-- Warhammer 40,000: Space Marine – Master Crafted Edition, v1.0.1038.3669 (MS Store)/v1.0.1038.3764 (Steam) + All DLCs
-- Dune: Imperium – v3.0.0.1276 + 2 DLCs
-- Sears: The Sky Frontier – vEA 0.3.2 (Final Release)
-- The Corruption
-- Post-Apo Builder – v1.0001
-- Shape Shifter: Formations – v1.0.0 (Release)
-- Lycoris
-- Gym Camp Simulator
+最后更新时间 `2025-06-13`，共 `5550` 款游戏。
+- Submersed 2: The Hive
+- Across The Obelisk: Complete Bundle – v1.6.0 + 12 DLCs
+- Last Guest
+- Spray Paint Simulator – Revision 1829
+- MindsEye – v4598223 + 9 DLCs
+- My Dream Setup: Complete Edition – Build 18776378 + 4 DLCs
+- Dread: The Cold Case
 - NOBUNAGA’S AMBITION: Awakening – Digital Deluxe Edition – v1.1.6 + 19 DLCs + Windows 7 Fix
 - Mini Cozy Room: Lo-Fi – All in One Bundle, v1.02.04 + 5 DLCs
+- Zombie Graveyard Simulator – v1.2.0
 - ……
 
 ## 🙏 感谢
