@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-06-13`，共 `5550` 款游戏。
-- Submersed 2: The Hive
-- Across The Obelisk: Complete Bundle – v1.6.0 + 12 DLCs
-- Last Guest
-- Spray Paint Simulator – Revision 1829
-- MindsEye – v4598223 + 9 DLCs
-- My Dream Setup: Complete Edition – Build 18776378 + 4 DLCs
-- Dread: The Cold Case
-- NOBUNAGA’S AMBITION: Awakening – Digital Deluxe Edition – v1.1.6 + 19 DLCs + Windows 7 Fix
-- Mini Cozy Room: Lo-Fi – All in One Bundle, v1.02.04 + 5 DLCs
-- Zombie Graveyard Simulator – v1.2.0
+最后更新时间 `2025-06-15`，共 `5557` 款游戏。
+- Five Nights at Freddy’s: Secret of the Mimic
+- Rift of the NecroDancer: Ultimate Pack, v1.5.0 + 16 DLCs/Bonuses
+- Lost in Random: The Eternal Die – Fortune Edition + 3 DLCs/Bonuses
+- The Alters – v1.0.1.46 + Bonus Soundtrack
+- LEGO Builder’s Journey – v4.0.0 (773)
+- Camper Van: Make it Home – Deluxe Edition + Bonus DLCs
+- Northgard: The Viking Age Edition – v3.7.26.42112 + 17 DLCs/Bonuses
+- Meat Fest
+- Oxygen Not Included: Complete Bundle, vU56-674504-SCR + 5 DLCs/Bonuses
+- Robot girl’s dream -RobotBattleChampionship-, v3.00.03
 - ……
 
 ## 🙏 感谢
