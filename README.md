@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-06-15`，共 `5557` 款游戏。
+最后更新时间 `2025-06-17`，共 `5563` 款游戏。
+- Rooftops & Alleys: The Parkour Game – v1.0 (Release)
+- SGS Spain at War – v25.06.11
+- DOOMER SIMULATOR – v0.9.1
+- The Planet Crafter: The Galactic Terraformer Edition, v1.524 + Planet: Humble DLC
+- Spaceflux
+- Loco Motive: Game + Soundtrack, v1.0.5a + Bonus OST
+- Vilde – v1.0.0.2
+- Caribbean Legend: Complete Edition, v1.5.0 (13.06.25) + 5 DLCs
+- Wizard of Legend 2 – v1.0.0 (Release)
 - Five Nights at Freddy’s: Secret of the Mimic
-- Rift of the NecroDancer: Ultimate Pack, v1.5.0 + 16 DLCs/Bonuses
-- Lost in Random: The Eternal Die – Fortune Edition + 3 DLCs/Bonuses
-- The Alters – v1.0.1.46 + Bonus Soundtrack
-- LEGO Builder’s Journey – v4.0.0 (773)
-- Camper Van: Make it Home – Deluxe Edition + Bonus DLCs
-- Northgard: The Viking Age Edition – v3.7.26.42112 + 17 DLCs/Bonuses
-- Meat Fest
-- Oxygen Not Included: Complete Bundle, vU56-674504-SCR + 5 DLCs/Bonuses
-- Robot girl’s dream -RobotBattleChampionship-, v3.00.03
 - ……
 
 ## 🙏 感谢
