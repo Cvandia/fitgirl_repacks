@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-06-17`，共 `5563` 款游戏。
-- Rooftops & Alleys: The Parkour Game – v1.0 (Release)
-- SGS Spain at War – v25.06.11
-- DOOMER SIMULATOR – v0.9.1
-- The Planet Crafter: The Galactic Terraformer Edition, v1.524 + Planet: Humble DLC
-- Spaceflux
-- Loco Motive: Game + Soundtrack, v1.0.5a + Bonus OST
+最后更新时间 `2025-06-19`，共 `5568` 款游戏。
+- TRAPPED
+- Songs of Conquest: Complete Bundle, v1.6.0 + 5 DLCs/Bonuses
+- GEX Trilogy
+- SCUM: Complete Bundle – v1.0.0.0.94918 + 12 DLCs/Bonuses
+- Crime Simulator – v1.0
+- TRON: Catalyst – v0.10.3 (CS:16422)
+- House Builder: Pack and Punch Bundle, Build 16-06-2025 + 7 DLCs
+- Victoria 3: Grand Edition, v1.9.0 (Lady Grey) + 15 DLCs/Bonuses + Windows 7 Fix
 - Vilde – v1.0.0.2
 - Caribbean Legend: Complete Edition, v1.5.0 (13.06.25) + 5 DLCs
-- Wizard of Legend 2 – v1.0.0 (Release)
-- Five Nights at Freddy’s: Secret of the Mimic
 - ……
 
 ## 🙏 感谢
