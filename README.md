@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-06-19`，共 `5568` 款游戏。
-- TRAPPED
-- Songs of Conquest: Complete Bundle, v1.6.0 + 5 DLCs/Bonuses
-- GEX Trilogy
-- SCUM: Complete Bundle – v1.0.0.0.94918 + 12 DLCs/Bonuses
-- Crime Simulator – v1.0
-- TRON: Catalyst – v0.10.3 (CS:16422)
-- House Builder: Pack and Punch Bundle, Build 16-06-2025 + 7 DLCs
-- Victoria 3: Grand Edition, v1.9.0 (Lady Grey) + 15 DLCs/Bonuses + Windows 7 Fix
-- Vilde – v1.0.0.2
-- Caribbean Legend: Complete Edition, v1.5.0 (13.06.25) + 5 DLCs
+最后更新时间 `2025-06-21`，共 `5575` 款游戏。
+- Cryptmaster: Deluxe Edition, v1.112 + Bonus Content
+- Soulstone Survivors + Soundtrack Bundle, v1.0f (Release) + 2 DLCs/Bonuses
+- Wandering Sword: Side Tale Bundle, v1.24.23 + 3 DLCs
+- Chinese Frontiers
+- theHunter: Call of the Wild – Complete Collection – v3028143 + 66 DLCs + Windows 7 Fix
+- Thrive: Heavy Lies The Crown – v1.0.0203
+- Empire of Sin: Premium Edition, v1.08.0 + 5 DLCs
+- Dustwind: Resistance – Revision 11166
+- Robots at Midnight – v1.0.16014
+- Date Everything! Lavish Edition – v2.555.97759 + 2 DLCs
 - ……
 
 ## 🙏 感谢
