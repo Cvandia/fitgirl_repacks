@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-06-21`，共 `5575` 款游戏。
+最后更新时间 `2025-06-23`，共 `5579` 款游戏。
+- Len’s Island – v1.0 (Release) + 2 DLCs
+- DragonLoop
+- Stolen Realm: Complete Bundle, v1.2.7 + 2 DLCs/Bonuses
+- Star Overdrive: Deluxe Edition – v1.0.9 + 2 DLCs/Bonuses
+- Drug Dealer Simulator 2 – v1.1 + 3 DLCs/Bonuses + Windows 7 Fix
+- Grimstar: Crystals are the New Oil! – v1.5.0
 - Cryptmaster: Deluxe Edition, v1.112 + Bonus Content
 - Soulstone Survivors + Soundtrack Bundle, v1.0f (Release) + 2 DLCs/Bonuses
 - Wandering Sword: Side Tale Bundle, v1.24.23 + 3 DLCs
 - Chinese Frontiers
-- theHunter: Call of the Wild – Complete Collection – v3028143 + 66 DLCs + Windows 7 Fix
-- Thrive: Heavy Lies The Crown – v1.0.0203
-- Empire of Sin: Premium Edition, v1.08.0 + 5 DLCs
-- Dustwind: Resistance – Revision 11166
-- Robots at Midnight – v1.0.16014
-- Date Everything! Lavish Edition – v2.555.97759 + 2 DLCs
 - ……
 
 ## 🙏 感谢
