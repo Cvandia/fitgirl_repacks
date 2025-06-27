@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-06-25`，共 `5583` 款游戏。
-- Through the Nightmares – v1.0.2
-- Suit for Hire – v1.0.1 + CrackFix
-- Three Kingdoms Mushouden: Deluxe Edition, v1.2.0 + DLC
-- Architect Life: A House Design Simulator – Supporter Edition + 3 DLCs
-- Len’s Island – v1.0 (Release) + 2 DLCs
-- DragonLoop
-- Stolen Realm: Complete Bundle, v1.2.7 + 2 DLCs/Bonuses
-- Star Overdrive: Deluxe Edition – v1.0.9 + 2 DLCs/Bonuses
-- Dustwind: Resistance – Revision 11166
-- Robots at Midnight – v1.0.16014
+最后更新时间 `2025-06-27`，共 `5590` 款游戏。
+- Little Nightmares: Enhanced Edition
+- NEDRA
+- Tales from The Dancing Moon – v1.0 (Release)
+- Teardown: Deluxe Edition, v1.7.0 + 4 DLCs
+- Yaoling: Mythical Journey – v1.0.0 + 2 DLCs/Bonuses
+- Warhammer 40,000: Rogue Trader – Voidfarer Edition, v1.4.0.184 + 8 DLCs/Bonuses
+- Drug Dealer Simulator 2 – v1.1 + 3 DLCs/Bonuses + Windows 7 Fix
+- Grimstar: Crystals are the New Oil! – v1.5.0
+- Cryptmaster: Deluxe Edition, v1.112 + Bonus Content
+- Soulstone Survivors + Soundtrack Bundle, v1.0f (Release) + 2 DLCs/Bonuses
 - ……
 
 ## 🙏 感谢
