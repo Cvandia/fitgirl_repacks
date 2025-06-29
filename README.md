@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-06-27`，共 `5590` 款游戏。
-- Little Nightmares: Enhanced Edition
-- NEDRA
-- Tales from The Dancing Moon – v1.0 (Release)
+最后更新时间 `2025-06-29`，共 `5600` 款游戏。
+- Dragons Reef – v1.2
+- Parcel Simulator
+- Antro
+- LIMINAL SHIFT
+- Bygone Dreams – v1.0.0.4
+- Reality Rash
+- Fate Seeker II – Build 18655320 + Bonus OST
+- Planetary Annihilation: TITANS – v124610 (Consultants Update 2) + DLC
+- Crown Gambit: Deluxe Edition – v1.0.3 + 2 Bonus DLCs
 - Teardown: Deluxe Edition, v1.7.0 + 4 DLCs
-- Yaoling: Mythical Journey – v1.0.0 + 2 DLCs/Bonuses
-- Warhammer 40,000: Rogue Trader – Voidfarer Edition, v1.4.0.184 + 8 DLCs/Bonuses
-- Drug Dealer Simulator 2 – v1.1 + 3 DLCs/Bonuses + Windows 7 Fix
-- Grimstar: Crystals are the New Oil! – v1.5.0
-- Cryptmaster: Deluxe Edition, v1.112 + Bonus Content
-- Soulstone Survivors + Soundtrack Bundle, v1.0f (Release) + 2 DLCs/Bonuses
 - ……
 
 ## 🙏 感谢
