@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-07-01`，共 `5607` 款游戏。
-- Touhou Danmaku Kagura: Phantasia Lost – Digital Deluxe Edition, v1.9.2 + 17 DLCs/Bonuses
-- Sun Haven: Ultra Bundle – v2.5.1E + 41 DLCs/Bonuses
-- Blood West: Dead Man’s Edition, v4.4.1 + DLC
-- Tobacco Shop Simulator
-- The Operator – v5145_1842 (v2.3) + Bonus Soundtrack
-- Projected Dreams: Supporter Bundle, v1.2 + Bonus Soundtrack
-- Star Trucker: Deluxe Bundle – v1.0.64.0 + 5 DLCs/Bonuses
-- Boxville 2 + Bonus Content
-- Storage Dealer Simulator
-- All About Chopsticks – v1.5.1
+最后更新时间 `2025-07-03`，共 `5614` 款游戏。
+- Rekindled Trails
+- CityDriver: Deluxe-Bundle, v25.06.26.43749 + 10 DLCs
+- Tech Market Simulator
+- ANTONBLAST – v1.1.2f + Bonus Soundtrack
+- Frog Jump – v1.0.1
+- About a Boy
+- Fruitbus: Fine Dining Edition – v1.0.12 + Bonus Soundtrack
+- Shambles: Sons of Apocalypse – v1.3.23
+- Entropy Survivors – v1.5.1.23830
+- Grocery Store Tycoon – v0.9
 - ……
 
 ## 🙏 感谢
