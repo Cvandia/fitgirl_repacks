@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-07-05`，共 `5622` 款游戏。
+最后更新时间 `2025-07-07`，共 `5627` 款游戏。
+- The Backrooms: Expedition
+- Arhaekon – v1.0 (Release)
+- Don’t Mess With Bober – v1.0.3
+- Tales Beyond The Tomb – White Silence
+- Sofia in Exchange for Lies
+- Dark Resolve
 - Shatterline – v98.0.36.0
-- Clink + CrackFix
-- Paranormal Torment + CrackFix
-- Endless Ocean Luminous – v1.0.1 + 4 Switch Emulators
-- The Echo Paradox
-- 7 Days to Die – v2.0 b295 + 4 DLCs/Bonuses
-- Flushed
-- Echoes of the Plum Grove: Deluxe Edition – v1.0.5.23s + Bonus Content
-- Rekindled Trails
-- CityDriver: Deluxe-Bundle, v25.06.26.43749 + 10 DLCs
+- Tech Market Simulator
+- ANTONBLAST – v1.1.2f + Bonus Soundtrack
+- Frog Jump – v1.0.1
 - ……
 
 ## 🙏 感谢
