@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-07-11`，共 `5636` 款游戏。
+最后更新时间 `2025-07-13`，共 `5639` 款游戏。
+- ISLANDERS: New Shores – The Scenic Builders Pack, Build #4ccdb730 + 2 DLCs/Bonuses
+- Rally Mechanic Simulator: Complete Garage Bundle – v1.0.236 + 3 DLCs
+- Strategic Command WWII: War in the Pacific, v1.03.04/v1.03.01 + Rise and Fall of an Empire DLC
+- S.T.A.L.K.E.R. 2: Heart of Chornobyl – Deluxe Edition, v1.5.1 + 5* DLC/Bonuses [Monkey Repack]
+- Forest Asylum 2 – v1.1.5
+- My Time at Portia: Digital Deluxe Edition – v2.0.141719 + 11 DLCs
+- Starmetal Crusaders
+- American Truck Simulator – v1.55.2.1s + 58 DLCs
 - Expeditions: A MudRunner Game, Season 3 Update (Build 18713680) + 6 DLCs
 - Vesnith Tapes
-- Battleborn – Build 2151336 + Reborn Project Mod
-- Disney Dreamlight Valley: Magical Edition – v1.17.11.6 + 3 DLCs
-- Tony Hawk’s Pro Skater 3 + 4: Digital Deluxe Edition + 4 DLCs
-- The Vault: Logic Puzzle Box
-- Honey Select 2: Libido – v1.2.3 / Compressed BetterRepack DX R16 + Sideloader Modpack
-- Laser Tag Massacre – v1.12 + Bonus Soundtrack
-- SkullX: Aibohphobia – v1.0.4
-- Ancient Cities – v1.7.34
 - ……
 
 ## 🙏 感谢
