@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-07-13`，共 `5639` 款游戏。
+最后更新时间 `2025-07-15`，共 `5645` 款游戏。
+- Our War: Firepower Suppression
+- Dread Flats – v2.10.1
+- M.O.O.D.S. – v1.0.03.0025
+- Talisman: Digital 5th Edition – Complete, Build 84407 + 7 DLCs/Bonuses
+- Beff Jezos Simulator – v1.1.0.0711
+- EDENS ZERO: Deluxe Edition – v1.0.0 + 5 DLCs
+- Kunitsu-Gami: Path of the Goddess – Build 19024694 (Denuvoless) + 3 DLCs
+- The Sims 4: Deluxe Edition – v1.116.223.1030 + All DLCs/Add-ons + Bonus Soundtracks + Online
 - ISLANDERS: New Shores – The Scenic Builders Pack, Build #4ccdb730 + 2 DLCs/Bonuses
 - Rally Mechanic Simulator: Complete Garage Bundle – v1.0.236 + 3 DLCs
-- Strategic Command WWII: War in the Pacific, v1.03.04/v1.03.01 + Rise and Fall of an Empire DLC
-- S.T.A.L.K.E.R. 2: Heart of Chornobyl – Deluxe Edition, v1.5.1 + 5* DLC/Bonuses [Monkey Repack]
-- Forest Asylum 2 – v1.1.5
-- My Time at Portia: Digital Deluxe Edition – v2.0.141719 + 11 DLCs
-- Starmetal Crusaders
-- American Truck Simulator – v1.55.2.1s + 58 DLCs
-- Expeditions: A MudRunner Game, Season 3 Update (Build 18713680) + 6 DLCs
-- Vesnith Tapes
 - ……
 
 ## 🙏 感谢
