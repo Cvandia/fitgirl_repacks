@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-07-17`，共 `5650` 款游戏。
+最后更新时间 `2025-07-19`，共 `5656` 款游戏。
+- Ratten Reich – v1.0.0 (Release) + Bonus Comic Book
 - Striving for Light – v1.0.0.0c + Bonus Soundtrack
 - Ready or Not: LSPD Bundle – v88602 + v66884 + 4 DLCs/Bonuses
 - HUNTER×HUNTER NEN×IMPACT – v1.0.4 + 2 DLCs
 - Big Dig Energy
-- Power the Future
-- Our War: Firepower Suppression
-- Dread Flats – v2.10.1
-- M.O.O.D.S. – v1.0.03.0025
-- Talisman: Digital 5th Edition – Complete, Build 84407 + 7 DLCs/Bonuses
-- Beff Jezos Simulator – v1.1.0.0711
+- Reus 2: Complete Edition , v1.8.0 + 3 DLCs
+- Warspace 2: Supporter Edition – v1.00 + DLC
+- Super Loco World: Cozy Train Automation – v1.0.1
+- RoboCop: Rogue City – Unfinished Business, v1.2.0.0 + DLC
+- Dragon Ball Z: Kakarot – Legendary Edition, HD v1.30 + 18 DLCs
 - ……
 
 ## 🙏 感谢
