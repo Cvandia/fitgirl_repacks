@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-07-19`，共 `5656` 款游戏。
-- Ratten Reich – v1.0.0 (Release) + Bonus Comic Book
-- Striving for Light – v1.0.0.0c + Bonus Soundtrack
-- Ready or Not: LSPD Bundle – v88602 + v66884 + 4 DLCs/Bonuses
-- HUNTER×HUNTER NEN×IMPACT – v1.0.4 + 2 DLCs
-- Big Dig Energy
+最后更新时间 `2025-07-21`，共 `5661` 款游戏。
+- Witch Way
+- Kaizen: A Factory Story
+- Cyberpunk 2077: Ultimate Edition – v2.3 + All DLCs + Bonus Content + REDmod
+- The Complex: Expedition
+- Xeno Rangers – v1.0.19B
+- ICARUS: Complete the Set Bundle, v2.3.0.140074 + 17 DLCs
+- The Necromancer’s Tale – v1.158
+- ARK: Survival Evolved – Ultimate Survivor Edition – v360.1 + 19 DLCs/Bonuses
+- Demonic Mahjong
 - Reus 2: Complete Edition , v1.8.0 + 3 DLCs
-- Warspace 2: Supporter Edition – v1.00 + DLC
-- Super Loco World: Cozy Train Automation – v1.0.1
-- RoboCop: Rogue City – Unfinished Business, v1.2.0.0 + DLC
-- Dragon Ball Z: Kakarot – Legendary Edition, HD v1.30 + 18 DLCs
 - ……
 
 ## 🙏 感谢
