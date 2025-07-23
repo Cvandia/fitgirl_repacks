@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-07-21`，共 `5661` 款游戏。
-- Witch Way
-- Kaizen: A Factory Story
-- Cyberpunk 2077: Ultimate Edition – v2.3 + All DLCs + Bonus Content + REDmod
-- The Complex: Expedition
-- Xeno Rangers – v1.0.19B
-- ICARUS: Complete the Set Bundle, v2.3.0.140074 + 17 DLCs
-- The Necromancer’s Tale – v1.158
-- ARK: Survival Evolved – Ultimate Survivor Edition – v360.1 + 19 DLCs/Bonuses
-- Demonic Mahjong
-- Reus 2: Complete Edition , v1.8.0 + 3 DLCs
+最后更新时间 `2025-07-23`，共 `5671` 款游戏。
+- Fretless: The Wrath of Riffson – v1.0.7122 + Bonus Soundtrack
+- Abiotic Factor: Supporter’s Edition – v1.0.0.20061 (Release) + 2 DLCs + Multiplayer
+- Dust Raiders
+- ΔV (DeltaV): Rings of Saturn – Space Furry Edition – v1.76.1 + 5 DLCs/Bonuses
+- Future War Tactics: SOF vs Alien Invasion – Turn-Based Strategy
+- Back to the Dawn: Deluxe Edition – v2.0.0.18 (v1.0 Release) + 3 DLCs
+- Animal Shelter: Family Bundle – v1.3.19-38.257 + 3 DLCs + Bonus OST
+- Shadow Labyrinth: Deluxe Edition, v1.0.3 + 2 Bonus DLCs
+- Solium Infernum: Collector’s Edition – v1.1.3P2_85055 + DLC + Bonus Soundtrack
+- Phantom Squad – v1.0.0.fb6954
 - ……
 
 ## 🙏 感谢
