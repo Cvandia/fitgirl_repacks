@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-07-23`，共 `5671` 款游戏。
-- Fretless: The Wrath of Riffson – v1.0.7122 + Bonus Soundtrack
-- Abiotic Factor: Supporter’s Edition – v1.0.0.20061 (Release) + 2 DLCs + Multiplayer
-- Dust Raiders
-- ΔV (DeltaV): Rings of Saturn – Space Furry Edition – v1.76.1 + 5 DLCs/Bonuses
-- Future War Tactics: SOF vs Alien Invasion – Turn-Based Strategy
-- Back to the Dawn: Deluxe Edition – v2.0.0.18 (v1.0 Release) + 3 DLCs
+最后更新时间 `2025-07-25`，共 `5682` 款游戏。
+- WUCHANG: Fallen Feathers – Deluxe Edition, v178067 + 5 DLCs/Bonuses
+- Hell Clock – v1.0.0 + DLC
+- WolfQuest: Anniversary Edition – v2.0.2 (Release) + 4 DLCs
+- PGA TOUR 2K23: Tiger Woods Edition, Build 18927457 (Denuvoless) + 8 DLCs
+- Runa Illustra – v1.0.1
+- Digger: Galactic Treasures – v1.05.1
+- Monument Valley 3: Game & Soundtrack Bundle, v1.3.19596 + Bonus OST
+- Who’s at the door? – v1.0.1
 - Animal Shelter: Family Bundle – v1.3.19-38.257 + 3 DLCs + Bonus OST
 - Shadow Labyrinth: Deluxe Edition, v1.0.3 + 2 Bonus DLCs
-- Solium Infernum: Collector’s Edition – v1.1.3P2_85055 + DLC + Bonus Soundtrack
-- Phantom Squad – v1.0.0.fb6954
 - ……
 
 ## 🙏 感谢
