@@ -15,7 +15,9 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-07-31`，共 `5706` 款游戏。
+最后更新时间 `2025-08-01`，共 `5708` 款游戏。
+- Miami Hotel Simulator – v0.13.345.pa
+- One-Eyed Likho: Deluxe Edition + Bonus Content DLC
 - Terminator: Dark Fate – Defiance: Complete Bundle, v1.07.1145 + 3 DLCs/Bonuses + Windows 7 Fix
 - Tales of the Shire: A The Lord of The Rings Game – v1.0 #46029
 - UNDERWARD: Supporter Edition – v1.2.0.1 + DLC
@@ -24,8 +26,6 @@
 - Car Mechanic Simulator 2021: Gold Bundle – v1.0.38 + 20 DLCs
 - Dinosaurs Dominion – v1.0.0.4
 - Get To Work – v1.1.1.6
-- Call of Duty: Modern Warfare (2019) – v8.67 (All Game Modes)
-- Oxide Room 208
 - ……
 
 ## 🙏 感谢
