@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-08-01`，共 `5708` 款游戏。
-- Miami Hotel Simulator – v0.13.345.pa
-- One-Eyed Likho: Deluxe Edition + Bonus Content DLC
-- Terminator: Dark Fate – Defiance: Complete Bundle, v1.07.1145 + 3 DLCs/Bonuses + Windows 7 Fix
-- Tales of the Shire: A The Lord of The Rings Game – v1.0 #46029
+最后更新时间 `2025-08-03`，共 `5715` 款游戏。
+- Chasers Dash & Bash – v1.0.1
+- No Plan B: Supporter Edition- v1.2 + 3 DLCs/Bonuses
+- Dead Take – v1.0.3.54901
+- Call of Duty: Black Ops 6 – v11.1.21663693 (Campaign Only) + 4 Bonus Soundtracks
+- Gatekeeper: Deluxe Edition – v1.0.0.00 + Supporter Pack DLC
+- Countryballs: Power Protocol
+- Live Lens Bodycam
 - UNDERWARD: Supporter Edition – v1.2.0.1 + DLC
 - No Sleep For Kaname Date – From AI: THE SOMNIUM FILES – Soundtrack Edition + Bonus OST
 - Achilles: Survivor – v1.0.9290 + Bonus DLC
-- Car Mechanic Simulator 2021: Gold Bundle – v1.0.38 + 20 DLCs
-- Dinosaurs Dominion – v1.0.0.4
-- Get To Work – v1.1.1.6
 - ……
 
 ## 🙏 感谢
