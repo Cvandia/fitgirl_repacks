@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-08-03`，共 `5715` 款游戏。
+最后更新时间 `2025-08-05`，共 `5725` 款游戏。
+- Bus Flipper: Renovator Simulator – v1.0.22r
+- Driftwood
+- AirportSim – v1.4.4 + 2 DLCs
+- Spy Drops – v1.00.0806
+- Ship Explorer
+- Cook Serve Forever
 - Chasers Dash & Bash – v1.0.1
 - No Plan B: Supporter Edition- v1.2 + 3 DLCs/Bonuses
 - Dead Take – v1.0.3.54901
 - Call of Duty: Black Ops 6 – v11.1.21663693 (Campaign Only) + 4 Bonus Soundtracks
-- Gatekeeper: Deluxe Edition – v1.0.0.00 + Supporter Pack DLC
-- Countryballs: Power Protocol
-- Live Lens Bodycam
-- UNDERWARD: Supporter Edition – v1.2.0.1 + DLC
-- No Sleep For Kaname Date – From AI: THE SOMNIUM FILES – Soundtrack Edition + Bonus OST
-- Achilles: Survivor – v1.0.9290 + Bonus DLC
 - ……
 
 ## 🙏 感谢
