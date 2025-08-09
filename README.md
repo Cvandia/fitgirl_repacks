@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-08-07`，共 `5730` 款游戏。
-- MX vs ATV Legends – v4.06 + 37 DLCs + Windows 7 Fix
-- Bee Simulator: The Hive
-- Liftoff: Micro Drones – v1.0.0 (Release)
-- Misc. A Tiny Tale + OST Bundle, v1.0.5 + Bonus Soundtrack
-- Alchemia: Creatio Ex Nihilo – Supporter Bundle + Bonus Soundtrack
-- Caves of Qud: Dromad Deluxe Edition, v1.0.4 + Pets of Harvest Dawn DLC + Bonus Soundtrack
-- Fuel Harvest Together – v1.0.0 (Release)
-- Rail Route: Supporter Bundle – v2.3.22 + 3 DLCs/Bonuses
-- Bus Flipper: Renovator Simulator – v1.0.22r
-- Driftwood
+最后更新时间 `2025-08-09`，共 `5741` 款游戏。
+- The Lilliput Workshop
+- 6days
+- Yomi 2 – v2841 + Renegades DLC
+- Wildwood Down
+- Dragon Sprouts
+- Heretic + Hexen
+- THE HOUSE OF THE DEAD 2: Remake
+- Grand Emprise 2: Portals Apart
+- GRADIUS ORIGINS – v1.001.000
+- RIPOUT – v1.41:01
 - ……
 
 ## 🙏 感谢
