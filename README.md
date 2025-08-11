@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-08-09`，共 `5741` 款游戏。
+最后更新时间 `2025-08-11`，共 `5751` 款游戏。
+- Static Dread: The Lighthouse – v2025.08.06.18.12 + 2 DLCs/Bonuses
+- Sensei! I Like You So Much! v1.0.0.0806.2.3
+- Heavy Cargo – The Truck Simulator, v1.1.0.20250803 + Mission Pack DLC
+- Ryder
+- AstroPlanet – v1.2.5
+- Real Boxing 2: Remastered
 - The Lilliput Workshop
 - 6days
 - Yomi 2 – v2841 + Renegades DLC
 - Wildwood Down
-- Dragon Sprouts
-- Heretic + Hexen
-- THE HOUSE OF THE DEAD 2: Remake
-- Grand Emprise 2: Portals Apart
-- GRADIUS ORIGINS – v1.001.000
-- RIPOUT – v1.41:01
 - ……
 
 ## 🙏 感谢
