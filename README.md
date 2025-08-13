@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-08-11`，共 `5751` 款游戏。
-- Static Dread: The Lighthouse – v2025.08.06.18.12 + 2 DLCs/Bonuses
-- Sensei! I Like You So Much! v1.0.0.0806.2.3
-- Heavy Cargo – The Truck Simulator, v1.1.0.20250803 + Mission Pack DLC
-- Ryder
-- AstroPlanet – v1.2.5
-- Real Boxing 2: Remastered
-- The Lilliput Workshop
-- 6days
-- Yomi 2 – v2841 + Renegades DLC
-- Wildwood Down
+最后更新时间 `2025-08-13`，共 `5758` 款游戏。
+- Call of Duty: Modern Warfare II, v9.7 (Campaign) / v9.40 (Multiplayer/Co-Op with Bots) + 8 Bonus Soundtracks
+- Terra Nil: Deluxe Edition, v1.2.5 (Heatwave Update) + Bonus Content
+- Rogue Hex
+- Goat Simulator 3: Multiversal Traveler’s Bundle, v1.1.4.3_410056 + 4 DLCs/Bonuses
+- Atomic Owl: OWL.EXE – Synthwave Overdrive Bundle + Bonus OST
+- Reality Break – v1.1.0.1
+- The Unholy Priest
+- Chained Echoes: Complete Edition, v1.343 + 3 DLCs/Bonuses
+- Chaos on Wheels – v1.0.1.38
+- Parking World: Build & Manage – v1.0.4
 - ……
 
 ## 🙏 感谢
