@@ -15,7 +15,7 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-08-13`，共 `5758` 款游戏。
+最后更新时间 `2025-08-15`，共 `5764` 款游戏。
 - Call of Duty: Modern Warfare II, v9.7 (Campaign) / v9.40 (Multiplayer/Co-Op with Bots) + 8 Bonus Soundtracks
 - Terra Nil: Deluxe Edition, v1.2.5 (Heatwave Update) + Bonus Content
 - Rogue Hex
@@ -24,8 +24,8 @@
 - Reality Break – v1.1.0.1
 - The Unholy Priest
 - Chained Echoes: Complete Edition, v1.343 + 3 DLCs/Bonuses
-- Chaos on Wheels – v1.0.1.38
-- Parking World: Build & Manage – v1.0.4
+- Whisker Wanderlust: The Wondrous Journey
+- Age of Wonders 4: Premium Edition, v1.011.001.110650 + 11 DLCs + Windows 7 Fix
 - ……
 
 ## 🙏 感谢
