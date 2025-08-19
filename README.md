@@ -15,8 +15,7 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-08-17`，共 `5770` 款游戏。
-- Ra Ra BOOM
+最后更新时间 `2025-08-19`，共 `5776` 款游戏。
 - BLOODKILL: Goreblast Overkill
 - Rusty Rangers + Bonus Soundtrack
 - Call of Duty: Modern Warfare III – v10.4 (Campaign) / v10.24 (Zombies/Multiplayer with Bots) + 2 Bonus Soundtracks
@@ -25,7 +24,8 @@
 - Warhammer 40,000: Dawn of War – Definitive Edition – v2.0.889.0
 - Church Simulator – v1.0.5
 - Whisker Wanderlust: The Wondrous Journey
-- Age of Wonders 4: Premium Edition, v1.011.001.110650 + 11 DLCs + Windows 7 Fix
+- Stellar Sovereigns – v1.9.0
+- Sheep Seeker
 - ……
 
 ## 🙏 感谢
