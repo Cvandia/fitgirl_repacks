@@ -15,7 +15,7 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-08-21`，共 `5781` 款游戏。
+最后更新时间 `2025-08-23`，共 `5789` 款游戏。
 - The Rogue Prince of Persia – v1.0.2
 - Drop Duchy – v1.1.15 + 2 DLCs/Bonuses
 - Sword of the Sea
