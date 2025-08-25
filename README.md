@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-08-23`，共 `5789` 款游戏。
+最后更新时间 `2025-08-25`，共 `5793` 款游戏。
+- Photo Studio Simulator – v0.98
+- City of Springs
 - The Rogue Prince of Persia – v1.0.2
 - Drop Duchy – v1.1.15 + 2 DLCs/Bonuses
 - Sword of the Sea
 - The Last Ski Trip – v3.0
 - UNDER NIGHT IN-BIRTH II Sys:Celes, v1.32.00 + 5 DLCs
 - Dice Gambit: Support Bundle + Bonus Soundtrack
-- Way of the Hunter: Ultimate Edition – v1.28 + 14 DLCs/Bonuses + Windows 7 Fix
-- KELDER – v1.0.4
-- Drug Dealer Simulator 2 – v1.1 Build 19586234 + 3 DLCs/Bonuses + Windows 7 Fix
-- Panta Rhei: Guardian of Time – v1.0.1
+- GUILTY GEAR -STRIVE-: Blazing Edition, v1.48 + 35 DLCs/Bonuses
+- Raygun Gadabout – v1.0.2
 - ……
 
 ## 🙏 感谢
