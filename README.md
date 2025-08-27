@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-08-25`，共 `5793` 款游戏。
-- Photo Studio Simulator – v0.98
-- City of Springs
-- The Rogue Prince of Persia – v1.0.2
-- Drop Duchy – v1.1.15 + 2 DLCs/Bonuses
-- Sword of the Sea
-- The Last Ski Trip – v3.0
-- UNDER NIGHT IN-BIRTH II Sys:Celes, v1.32.00 + 5 DLCs
-- Dice Gambit: Support Bundle + Bonus Soundtrack
+最后更新时间 `2025-08-27`，共 `5796` 款游戏。
+- Exorcism Agency – v1.0.4
 - GUILTY GEAR -STRIVE-: Blazing Edition, v1.48 + 35 DLCs/Bonuses
 - Raygun Gadabout – v1.0.2
+- Stone Simulator: Just Be a Rock
+- Inkshade – v1.0.006
+- Last Epoch – v1.3 + Bonus OST
+- Global Farmer – v0.17.1+25104396 + All 11 DLCs
+- Bendy: Lone Wolf – v2.0.0 (1414)
+- Spirit City: Lofi Sessions – All-in Bundle, v2.0.1 + 4 DLCs
+- Worldwide Rush – v1.0.22/v1.0.25
 - ……
 
 ## 🙏 感谢
