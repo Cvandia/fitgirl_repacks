@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-08-27`，共 `5796` 款游戏。
-- Exorcism Agency – v1.0.4
-- GUILTY GEAR -STRIVE-: Blazing Edition, v1.48 + 35 DLCs/Bonuses
-- Raygun Gadabout – v1.0.2
-- Stone Simulator: Just Be a Rock
-- Inkshade – v1.0.006
-- Last Epoch – v1.3 + Bonus OST
-- Global Farmer – v0.17.1+25104396 + All 11 DLCs
-- Bendy: Lone Wolf – v2.0.0 (1414)
+最后更新时间 `2025-08-29`，共 `5805` 款游戏。
+- Starship Troopers: Terran Command – Complete Bundle, v5.1.2 + 2 DLCs
+- TurretGirls – v1.0.0a
+- Space Adventure Cobra: The Awakening – Digital Deluxe Edition, v0.01.28 + 2 DLCs/Bonuses
+- Keep Driving – v1.2.0.0e
+- HorrorToleranceTest – v1.0.1
+- Echo Point Nova: Digital Deluxe Edition, v2.1 + Bonus OST
+- METAL GEAR SOLID Δ: SNAKE EATER – Digital Deluxe Edition, v1.1.1 + Sneaking DLC Pack
+- Atelier Yumia: The Alchemist of Memories & the Envisioned Land – Deluxe Edition, v1.42 + 36 DLCs
+- Altheia: The Wrath of Aferi – v1.005
 - Spirit City: Lofi Sessions – All-in Bundle, v2.0.1 + 4 DLCs
-- Worldwide Rush – v1.0.22/v1.0.25
 - ……
 
 ## 🙏 感谢
