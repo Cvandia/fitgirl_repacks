@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-09-01`，共 `5814` 款游戏。
-- TurretGirls – v1.0.0a
-- Space Adventure Cobra: The Awakening – Digital Deluxe Edition, v0.01.28 + 2 DLCs/Bonuses
-- Keep Driving – v1.2.0.0e
-- HorrorToleranceTest – v1.0.1
-- Echo Point Nova: Digital Deluxe Edition, v2.1 + Bonus OST
-- METAL GEAR SOLID Δ: SNAKE EATER – Digital Deluxe Edition, v1.1.1 + Sneaking DLC Pack
-- Atelier Yumia: The Alchemist of Memories & the Envisioned Land – Deluxe Edition, v1.42 + 36 DLCs
-- Altheia: The Wrath of Aferi – v1.005
-- Spirit City: Lofi Sessions – All-in Bundle, v2.0.1 + 4 DLCs
-- Lost Soul Aside: Deluxe Edition + 3 DLCs/Bonuses
+最后更新时间 `2025-09-03`，共 `5820` 款游戏。
+- SHINOBI: Art of Vengeance – v1.01 + 3 DLCs + 4 Switch Emulators
+- FACEMINER – v1.41 + Bonus OST
+- Risk of Rain Returns – v1.1.0 + Bonus Soundtrack
+- Tales Beyond The Tomb: Route 86
+- Whisper of the House – v1.0.0.2
+- Labyrinthine: Supporter Edition, Build 19705579 + DLC
+- Rage of Towers
+- Fear Academy
+- Zoochosis – v1.6.8 + Windows 7 Fix
+- Chip ‘n Clawz vs. The Brainioids – v1.0.22358
 - ……
 
 ## 🙏 感谢
