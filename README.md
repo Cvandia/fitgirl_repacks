@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-09-03`，共 `5820` 款游戏。
-- SHINOBI: Art of Vengeance – v1.01 + 3 DLCs + 4 Switch Emulators
-- FACEMINER – v1.41 + Bonus OST
-- Risk of Rain Returns – v1.1.0 + Bonus Soundtrack
-- Tales Beyond The Tomb: Route 86
-- Whisper of the House – v1.0.0.2
-- Labyrinthine: Supporter Edition, Build 19705579 + DLC
-- Rage of Towers
+最后更新时间 `2025-09-05`，共 `5831` 款游戏。
+- METAL EDEN
+- Otherskin
+- Fresh Tracks + Soundtrack Bundle, v1.0.202508231748 + Bonus OST
+- Goosebumps: Terror in Little Creek – Frightmare Edition + Fright Pack DLC
 - Fear Academy
 - Zoochosis – v1.6.8 + Windows 7 Fix
 - Chip ‘n Clawz vs. The Brainioids – v1.0.22358
+- Hell is Us: Deluxe Edition – v1.3.36.43556 + 6 DLCs/Bonuses
+- Poly Plaza ULTIMATE – v1.0.13
+- Cronos: The New Dawn – Deluxe Edition, v20250831_2044-321866 + 3 DLCs/Bonuses
 - ……
 
 ## 🙏 感谢
