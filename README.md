@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-09-05`，共 `5831` 款游戏。
-- METAL EDEN
-- Otherskin
-- Fresh Tracks + Soundtrack Bundle, v1.0.202508231748 + Bonus OST
-- Goosebumps: Terror in Little Creek – Frightmare Edition + Fright Pack DLC
-- Fear Academy
-- Zoochosis – v1.6.8 + Windows 7 Fix
-- Chip ‘n Clawz vs. The Brainioids – v1.0.22358
-- Hell is Us: Deluxe Edition – v1.3.36.43556 + 6 DLCs/Bonuses
-- Poly Plaza ULTIMATE – v1.0.13
-- Cronos: The New Dawn – Deluxe Edition, v20250831_2044-321866 + 3 DLCs/Bonuses
+最后更新时间 `2025-09-09`，共 `5837` 款游戏。
+- NODE: The Last Favor of the Antarii – v1.0.3 + Bonus Soundtrack
+- Luma Island – v1.1.3.25171 + Bonus Soundtrack
+- Adventure of Samsara – v1.0.4
+- Rise of Industry 2: Deluxe Edition, v1.2.0 (20250902.112723) + 3 DLCs/Bonuses
+- SHUTEN ORDER + Digital Novel DLC
+- Monster Energy Supercross 25: The Official Video Game – Special Edition, v1585442 + 9 DLCs
+- DETECTIVE: Scene Crime
+- TRAIL OUT: Complete – v5.0 (Tokyo Breach Update) + 7 DLCs + Windows 7 Fix
+- There’s a Gun in the Office – v2.3
+- RoadCraft: Rebuild Edition – v4.0.526486/526543 + 4 DLCs
 - ……
 
 ## 🙏 感谢
