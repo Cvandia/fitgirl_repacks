@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-09-13`，共 `5847` 款游戏。
-- Revolution Editions – Shadow & Steel
-- NODE: The Last Favor of the Antarii – v1.0.3 + Bonus Soundtrack
-- Luma Island – v1.1.3.25171 + Bonus Soundtrack
-- Adventure of Samsara – v1.0.4
-- Rise of Industry 2: Deluxe Edition, v1.2.0 (20250902.112723) + 3 DLCs/Bonuses
-- SHUTEN ORDER + Digital Novel DLC
-- Monster Energy Supercross 25: The Official Video Game – Special Edition, v1585442 + 9 DLCs
-- DETECTIVE: Scene Crime
-- Heads Will Roll: Reforged – Complete Edition, v2.6 + 7 DLCs/Bonuses
-- Shape of Dreams – v1.0.0.RC12_s
+最后更新时间 `2025-09-15`，共 `5853` 款游戏。
+- The Little Tomb: The Maholova Club and the Search for a Dead Body
+- Fida Puti Samurai – v1.2c025 + Bonus OST
+- Garfield Kart 2: All You Can Drift
+- Pocket Bravery – v2.15 + 4 DLCs
+- Fragile Reflection + Bonus OST
+- POSTAL: Brain Damaged – Complete Edition, Build 19913241 + 3 DLCs/Bonuses
+- Antioma
+- For The King II: Deluxe Edition – v1.8.8 + 3 DLCs/Bonuses
+- Bullet Noir – v1.0 + Bonus OST
+- Infestation: Origins – v1.0.1
 - ……
 
 ## 🙏 感谢
