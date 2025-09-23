@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-09-21`，共 `5880` 款游戏。
-- Towa and the Guardians of the Sacred Tree – Deluxe Edition, v1.2 + 2 DLCs
-- Moros Protocol
-- ServiceIT: You can do IT
-- Bratz: Rhythm & Style – Deluxe Edition, v1.0.0.25.8 + 4 DLCs
-- Placid Plastic Duck Simulator: More Ducks Everywhere Bundle, v2.2.0 + 10 DLCs/Bonuses
-- Puzzle Quest: Immortal Edition – v1.0.0.3388
-- Troublemaker 2: Beyond Dream
-- Wobbly Life: Game & Soundtrack Bundle – v1.0.0.2-17415dd4e2 + Bonus OST
-- Trails in the Sky 1st Chapter – v1.04.2 + 34 DLCs
-- Terminus: Zombie Survivors – Complete Edition, v1.2.0.108 + 3 DLCs/Bonuses
+最后更新时间 `2025-09-23`，共 `5889` 款游戏。
+- Bytebond: Supporter Edition – v1.0.0.6 + 2 DLCs/Bonuses
+- DRAGON BALL: Sparking! ZERO – Ultimate Edition, v2014.013.003.009.008 + 12 DLCs + Multiplayer
+- Skygard Arena + Soundtrack Bundle
+- Monster Care Simulator – v1.0 (Release)
+- Stuck in the Present – v1.0.0.7772
+- Campus Life
+- BREAK ARTS III & Soundtrack Bundle, v1.0.1 + Bonus OST
+- Platypus Reclayed – v1.0.20
+- Mai: Child of Ages
+- Roman Triumph: Survival City Builder – v1.0.0 (Release)
 - ……
 
 ## 🙏 感谢
