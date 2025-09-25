@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-09-23`，共 `5889` 款游戏。
+最后更新时间 `2025-09-25`，共 `5898` 款游戏。
+- Ed & Edda: GRAND PRIX – Racing Champions, v1.0.3 + Goes Europa-Park DLC
+- SILENT HILL f: Digital Deluxe Edition – v1.1.378720 + 7 DLCs/Bonuses
+- Eclipsium
+- Strange Antiquities – v1.0.29 + Bonus OST
 - Bytebond: Supporter Edition – v1.0.0.6 + 2 DLCs/Bonuses
 - DRAGON BALL: Sparking! ZERO – Ultimate Edition, v2014.013.003.009.008 + 12 DLCs + Multiplayer
 - Skygard Arena + Soundtrack Bundle
-- Monster Care Simulator – v1.0 (Release)
-- Stuck in the Present – v1.0.0.7772
-- Campus Life
-- BREAK ARTS III & Soundtrack Bundle, v1.0.1 + Bonus OST
-- Platypus Reclayed – v1.0.20
-- Mai: Child of Ages
-- Roman Triumph: Survival City Builder – v1.0.0 (Release)
+- Project Warlock II – v1.0.1.26
+- Tourist Bus Simulator – v1.10.81093 + 16 DLCs
+- HYKE: Northern Light(s) – v1.0.0
 - ……
 
 ## 🙏 感谢
