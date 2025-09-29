@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-09-25`，共 `5898` 款游戏。
-- Ed & Edda: GRAND PRIX – Racing Champions, v1.0.3 + Goes Europa-Park DLC
-- SILENT HILL f: Digital Deluxe Edition – v1.1.378720 + 7 DLCs/Bonuses
-- Eclipsium
-- Strange Antiquities – v1.0.29 + Bonus OST
-- Bytebond: Supporter Edition – v1.0.0.6 + 2 DLCs/Bonuses
-- DRAGON BALL: Sparking! ZERO – Ultimate Edition, v2014.013.003.009.008 + 12 DLCs + Multiplayer
-- Skygard Arena + Soundtrack Bundle
-- Project Warlock II – v1.0.1.26
-- Tourist Bus Simulator – v1.10.81093 + 16 DLCs
-- HYKE: Northern Light(s) – v1.0.0
+最后更新时间 `2025-09-29`，共 `5917` 款游戏。
+- Kingdom Rush 5: Alliance TD – v6.00.114 + 2 DLCs
+- PAC-MAN WORLD 2 Re-PAC: Deluxe Edition + 3 DLCs
+- Circus of Pain – v1.02
+- Shatterline: Shellguard & Randy Bundle, Build 20121937 + DLC
+- Trailer Park Tycoon: Raccoon Ranch + Bonus OST
+- HOTEL BARCELONA – v1.0.1
+- Sins of a Solar Empire II – v1.45.9 + 3 DLCs/Bonuses
+- Brews & Bastards – v1.1.9.0
+- Dead Silence: Echoes of the Damned
+- Sonic Racing: CrossWorlds, v1.1.2 + 3 Switch Emulators
 - ……
 
 ## 🙏 感谢
