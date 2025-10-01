@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-09-29`，共 `5917` 款游戏。
-- Kingdom Rush 5: Alliance TD – v6.00.114 + 2 DLCs
-- PAC-MAN WORLD 2 Re-PAC: Deluxe Edition + 3 DLCs
-- Circus of Pain – v1.02
-- Shatterline: Shellguard & Randy Bundle, Build 20121937 + DLC
-- Trailer Park Tycoon: Raccoon Ranch + Bonus OST
-- HOTEL BARCELONA – v1.0.1
-- Sins of a Solar Empire II – v1.45.9 + 3 DLCs/Bonuses
-- Brews & Bastards – v1.1.9.0
-- Dead Silence: Echoes of the Damned
-- Sonic Racing: CrossWorlds, v1.1.2 + 3 Switch Emulators
+最后更新时间 `2025-10-01`，共 `5920` 款游戏。
+- Flashing Lights: Police, Firefighting, Emergency Services Simulator – Chief Edition, Build 240925-3 + 8 DLCs
+- Teenage Mutant Ninja Turtles: Splintered Fate – Heroes Premium Bundle, v1.11.0 + 4 DLCs/Bonuses
+- Baby Steps – Hotfix 2 (26.09.2025)
+- CULTIC: Complete Edition, Build 20066947, Chapters I/II + Bonus Soundtrack
+- Worshippers of Cthulhu – v1.0.0.0 (Release)
+- HYPERxFANTASY
+- Caribbean Legend: Complete Edition, v1.5.1 (26.09.25) + 6 DLCs
+- Mr. Prepper: Anniversary Edition – v1.42b + 3 DLCs/Bonuses
+- Twinkleby
+- Fights in Tight Spaces: Complete Edition – v1.2.11458 + 3 DLCs/Bonuses
 - ……
 
 ## 🙏 感谢
