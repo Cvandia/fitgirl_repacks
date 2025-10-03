@@ -15,7 +15,9 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-10-01`，共 `5920` 款游戏。
+最后更新时间 `2025-10-03`，共 `5926` 款游戏。
+- Hotel Magnate – v1.0 (Release)
+- Alien: Rogue Incursion Evolved Edition – Deluxe + 2 DLCs
 - Flashing Lights: Police, Firefighting, Emergency Services Simulator – Chief Edition, Build 240925-3 + 8 DLCs
 - Teenage Mutant Ninja Turtles: Splintered Fate – Heroes Premium Bundle, v1.11.0 + 4 DLCs/Bonuses
 - Baby Steps – Hotfix 2 (26.09.2025)
@@ -24,8 +26,6 @@
 - HYPERxFANTASY
 - Caribbean Legend: Complete Edition, v1.5.1 (26.09.25) + 6 DLCs
 - Mr. Prepper: Anniversary Edition – v1.42b + 3 DLCs/Bonuses
-- Twinkleby
-- Fights in Tight Spaces: Complete Edition – v1.2.11458 + 3 DLCs/Bonuses
 - ……
 
 ## 🙏 感谢
