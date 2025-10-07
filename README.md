@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-10-05`，共 `5931` 款游戏。
-- Hotel Magnate – v1.0 (Release)
-- Alien: Rogue Incursion Evolved Edition – Deluxe + 2 DLCs
-- Flashing Lights: Police, Firefighting, Emergency Services Simulator – Chief Edition, Build 240925-3 + 8 DLCs
-- Teenage Mutant Ninja Turtles: Splintered Fate – Heroes Premium Bundle, v1.11.0 + 4 DLCs/Bonuses
-- Baby Steps – Hotfix 2 (26.09.2025)
-- CULTIC: Complete Edition, Build 20066947, Chapters I/II + Bonus Soundtrack
-- Worshippers of Cthulhu – v1.0.0.0 (Release)
-- Super Mario Galaxy + Super Mario Galaxy 2, v1.2.0 + 5 Switch Emulators
-- Lost Records: Bloom & Rage – Soundtrack Edition, v2.04.132116 (Tapes 1 & 2) + Bonus OST
-- Castle of Heart: Retold – v1.0.3
+最后更新时间 `2025-10-07`，共 `5932` 款游戏。
+- The Matchless Kungfu – v1.3.9.1
+- Nicktoons & The Dice of Destiny + DLC
+- Nature & Life: Drunk On Nectar, v1.0.4.5.1 + Bonus Soundtrack
+- Train Sim World 6: Special Edition – Build 487 + 138 DLCs
+- The Grinch: Christmas Adventures
+- Combat Mission: Cold War – Complete Bundle, v1.10.02 + DLC
+- Fish Game – Build 19987652 + 6 DLCs
+- Mind Diver – v1.0.93
+- CORPOREAL
+- Aquarist: Full Experience Bundle – Build 19940524 + 4 DLCs
 - ……
 
 ## 🙏 感谢
