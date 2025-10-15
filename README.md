@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-10-13`，共 `5954` 款游戏。
-- 60 Minutes to Extinction: Escape Room – v1.0.1
-- Snezhinka: Sentinel Girls 2, v1.2.4 + Bonus Content
-- Lost Eidolons: Veil of the Witch – v1.0.6 + DLC
-- Curiosity – v1.0.1
-- Lethal Honor: Order of the Apocalypse
-- Bye Sweet Carole – v1.0.1 + Bonus ArtBook
-- The Legacy – v0.4971
-- Vasilisa and Baba Yaga: Digital Deluxe Edition, v1.5.7 + Bonus Content
-- KALPA: Cosmic Symphony – v2.0.0 + 7 DLCs
-- Little Rocket Lab – v1.0.1 + Bonus OST
+最后更新时间 `2025-10-15`，共 `5964` 款游戏。
+- Decide 4 God + Bonus OST
+- Monospaced Lovers, v1.0.5.0 + Bonus Soundtrack
+- Plus Ultra: Legado – v1.0.11 + Bonus OST
+- Trials Rising: Gold Edition + All DLCs/Inventory Items
+- Rise of the Tomb Raider: 20 Year Celebration – v1.0.1.2 GOG + All DLCs
+- Burden of Truth: Deluxe Edition – v1.0.7 + Bonus OST
+- Arcane Path
+- Snoopy & The Great Mystery Club: Deluxe Edition + Joe Cool Fun Pack DLC
+- Knock on the Coffin Lid: Complete Edition, v1.3.9.0 + 2 DLCs/Bonuses
+- Heroic Songs: The Remix!
 - ……
 
 ## 🙏 感谢
