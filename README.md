@@ -15,7 +15,7 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-10-17`，共 `5964` 款游戏。
+最后更新时间 `2025-10-19`，共 `5971` 款游戏。
 - AI LIMIT: Deluxe Edition, v1.1.001 + 2 DLCs
 - The Gretlow Tapes
 - Total War: Three Kingdoms – Collection, v1.7.1 Build 17847.0 + 10 DLCs
@@ -23,9 +23,9 @@
 - Age of Empires II: Definitive Edition – v101.103.26969.0 (#158041) + 14 DLCs/Bonuses + Windows 7 Fix
 - Forgotten Seas
 - TEKKEN 8: Ultimate Edition, v2.06.01 + 23 DLCs + Bonus Soundtrack
-- Arcane Path
-- Snoopy & The Great Mystery Club: Deluxe Edition + Joe Cool Fun Pack DLC
-- Knock on the Coffin Lid: Complete Edition, v1.3.9.0 + 2 DLCs/Bonuses
+- Stronghold Crusader: Definitive Edition – v2.01 + DLC
+- Cooking Simulator – v7.0.0 + 7 DLCs
+- Starlink: Battle for Atlas – Deluxe Edition + 2 DLCs
 - ……
 
 ## 🙏 感谢
