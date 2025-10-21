@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-10-19`，共 `5971` 款游戏。
-- AI LIMIT: Deluxe Edition, v1.1.001 + 2 DLCs
-- The Gretlow Tapes
-- Total War: Three Kingdoms – Collection, v1.7.1 Build 17847.0 + 10 DLCs
-- Lords of Ravage – v1.0-1-26
-- Age of Empires II: Definitive Edition – v101.103.26969.0 (#158041) + 14 DLCs/Bonuses + Windows 7 Fix
-- Forgotten Seas
-- TEKKEN 8: Ultimate Edition, v2.06.01 + 23 DLCs + Bonus Soundtrack
-- Stronghold Crusader: Definitive Edition – v2.01 + DLC
-- Cooking Simulator – v7.0.0 + 7 DLCs
-- Starlink: Battle for Atlas – Deluxe Edition + 2 DLCs
+最后更新时间 `2025-10-21`，共 `5978` 款游戏。
+- Our Adventurer Guild – v1.7 + DLC
+- PixelJunk Eden 2
+- Lumo 2 + Bonus OST
+- Knights in Tight Spaces: Collector’s Edition – v1.2.19677 + 2 DLCs/Bonuses
+- BALL x PIT + Bonus OST
+- Escape from Duckov – v1.0.20
+- The Crew 2: Gold Edition – v4060652 + All DLCs
+- Tempest Rising: Deluxe Edition, v1.5.1+51229 + 3 DLCs/Bonuses
+- Pokémon Legends: Z-A, v1.0.0 + DLC + 3 Switch Emulators
+- Recycling Center Simulator – v1.6.0
 - ……
 
 ## 🙏 感谢
