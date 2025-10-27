@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-10-23`，共 `5984` 款游戏。
-- Mohrta + Bonus Artbook
-- Cooking Simulator – v7.0.0 + 7 DLCs
-- Starlink: Battle for Atlas – Deluxe Edition + 2 DLCs
-- Keeper – v1.121.2146.0
-- The Black Grimoire: Cursebreaker – Build 20372594
-- The Crew 2: Gold Edition – v4060652 + All DLCs
-- Tempest Rising: Deluxe Edition, v1.5.1+51229 + 3 DLCs/Bonuses
-- Pokémon Legends: Z-A, v1.0.0 + DLC + 3 Switch Emulators
-- Recycling Center Simulator – v1.6.0
-- Dreams of Another
+最后更新时间 `2025-10-27`，共 `6000` 款游戏。
+- Isopod: A Webbed Spin-off
+- No Man’s Sky – v6.11 (154531, Breach Update) + 2 DLCs + Bonus OST
+- The Outer Worlds 2 – v1.0.3.0 + 5 DLCs/Bonuses
+- The Lonesome Guild: Soundtrack Edition + Bonus OST
+- House Flipper 2: Scooby Bundle, v1.10.0.0 + 2 DLCs + Windows 7 Fix
+- Onirism – v1.0 (Release)
+- Once Upon A KATAMARI: King of All Sounds Edition – v1.0.2 + 3 DLCs
+- GODBREAKERS: Juice Edition + 2 DLCs + Multiplayer
+- Tormented Souls 2: Digital Deluxe Edition – v1.2.0 + DLC
+- THIEF’S SHELTER
 - ……
 
 ## 🙏 感谢
