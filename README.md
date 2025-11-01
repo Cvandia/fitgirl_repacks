@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-10-27`，共 `6000` 款游戏。
-- Isopod: A Webbed Spin-off
-- No Man’s Sky – v6.11 (154531, Breach Update) + 2 DLCs + Bonus OST
-- The Outer Worlds 2 – v1.0.3.0 + 5 DLCs/Bonuses
-- The Lonesome Guild: Soundtrack Edition + Bonus OST
-- House Flipper 2: Scooby Bundle, v1.10.0.0 + 2 DLCs + Windows 7 Fix
-- Onirism – v1.0 (Release)
-- Once Upon A KATAMARI: King of All Sounds Edition – v1.0.2 + 3 DLCs
-- GODBREAKERS: Juice Edition + 2 DLCs + Multiplayer
-- Tormented Souls 2: Digital Deluxe Edition – v1.2.0 + DLC
-- THIEF’S SHELTER
+最后更新时间 `2025-11-01`，共 `6017` 款游戏。
+- Bleak Haven – v1.2.1
+- Session: Skate Sim – Year One & Two Edition, v1.0.6.37 + 10 DLCs
+- Franchise Hockey Manager 12 – v12.1 Build 19
+- Deep Rock Galactic: Deluxe Edition, v1.39.125673.0 + 13 DLCs/Bonuses
+- Wreckreation – v1.0.1.144924
+- Beneath – v0.9920f + DLC
+- Crusader Kings III: Collection, v1.18.0 (Crane) + 25 DLCs + Windows 7 Fix
+- FUNKYHEART
+- Dark Moon – Build 2025-10-29
+- Cities: Skylines II – Ultimate Edition, v1.3.6f1 + 19 DLCs + Bonus OSTs
 - ……
 
 ## 🙏 感谢
