@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-11-01`，共 `6017` 款游戏。
-- Bleak Haven – v1.2.1
-- Session: Skate Sim – Year One & Two Edition, v1.0.6.37 + 10 DLCs
-- Franchise Hockey Manager 12 – v12.1 Build 19
-- Deep Rock Galactic: Deluxe Edition, v1.39.125673.0 + 13 DLCs/Bonuses
-- Wreckreation – v1.0.1.144924
-- Beneath – v0.9920f + DLC
-- Crusader Kings III: Collection, v1.18.0 (Crane) + 25 DLCs + Windows 7 Fix
-- FUNKYHEART
-- Dark Moon – Build 2025-10-29
-- Cities: Skylines II – Ultimate Edition, v1.3.6f1 + 19 DLCs + Bonus OSTs
+最后更新时间 `2025-11-07`，共 `6038` 款游戏。
+- MARS 2120 – v1.0.6 + DLC
+- Malys: Soundtrack Edition – v1.0 (Release) + Bonus OST
+- DRAGON QUEST I & II HD-2D Remake – v1.0.1.0 + 6 DLCs + 4 Switch Emulators
+- SUFFOCATE – v1.0.1
+- Darkest Dungeon II: Resolute Edition, v2.04.80648 + 5 DLCs/Bonuses
+- Harvest Moon: Home Sweet Home Special Edition – v1.1 Build 538
+- Exogate Initiative: Supporter Bundle, v1.1.0.369bd70 + DLC
+- Bad Dream: Afterlife + Bonus OST
+- Builders of Egypt – v1.5021
+- Simon the Sorcerer Origins: Deluxe Edition – v1.0.1.10242025.58358 + 3 DLCs/Bonuses
 - ……
 
 ## 🙏 感谢
