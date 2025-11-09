@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-11-07`，共 `6038` 款游戏。
-- MARS 2120 – v1.0.6 + DLC
-- Malys: Soundtrack Edition – v1.0 (Release) + Bonus OST
-- DRAGON QUEST I & II HD-2D Remake – v1.0.1.0 + 6 DLCs + 4 Switch Emulators
-- SUFFOCATE – v1.0.1
-- Darkest Dungeon II: Resolute Edition, v2.04.80648 + 5 DLCs/Bonuses
-- Harvest Moon: Home Sweet Home Special Edition – v1.1 Build 538
-- Exogate Initiative: Supporter Bundle, v1.1.0.369bd70 + DLC
-- Bad Dream: Afterlife + Bonus OST
-- Builders of Egypt – v1.5021
+最后更新时间 `2025-11-09`，共 `6055` 款游戏。
+- Vellum – v1.2.0
+- Drop Dead: The Cabin
 - Simon the Sorcerer Origins: Deluxe Edition – v1.0.1.10242025.58358 + 3 DLCs/Bonuses
+- Death Frame
+- Farming Simulator 25: Year 1 Bundle, v1.14.0.1 (43034/68737) + 7 DLCs + Multiplayer
+- Barrel Roll – v1.0.1
+- Rising Star 2: Complete Bundle, v2.98.388 + 3 DLCs
+- Voidtrain – v1.0 (Release) + Supporter Upgrade DLC
+- KIBORG – Build 20681793 + 2 Bonus DLCs
+- Second Sun – v1.0.5b
 - ……
 
 ## 🙏 感谢
