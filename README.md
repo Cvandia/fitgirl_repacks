@@ -15,14 +15,14 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-11-09`，共 `6055` 款游戏。
-- Vellum – v1.2.0
-- Drop Dead: The Cabin
-- Simon the Sorcerer Origins: Deluxe Edition – v1.0.1.10242025.58358 + 3 DLCs/Bonuses
-- Death Frame
-- Farming Simulator 25: Year 1 Bundle, v1.14.0.1 (43034/68737) + 7 DLCs + Multiplayer
-- Barrel Roll – v1.0.1
-- Rising Star 2: Complete Bundle, v2.98.388 + 3 DLCs
+最后更新时间 `2025-11-11`，共 `6058` 款游戏。
+- Reentry: A Space Flight Simulator – v1.00.00 (Release)
+- 9 Souls
+- Bigfoot Life
+- Factorio – v2.0.72 (Build 84292) + Space Age DLC + Bonus Soundtracks
+- 1998: The Toll Keeper Story – Inflation Edition, v1.0.4f5 + Bonus Content
+- The Bench – v1.0.107
+- Earth vs Mars – v001.000.4207100
 - Voidtrain – v1.0 (Release) + Supporter Upgrade DLC
 - KIBORG – Build 20681793 + 2 Bonus DLCs
 - Second Sun – v1.0.5b
