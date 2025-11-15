@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-11-11`，共 `6058` 款游戏。
+最后更新时间 `2025-11-15`，共 `6070` 款游戏。
+- My Little Puppy – v1.0.2517.124175
+- Sanatorium: A Mental Asylum Simulator – v0.99 + Bonus OST
+- Jotunnslayer: Hordes of Hel – Collector’s Edition, v1.0.5.89760 + 5 DLCs/Bonuses
+- Restaurats: Deluxe Edition – v0.19.0.19 + 3 DLCs/Bonuses
+- The Séance of Blake Manor – v1.0.619.815r
+- LIZARDS MUST DIE 2: Deluxe Pack, Build 20619534 + 4 DLCs/Bonuses
+- Anima Gate of Memories: I & II Remaster
 - Reentry: A Space Flight Simulator – v1.00.00 (Release)
-- 9 Souls
-- Bigfoot Life
-- Factorio – v2.0.72 (Build 84292) + Space Age DLC + Bonus Soundtracks
-- 1998: The Toll Keeper Story – Inflation Edition, v1.0.4f5 + Bonus Content
-- The Bench – v1.0.107
-- Earth vs Mars – v001.000.4207100
-- Voidtrain – v1.0 (Release) + Supporter Upgrade DLC
-- KIBORG – Build 20681793 + 2 Bonus DLCs
-- Second Sun – v1.0.5b
+- VORON: Raven’s Story & Soundtrack + Bonus OST
+- Pigeon Simulator – v1.0.1
 - ……
 
 ## 🙏 感谢
