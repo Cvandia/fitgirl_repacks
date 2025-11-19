@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-11-17`，共 `6075` 款游戏。
-- Store Wars: Multiplayer Shop Simulator
-- Surviving Mars: Relaunched – v1.0.0.382125 + DLC
-- Dispatch: Digital Deluxe Edition & Soundtrack – v1.0.16218 + All 8 Episodes + Bonus DLCs
-- My Little Puppy – v1.0.2517.124175
-- Sanatorium: A Mental Asylum Simulator – v0.99 + Bonus OST
-- Jotunnslayer: Hordes of Hel – Collector’s Edition, v1.0.5.89760 + 5 DLCs/Bonuses
-- Restaurats: Deluxe Edition – v0.19.0.19 + 3 DLCs/Bonuses
-- The Séance of Blake Manor – v1.0.619.815r
-- LIZARDS MUST DIE 2: Deluxe Pack, Build 20619534 + 4 DLCs/Bonuses
-- Lost Paws – v1.0.5
+最后更新时间 `2025-11-19`，共 `6079` 款游戏。
+- MX vs ATV Legends: Deluxe Edition, v4.15 + 38 DLCs + Windows 7 Fix
+- Amanda the Adventurer 3 – v1.0.10 + Bonus OST
+- STAR WARS: Squadrons – v1.0.10.39591
+- Zero Hour: Gold Edition – Build 20792172 + 7 DLCs/Bonuses
+- NASCAR 25 – vNov.10.2025 + 2 DLCs
+- Laundering Simulator: Clean Cash and Laundry
+- WWE 2K25: Farewell Tour Edition, v1.28 + 18 DLCs (Monkey Repack)
+- CRABS MUST DIE!
+- Kentum – v1.0.b114.cl75908
+- Atelier Ryza Secret Trilogy Deluxe Pack
 - ……
 
 ## 🙏 感谢
