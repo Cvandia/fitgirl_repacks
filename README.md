@@ -15,15 +15,15 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-11-23`，共 `6094` 款游戏。
-- The Lord of the Rings: Return to Moria – Collector’s Edition, v1.6.2.217289 + 8 DLCs/Bonuses
-- Winds of Arcana: Ruination
-- Inn Tycoon – Version 42 (Release)
-- For The King II: Deluxe Edition – v1.10.8 + 4 DLCs/Bonuses
-- Little Corners: Complete Bundle, v1.1.1 + Bonus OST
-- BEYBLADE X EVOBATTLE: Deluxe Edition – v1.0.0 + 6 DLCs
-- Kentum – v1.0.b114.cl75908
-- Atelier Ryza Secret Trilogy Deluxe Pack
+最后更新时间 `2025-11-25`，共 `6106` 款游戏。
+- Cubic Odyssey – v1.1.2.6
+- Outside the Blocks
+- Retrace the Light – v1.0.2311 + DLC
+- SubwaySim 2 – v2673 + Hamburg Akkulok AL1 DLC
+- Possessor(s) – v1.1.0-136288/v1.4.0-136805
+- Driving Life
+- Police Simulator: Patrol Officers – Ultimate Duty Edition, v21.0.5-rc5+rel.544-395427 + 19 DLCs
+- Battlefield 6 (Campaign Only) – v1.1.2.0 + Bonus OST + HD Textures Pack
 - Goodnight Universe – v1.0.1
 - Goat Simulator 3: Multiversal Traveler’s Bundle, v1.2.0.0_451194 + 5 DLCs/Bonuses
 - ……
