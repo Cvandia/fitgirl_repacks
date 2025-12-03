@@ -15,16 +15,16 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-12-01`，共 `6123` 款游戏。
-- Kriophobia – v1.0.1
-- Aquarist: Full Experience Bundle – Build 20830229 + 5 DLCs
-- ASTRONEER – v1.36.31.0 + 3 DLCs/Bonuses
-- TORMENTOR
-- SpaceBourne 2 – v1.0.0
-- Monster Hunter Stories 2: Wings of Ruin – Deluxe Edition, v1.6.1 + 24 DLCs/Bonuses
-- FIFA 21 – v1.0.72.32477 [Monkey Repack]
-- Foolish Mortals: Deluxe Edition – v1.1 + 3 Bonus DLCs
-- Cash Cleaner Simulator – v1.3.1.643 + 3 DLCs/Bonuses
+最后更新时间 `2025-12-03`，共 `6126` 款游戏。
+- Bloodface
+- Demeo x Dungeons & Dragons: Battlemarked – v1.4.26558/v1.6.26714
+- Company of Heroes 3: Ultimate Bundle, v2.2.0.40455 + 6 DLCs
+- A.I.L.A – v1.0.0.6001
+- Mara
+- Diplomacy is Not an Option – v1.0.99 + Bonus Content
+- Duskpunk
+- Hunter’s Moon: A Sovereign Syndicate Adventure, v1.0.44 + 2 Bonus DLCs
+- Cricket 22 – v0.1.3221
 - Hail to the Rainbow
 - ……
 
