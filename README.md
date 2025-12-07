@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-12-03`，共 `6126` 款游戏。
-- Bloodface
-- Demeo x Dungeons & Dragons: Battlemarked – v1.4.26558/v1.6.26714
-- Company of Heroes 3: Ultimate Bundle, v2.2.0.40455 + 6 DLCs
-- A.I.L.A – v1.0.0.6001
-- Mara
-- Diplomacy is Not an Option – v1.0.99 + Bonus Content
-- Duskpunk
-- Hunter’s Moon: A Sovereign Syndicate Adventure, v1.0.44 + 2 Bonus DLCs
-- Cricket 22 – v0.1.3221
-- Hail to the Rainbow
+最后更新时间 `2025-12-07`，共 `6140` 款游戏。
+- Poly Bridge 3: Deluxe Edition – v1.5.10 + Bonus OST
+- Blood: Refreshed Supply
+- Across The Obelisk: Complete Bundle – v1.7.0 + 13 DLCs
+- Wretch: Divine Ascent – Challenger Collector’s Edition, v1.0.1 + 2 DLCs/Bonuses
+- FEROCIOUS
+- Void Marauders
+- Call to Arms: Gates of Hell – Ostfront: Ultimate Edition, v1.057.0 + 7 DLCs
+- ROUTINE – v1.7.0.0
+- American Truck Simulator – v1.57.2.0s + 60 DLCs
+- Constance – v1.0.1.40150 + Bonus OST
 - ……
 
 ## 🙏 感谢
