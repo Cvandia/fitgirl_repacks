@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-12-07`，共 `6140` 款游戏。
-- Poly Bridge 3: Deluxe Edition – v1.5.10 + Bonus OST
-- Blood: Refreshed Supply
-- Across The Obelisk: Complete Bundle – v1.7.0 + 13 DLCs
-- Wretch: Divine Ascent – Challenger Collector’s Edition, v1.0.1 + 2 DLCs/Bonuses
-- FEROCIOUS
-- Void Marauders
-- Call to Arms: Gates of Hell – Ostfront: Ultimate Edition, v1.057.0 + 7 DLCs
-- ROUTINE – v1.7.0.0
-- American Truck Simulator – v1.57.2.0s + 60 DLCs
-- Constance – v1.0.1.40150 + Bonus OST
+最后更新时间 `2025-12-11`，共 `6154` 款游戏。
+- Business Heroes: Street Grub – v1.0.0 (Release)
+- Rugby 25 – v1.0.4016
+- The Monster Breeder – v1.07
+- Tiny Bunny + Bonus OST
+- Skate Story
+- The Art of Reflection + Bonus OST
+- Yakuza 0 Director’s Cut – v1.11
+- Strategic Command: American Civil War – Complete Bundle, v1.12.0 + 2 DLCs
+- MechWarrior 5: Clans – Digital Collectors Edition, v1.0.132 + 5 DLCs
+- Scott Pilgrim vs. The World: The Game – Complete Edition
 - ……
 
 ## 🙏 感谢
