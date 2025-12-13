@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-12-11`，共 `6154` 款游戏。
-- Business Heroes: Street Grub – v1.0.0 (Release)
-- Rugby 25 – v1.0.4016
-- The Monster Breeder – v1.07
-- Tiny Bunny + Bonus OST
-- Skate Story
+最后更新时间 `2025-12-13`，共 `6159` 款游戏。
+- Ready or Not: LSPD Bundle – v97150 + v66884 + 5 DLCs/Bonuses
+- Terminator 2D: NO FATE
+- Victoria 3: Ultimate Bundle, v1.12.0 + 16 DLCs/Bonuses + Windows 7 Fix
+- The Cold White – v0.0.11
+- Galactic Civilizations IV: Supernova Edition – v3.10 + 7 DLCs/Bonuses
+- Titans of the Past
 - The Art of Reflection + Bonus OST
 - Yakuza 0 Director’s Cut – v1.11
-- Strategic Command: American Civil War – Complete Bundle, v1.12.0 + 2 DLCs
-- MechWarrior 5: Clans – Digital Collectors Edition, v1.0.132 + 5 DLCs
-- Scott Pilgrim vs. The World: The Game – Complete Edition
+- Astral Ascent – v2.4.0 (1181) + 5 DLCs/Bonuses
+- Metroid Prime 4: Beyond – v1.1.0 + Citron Switch Emulator
 - ……
 
 ## 🙏 感谢
