@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-12-13`，共 `6159` 款游戏。
-- Ready or Not: LSPD Bundle – v97150 + v66884 + 5 DLCs/Bonuses
-- Terminator 2D: NO FATE
-- Victoria 3: Ultimate Bundle, v1.12.0 + 16 DLCs/Bonuses + Windows 7 Fix
-- The Cold White – v0.0.11
-- Galactic Civilizations IV: Supernova Edition – v3.10 + 7 DLCs/Bonuses
-- Titans of the Past
-- The Art of Reflection + Bonus OST
-- Yakuza 0 Director’s Cut – v1.11
-- Astral Ascent – v2.4.0 (1181) + 5 DLCs/Bonuses
-- Metroid Prime 4: Beyond – v1.1.0 + Citron Switch Emulator
+最后更新时间 `2025-12-19`，共 `6171` 款游戏。
+- NASCAR 25: Gold Edition – vDec.11.2025 + 3 DLCs
+- Clothing Store Simulator – v1.0.0
+- PANICORE: Supporter Pack, v1.3 + Bonus Soundtrack
+- She’s Leaving
+- Yooka-Replaylee – v1.02
+- Crime Boss: Rockay City – The Complete Collection, v1.19 + 11 DLCs
+- Netherworld Covenant – v1.0.0 (911)
+- Cricket 24 – v0.2.5521
+- Just Cause 3: XXL Edition – v1.05 Denuvoless + All DLCs
+- Zombie Diner Simulator – v0.65
 - ……
 
 ## 🙏 感谢
