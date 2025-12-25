@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-12-23`，共 `6180` 款游戏。
+最后更新时间 `2025-12-25`，共 `6184` 款游戏。
+- City Transport Simulator: Bus + Tram Special Bundle, v1.4.0 + 13 DLCs
+- Star Trucker: Deluxe Bundle – v1.0.72.2 + 5 DLCs/Bonuses
+- Persona 5 Royal – v1.3B + Bonus OST
+- Total War: Three Kingdoms – Collection, v1.7.8 Build 187 GOG + 10 DLCs
+- AFL 23 – v1.0.6618
+- The Spirit of the Samurai: Deluxe Edition – v1.0.15 + Bonus OST
 - Mutant Football League 2
 - Just Cause 3: XXL Edition – v1.05 Denuvoless + All DLCs
 - Zombie Diner Simulator – v0.65
-- Death Howl: Deluxe Edition – v1.0.0.1 + 2 Bonus DLCs
-- Snow Plowing Simulator: Ski Resort Edition – v2511261103 + DLC
-- SANABI – v1.3.51 + A Haunted Day DLC + Bonus OST
-- Pawn Planet – v1.0
-- Isles of Sea and Sky: Game and Soundtrack Bundle – v2.5d + Bonus OST
-- Project Hunt: Hunter’s Collection – Build 21226542 + 3 DLCs
-- Ranch Farm and Store Simulator – v1.0.0 (Release)
+- Vampiress: Eternal Duet
 - ……
 
 ## 🙏 感谢
