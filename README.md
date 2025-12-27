@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-12-25`，共 `6184` 款游戏。
-- City Transport Simulator: Bus + Tram Special Bundle, v1.4.0 + 13 DLCs
-- Star Trucker: Deluxe Bundle – v1.0.72.2 + 5 DLCs/Bonuses
-- Persona 5 Royal – v1.3B + Bonus OST
-- Total War: Three Kingdoms – Collection, v1.7.8 Build 187 GOG + 10 DLCs
-- AFL 23 – v1.0.6618
-- The Spirit of the Samurai: Deluxe Edition – v1.0.15 + Bonus OST
-- Mutant Football League 2
-- Just Cause 3: XXL Edition – v1.05 Denuvoless + All DLCs
-- Zombie Diner Simulator – v0.65
+最后更新时间 `2025-12-27`，共 `6186` 款游戏。
+- Swordhaven: Iron Conspiracy – v1.0.0 + 4 DLCs/Bonuses
+- Urban Jungle: Complete Bundle, v1.0.70.2 + 2 DLCs/Bonuses
+- Onirism – Build 21264271
+- Electronic Market Simulator
+- Oddsparks: An Automation Adventure – Ultimate Edition, v1.0.S31386 + 6 DLCs
 - Vampiress: Eternal Duet
+- Pure Badminton
+- Hot Rod Mayhem – v1.3.16
+- The Temple of Elemental Evil – (Re-release)
+- Lorn’s Lure, Build 21185492 + 2 DLCs/Bonuses
 - ……
 
 ## 🙏 感谢
