@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2025-12-27`，共 `6186` 款游戏。
-- Swordhaven: Iron Conspiracy – v1.0.0 + 4 DLCs/Bonuses
-- Urban Jungle: Complete Bundle, v1.0.70.2 + 2 DLCs/Bonuses
-- Onirism – Build 21264271
-- Electronic Market Simulator
-- Oddsparks: An Automation Adventure – Ultimate Edition, v1.0.S31386 + 6 DLCs
-- Vampiress: Eternal Duet
-- Pure Badminton
-- Hot Rod Mayhem – v1.3.16
-- The Temple of Elemental Evil – (Re-release)
-- Lorn’s Lure, Build 21185492 + 2 DLCs/Bonuses
+最后更新时间 `2026-01-27`，共 `6187` 款游戏。
+- Legitimate Space Corp Simulator LLC – v1.02.87
+- Chinese Frontiers – v2.1.1401 (2.1.2)
+- Sandwich Simulator
+- Wicked Seed
+- Weird RPG 2
+- Little Gods of the Abyss
+- Jukai Maze – v1.0.8 + Bonus Wallpapers
+- Fighting Force Collection – v1.0.9
+- Escape from Ever After – v2.7.4
+- C.A.R.S.: Creating A Ridiculous Shitshow
 - ……
 
 ## 🙏 感谢
