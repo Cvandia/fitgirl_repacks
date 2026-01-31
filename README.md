@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2026-01-29`，共 `6191` 款游戏。
-- Underground Garage – v157 (Release)
-- Viractal: Will You Trust Your Party? – v1.0.0 (Release)
-- Terraria – v1.4.5.0 (Bigger & Boulder Update) + Bonus OST
-- S.E.M.I.: Side Effects May Include… – v1.0.ebcf741ea + Bonus OSTs
-- Rent A Car Simulator 24 – v1.1.0
-- Disco Elysium: The Final Cut Bundle, GOG Build a0a063ab + Bonus Content
-- Legitimate Space Corp Simulator LLC – v1.02.87
+最后更新时间 `2026-01-31`，共 `6193` 款游戏。
 - Chinese Frontiers – v2.1.1401 (2.1.2)
 - Sandwich Simulator
 - Wicked Seed
+- Weird RPG 2
+- Little Gods of the Abyss
+- Jukai Maze – v1.0.8 + Bonus Wallpapers
+- Fighting Force Collection – v1.0.9
+- Escape from Ever After – v2.7.4
+- I Hate This Place – v1.0.13_15856
+- ROMANCE OF THE THREE KINGDOMS 8 REMAKE – Digital Deluxe Edition, v1.1.0 + 14 DLCs
 - ……
 
 ## 🙏 感谢
