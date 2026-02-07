@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2026-01-31`，共 `6193` 款游戏。
-- Chinese Frontiers – v2.1.1401 (2.1.2)
-- Sandwich Simulator
-- Wicked Seed
-- Weird RPG 2
-- Little Gods of the Abyss
-- Jukai Maze – v1.0.8 + Bonus Wallpapers
-- Fighting Force Collection – v1.0.9
-- Escape from Ever After – v2.7.4
-- I Hate This Place – v1.0.13_15856
-- ROMANCE OF THE THREE KINGDOMS 8 REMAKE – Digital Deluxe Edition, v1.1.0 + 14 DLCs
+最后更新时间 `2026-02-07`，共 `6217` 款游戏。
+- The Last Spell: Legendary Edition – v1.3.32.0.s.det + 4 DLCs/Bonuses
+- ANTHEM#9
+- MY HERO ACADEMIA: All’s Justice – v01.00 + 9 DLCs
+- Dead Grid – v1.0.31
+- Colonize – v1.0 (Release)
+- Hoverflow – v1.0 (Release)
+- Blind Touch – v1.16.3
+- GOD FORSAKEN – v1.0.0/Release + 2 DLCs
+- Monster Train 2: Deluxe Edition, Build #16171 + 3 DLCs/Bonuses
+- Poly TD – v1.0.1.41
 - ……
 
 ## 🙏 感谢
