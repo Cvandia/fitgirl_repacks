@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2026-02-15`，共 `6239` 款游戏。
-- Cash Cleaner Simulator: Complete Collection, v1.5.1.961 + 4 DLCs/Bonuses
-- Westwood Shadows – v1.0.1
-- Iron Saga VS: Deluxe Bundle – v1.4.3r1_0 + 2 DLCs
-- Executive Assault 2 – v1.0.9.218a + Bonus Soundtrack
-- Dead Pets: A Punk Rock Slice of Life Sim – Deluxe Edition, v1.1.0c + Bonus OST
-- Total War: PHARAOH DYNASTIES – v2.1.6 + 3 DLCs/Bonuses + Modding Tools
-- Granblue Fantasy Versus: Rising, v2.50 + 54 DLCs/Bonuses + Multiplayer
-- Machine Tower 2984: Supporter Pack – v1.0.0 + Bonus OST
-- Mewgenics – v1.0.20622
-- The Sims 4: Deluxe Edition – v1.121.361.1020 + All DLCs/Add-ons + Bonus Soundtracks + Online
+最后更新时间 `2026-02-19`，共 `6248` 款游戏。
+- Styx: Blades of Greed – Quartz Edition + 5 DLCs
+- Age of Empires II: Definitive Edition – v101.103.38051.0 (#169123) + 15 DLCs/Bonuses + Windows 7 Fix
+- NORSE: Oath of Blood – Special Edition, v1.0.0 + 2 DLCs
+- ChromaGun 2: Dye Hard
+- An Abyss of Dreams
+- Rayman: 30th Anniversary Edition
+- Shadowgate 2 – v1.0.9
+- My Cafe Manager Simulator – v1.0.3
+- RIDE 6 + 2 DLCs
+- REANIMAL – v354342/5 + DLC
 - ……
 
 ## 🙏 感谢
