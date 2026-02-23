@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2026-02-19`，共 `6248` 款游戏。
+最后更新时间 `2026-02-23`，共 `6262` 款游戏。
+- PurrPlate – v1.1
+- Pure Pool Pro – Build 1605
+- Ashes of Ambition
+- Sky Realm Idle
 - Styx: Blades of Greed – Quartz Edition + 5 DLCs
 - Age of Empires II: Definitive Edition – v101.103.38051.0 (#169123) + 15 DLCs/Bonuses + Windows 7 Fix
 - NORSE: Oath of Blood – Special Edition, v1.0.0 + 2 DLCs
 - ChromaGun 2: Dye Hard
 - An Abyss of Dreams
-- Rayman: 30th Anniversary Edition
-- Shadowgate 2 – v1.0.9
-- My Cafe Manager Simulator – v1.0.3
-- RIDE 6 + 2 DLCs
-- REANIMAL – v354342/5 + DLC
+- Gatekeeper: Deluxe Edition – v1.2.0.00 + 2 DLCs
 - ……
 
 ## 🙏 感谢
