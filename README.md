@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2026-02-23`，共 `6262` 款游戏。
-- PurrPlate – v1.1
-- Pure Pool Pro – Build 1605
-- Ashes of Ambition
-- Sky Realm Idle
-- Styx: Blades of Greed – Quartz Edition + 5 DLCs
-- Age of Empires II: Definitive Edition – v101.103.38051.0 (#169123) + 15 DLCs/Bonuses + Windows 7 Fix
-- NORSE: Oath of Blood – Special Edition, v1.0.0 + 2 DLCs
-- ChromaGun 2: Dye Hard
-- An Abyss of Dreams
-- Gatekeeper: Deluxe Edition – v1.2.0.00 + 2 DLCs
+最后更新时间 `2026-02-27`，共 `6277` 款游戏。
+- Railroad Corporation 2 – v1.0.19116 + DLC
+- The Last Citadel – v1.0.0.4.3
+- INAZUMA ELEVEN: Victory Road – Deluxe Edition, v4.0.1 + 2 DLCs
+- The Slaverian Trucker – v20/02/26
+- Mini Cozy Room: Lo-Fi – All in One Bundle, v1.05.01 + 8 DLCs
+- Seclusa – v1.0.4i
+- Placid Plastic Deck: A Quiet Quest – v1.0.4 + Bonus OST
+- UnderRail Complete – v1.3.1.2 + 2 DLCs
+- Trash Goblin: Complete Bundle – v1.3.5.8836 + 5 DLCs/Bonuses
+- Digger: Galactic Treasures – v1.22
 - ……
 
 ## 🙏 感谢
