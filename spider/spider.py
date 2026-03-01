@@ -12,11 +12,36 @@ sem = asyncio.Semaphore(3)  # Limit to 3 concurrent tasks
 
 
 async def fetch_page(session: aiohttp.ClientSession, url):
+    """
+    异步获取网页内容，支持重试机制和并发控制
+    
+    参数:
+        session (aiohttp.ClientSession): HTTP客户端会话对象
+        url (str): 要获取的网页URL地址
+    
+    返回值:
+        str or None: 成功时返回网页文本内容，失败时返回None
+    """
     async with sem:
-        async with session.get(url, max_redirects=5) as response:
-            return await response.text()
-
-
+        max_retries = 3
+        for attempt in range(max_retries):
+            try:
+                async with session.get(url, max_redirects=10, timeout=aiohttp.ClientTimeout(total=30)) as response:
+                    return await response.text()
+            except aiohttp.client_exceptions.TooManyRedirects as e:
+                # 处理重定向过多异常
+                logger.warning(f"重定向错误 (尝试 {attempt + 1}/{max_retries}): {url}, 错误: {e}")
+                if attempt == max_retries - 1:
+                    logger.error(f"多次尝试后仍无法获取页面: {url}")
+                    return None
+                await asyncio.sleep(2 ** attempt)  # 指数退避
+            except Exception as e:
+                # 处理其他网络请求异常
+                logger.error(f"获取页面失败 {url}: {e}")
+                if attempt == max_retries - 1:
+                    return None
+                await asyncio.sleep(2 ** attempt)
+        return None
 async def fetch_data(session, page):
     url = f"{site_url}/page/{page}"
     logger.info(f"正在爬取第 {page} 页")
