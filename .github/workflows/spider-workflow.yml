@@ -3,8 +3,8 @@ name: Spider Workflow
 on:
   workflow_dispatch:
   schedule:
-    # 每两天0点
-    - cron: '0 0 */2 * *'
+    # Run every 4 days at midnight
+    - cron: '0 0 */4 * *'   
 
 jobs:
   build:
