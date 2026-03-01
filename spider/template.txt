@@ -12,7 +12,8 @@
 <body>
   <div class="container">
     <h1>FitGirl Repacks 镜像库</h1>
-    <h4>更多信息访问 https://fitgirl-repacks.site/</h4>
+    <h4>更多信息访问 <a href="https://fitgirl-repacks.site/" target="_blank">https://fitgirl-repacks.site/</a></h4>
+    <h4>更新时间：{{lastupdated[:4]}}年{{lastupdated[4:6]}}月{{lastupdated[6:8]}}日</h4>
 
     <div class="icons">
       <a href="https://github.com/Cvandia/fitgirl_repacks" target="_blank"></a>
