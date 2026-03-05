@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2026-02-27`，共 `6277` 款游戏。
-- Railroad Corporation 2 – v1.0.19116 + DLC
-- The Last Citadel – v1.0.0.4.3
-- INAZUMA ELEVEN: Victory Road – Deluxe Edition, v4.0.1 + 2 DLCs
-- The Slaverian Trucker – v20/02/26
-- Mini Cozy Room: Lo-Fi – All in One Bundle, v1.05.01 + 8 DLCs
-- Seclusa – v1.0.4i
-- Placid Plastic Deck: A Quiet Quest – v1.0.4 + Bonus OST
-- UnderRail Complete – v1.3.1.2 + 2 DLCs
-- Trash Goblin: Complete Bundle – v1.3.5.8836 + 5 DLCs/Bonuses
-- Digger: Galactic Treasures – v1.22
+最后更新时间 `2026-03-05`，共 `6292` 款游戏。
+- SUPER BOMBERMAN COLLECTION – v1.00.09
+- Assassin’s Creed Mirage: Master Assassin Edition – v1.1.1 + 13 DLCs* + Bonus Content
+- UMIGARI – v1.63
+- Mai: Child of Ages – v1.18 + 2 DLCs/Bonuses
+- Towerborne: Deluxe Edition – v5.6.1-488249.4611 + 4 DLCs
+- Nature & Life: Drunk On Nectar – Complete Bundle, v1.0.6 + 2 DLCs/Bonuses
+- New Heights: Realistic Climbing and Bouldering – v1.0.0
+- SimRail: The Railway Simulator, v26.02.2026 + 5 DLCs
+- Armored Brigade II: Complete Bundle – v1.602 + Scandinavia DLC
+- Half-Life: Alyx – v1.5.4 + DLC + HLA-NoVR-Launcher v4.2.4
 - ……
 
 ## 🙏 感谢
