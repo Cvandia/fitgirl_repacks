@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2026-03-05`，共 `6292` 款游戏。
-- SUPER BOMBERMAN COLLECTION – v1.00.09
-- Assassin’s Creed Mirage: Master Assassin Edition – v1.1.1 + 13 DLCs* + Bonus Content
-- UMIGARI – v1.63
-- Mai: Child of Ages – v1.18 + 2 DLCs/Bonuses
-- Towerborne: Deluxe Edition – v5.6.1-488249.4611 + 4 DLCs
-- Nature & Life: Drunk On Nectar – Complete Bundle, v1.0.6 + 2 DLCs/Bonuses
-- New Heights: Realistic Climbing and Bouldering – v1.0.0
-- SimRail: The Railway Simulator, v26.02.2026 + 5 DLCs
-- Armored Brigade II: Complete Bundle – v1.602 + Scandinavia DLC
-- Half-Life: Alyx – v1.5.4 + DLC + HLA-NoVR-Launcher v4.2.4
+最后更新时间 `2026-03-09`，共 `6305` 款游戏。
+- Once Upon A KATAMARI: King of All Sounds Edition – v1.1.0 + 5 DLCs
+- Banquet for Fools
+- ICARUS: Complete the Set Bundle, v3.0.0.150025 + 21 DLCs
+- Homura Hime
+- Songs of Conquest: Complete Bundle, v1.9.0 + 6 DLCs/Bonuses
+- Planet of Lana II – v1.0.13 (MS Store) / v1.0.14 (Steam) + DLC
+- MotorCubs RC
+- Docked: Deluxe Edition + 3 DLCs
+- Mirage 7 – v1.0.2
+- AETHUS – v1.0
 - ……
 
 ## 🙏 感谢
