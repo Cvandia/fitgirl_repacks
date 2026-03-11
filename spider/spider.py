@@ -183,6 +183,10 @@ async def main():
             with open(template_file, "r", encoding="utf-8") as f:
                 template_content = f.read()
             template_content = template_content.replace("{{lastupdated}}", current_time)
+            # 添加以下三行来处理日期切片格式
+            template_content = template_content.replace("year", current_time[:4])
+            template_content = template_content.replace("month", current_time[4:6])
+            template_content = template_content.replace("day", current_time[6:8])
             with open(html_file, "w", encoding="utf-8") as f:
                 f.write(template_content)
             logger.info(f"HTML 模板 {html_file} 已更新")
