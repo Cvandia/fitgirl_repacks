@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2026-03-09`，共 `6305` 款游戏。
-- Once Upon A KATAMARI: King of All Sounds Edition – v1.1.0 + 5 DLCs
-- Banquet for Fools
-- ICARUS: Complete the Set Bundle, v3.0.0.150025 + 21 DLCs
-- Homura Hime
-- Songs of Conquest: Complete Bundle, v1.9.0 + 6 DLCs/Bonuses
-- Planet of Lana II – v1.0.13 (MS Store) / v1.0.14 (Steam) + DLC
-- MotorCubs RC
-- Docked: Deluxe Edition + 3 DLCs
-- Mirage 7 – v1.0.2
-- AETHUS – v1.0
+最后更新时间 `2026-03-13`，共 `6314` 款游戏。
+- Runeborn – v1.0.10
+- Out of Sight Ultimate- v1.1.93 + Stage Fright DLC
+- FATAL FRAME II: Crimson Butterfly REMAKE – Digital Deluxe Edition, v1.02.01 + 4 DLCs/Bonuses
+- GreedFall: The Dying World – Deluxe Edition, v1.0.0.0 + 4 DLCs/Bonuses
+- The House of Tesla: Definitive Edition – v109
+- TerraScape: Complete Edition – v2.0.0.0 + 2 DLCs/Bonuses
+- Stellarcraft – v1.0.0.0 + Bonus OST
+- Lost and Found Co.
+- Astro Fighters 2 – v1.9.9.9.9
+- Masks of the Void: Origins
 - ……
 
 ## 🙏 感谢
