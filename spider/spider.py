@@ -3,6 +3,7 @@ import csv
 import aiohttp
 import asyncio
 import random
+from aiohttp.client_exceptions import TooManyRedirects
 from bs4 import BeautifulSoup
 from datetime import datetime
 from loguru import logger
@@ -28,7 +29,7 @@ async def fetch_page(session: aiohttp.ClientSession, url):
             try:
                 async with session.get(url, max_redirects=10, timeout=aiohttp.ClientTimeout(total=30)) as response:
                     return await response.text()
-            except aiohttp.client_exceptions.TooManyRedirects as e:
+            except TooManyRedirects as e:
                 # 处理重定向过多异常
                 logger.warning(f"重定向错误 (尝试 {attempt + 1}/{max_retries}): {url}, 错误: {e}")
                 if attempt == max_retries - 1:
