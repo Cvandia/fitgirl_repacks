@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2026-03-13`，共 `6314` 款游戏。
+最后更新时间 `2026-03-17`，共 `6326` 款游戏。
+- Ready or Not: Digital Deluxe Edition, v112610 (v1.4.1) + v66884 + 6 DLCs/Bonuses
+- Timberborn – v1.0.12.3 + Bonus OST
+- The Liar Princess and the Blind Prince
+- Mr. Sleepy Man
+- Age of Wonders 4: Collector’s Bundle, v1.014.002.119583 + 15 DLCs
+- 1348 Ex Voto
+- Galactic Vault: Supporter Edition – v1.0.2 + DLC
 - Runeborn – v1.0.10
 - Out of Sight Ultimate- v1.1.93 + Stage Fright DLC
 - FATAL FRAME II: Crimson Butterfly REMAKE – Digital Deluxe Edition, v1.02.01 + 4 DLCs/Bonuses
-- GreedFall: The Dying World – Deluxe Edition, v1.0.0.0 + 4 DLCs/Bonuses
-- The House of Tesla: Definitive Edition – v109
-- TerraScape: Complete Edition – v2.0.0.0 + 2 DLCs/Bonuses
-- Stellarcraft – v1.0.0.0 + Bonus OST
-- Lost and Found Co.
-- Astro Fighters 2 – v1.9.9.9.9
-- Masks of the Void: Origins
 - ……
 
 ## 🙏 感谢
