@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2026-03-17`，共 `6326` 款游戏。
-- Ready or Not: Digital Deluxe Edition, v112610 (v1.4.1) + v66884 + 6 DLCs/Bonuses
-- Timberborn – v1.0.12.3 + Bonus OST
-- The Liar Princess and the Blind Prince
-- Mr. Sleepy Man
-- Age of Wonders 4: Collector’s Bundle, v1.014.002.119583 + 15 DLCs
-- 1348 Ex Voto
-- Galactic Vault: Supporter Edition – v1.0.2 + DLC
-- Runeborn – v1.0.10
-- Out of Sight Ultimate- v1.1.93 + Stage Fright DLC
-- FATAL FRAME II: Crimson Butterfly REMAKE – Digital Deluxe Edition, v1.02.01 + 4 DLCs/Bonuses
+最后更新时间 `2026-03-21`，共 `6342` 款游戏。
+- Heroes of Science and Fiction – v1.0 (Release) + Bonus OST
+- Project Hunt: Hunter’s Collection – Build 22403299 + 4 DLCs
+- Age of Barbarians Chronicles – v1.0.2.3
+- AI.VI + Bonus OST
+- DEADLINE DELIVERY – v0.973 + Bonus OST
+- DEATH STRANDING 2: ON THE BEACH – Digital Deluxe Edition, v1.0.48 + 2 DLCs + 2 Bonus OSTs
+- Talisman: Digital 5th Edition – Complete, Build 86150 + 9 DLCs/Bonuses
+- Sherman Commander – v1.0 + Bonus DLC*
+- Egypt Frontiers
+- Spin Rhythm XD – v1.8 + 5 DLCs/Bonuses
 - ……
 
 ## 🙏 感谢
