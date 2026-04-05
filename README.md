@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2026-04-01`，共 `6381` 款游戏。
+最后更新时间 `2026-04-05`，共 `6395` 款游戏。
+- Xenonauts 2 – v7.18.3 (v1.0 Release)
+- Mortal Kombat 1: Khaos Reigns Kollection – v0.308 + 37 DLCs + Bonus OST + 4K Videos Add-on
+- Darwin’s Paradox! + Pre-Order Skin Pack DLC
+- Salvage Shop Simulator – v1.0.020
+- Two Point Museum: Explorer Edition – v8.0.216267 + 4 DLCs
+- Before Exit: Gas Station – Complete Edition, v3.1.3256 + 3 DLCs/Bonuses
+- Street Fighter 6: Years 1-2 Fighters Edition, v2.0201.000 + 10* DLCs + 5 Bonus Soundtracks
+- Need for Speed Unbound: Ultimate Collection, v1.0.8.2549 (Volume 9 Update) + All DLCs + Bonus OST
+- The Artisan of Glimmith
 - The Scourge | Tai Ương – v1.0.0 (Release)
-- Monster Hunter Wilds: Premium Deluxe Edition – v1.041.03.00 + 191 DLCs/Bonuses
-- Last Epoch – v1.4 + Bonus OST
-- Sonic Racing: CrossWorlds, v1.3.1 + 7 DLCs + 12 Bonus OSTs
-- The Coin Game: Supporter Edition Pack – v1.0 (Release) + DLC
-- AI LIMIT: Deluxe Edition, Build 22521250 + 3 DLCs
-- Total War: WARHAMMER III – v7.2.0 + 125 DLCs
-- EverSiege: Untold Ages – v0.2.134369
-- WWE 2K26, v1.06  + 6 DLCs [Monkey Repack]
-- Ghost Master: Resurrection
 - ……
 
 ## 🙏 感谢
