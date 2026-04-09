@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2026-04-05`，共 `6395` 款游戏。
-- Xenonauts 2 – v7.18.3 (v1.0 Release)
-- Mortal Kombat 1: Khaos Reigns Kollection – v0.308 + 37 DLCs + Bonus OST + 4K Videos Add-on
-- Darwin’s Paradox! + Pre-Order Skin Pack DLC
-- Salvage Shop Simulator – v1.0.020
-- Two Point Museum: Explorer Edition – v8.0.216267 + 4 DLCs
-- Before Exit: Gas Station – Complete Edition, v3.1.3256 + 3 DLCs/Bonuses
-- Street Fighter 6: Years 1-2 Fighters Edition, v2.0201.000 + 10* DLCs + 5 Bonus Soundtracks
-- Need for Speed Unbound: Ultimate Collection, v1.0.8.2549 (Volume 9 Update) + All DLCs + Bonus OST
-- The Artisan of Glimmith
-- The Scourge | Tai Ương – v1.0.0 (Release)
+最后更新时间 `2026-04-09`，共 `6411` 款游戏。
+- Vampire: The Masquerade – Bloodlines 2: Deluxe Edition, v49474 + 3 DLCs
+- The Bus – v1.0.94413 + DLC
+- Hozy
+- Persona 3 Reload: Digital Premium Edition – v1.11 + 11 DLCs/Bonuses
+- NUTMEG! A Nostalgic Deckbuilding Football Manager
+- Warhammer 40,000: Chaos Gate – Daemonhunters: Grand Master Edition, Build a7bc905 (20865149) + 5 DLCs/Bonuses
+- Crown of Greed – v1.0.0f5
+- MindsEye – v6508009/Update 7 + 10 DLCs
+- Digimon Story: Time Stranger – Ultimate Edition, Build 21891774 + 16 DLCs + Bonus OST
+- I Am Jesus Christ – v1.1.8
 - ……
 
 ## 🙏 感谢
