@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2026-04-13`，共 `6419` 款游戏。
-- Starfield: Digital Premium Edition – v1.16.236.0 + 6 DLCs/Bonuses + Creations Mod Pack + SFCK
-- Truck Mechanic: Dangerous Paths
-- Subverse – v1.2.01 + DLC
-- Resident Evil Requiem: Deluxe Edition – Build 22277314 + 3 DLCs/Bonuses
-- Hogwarts Legacy: Digital Deluxe Edition – Build 1613387 + 22 DLCs/Bonuses [Muggle Repack]
-- Samson
-- Anno 117: Pax Romana – v1.4.1.1629710 + 2 DLCs + Bonus OST
-- Field of Glory: Kingdoms – Complete Bundle, v1.0.8 + 2 DLCs
-- Vampire: The Masquerade – Bloodlines 2: Deluxe Edition, v49474 + 3 DLCs
-- Eastern Era
+最后更新时间 `2026-04-17`，共 `6434` 款游戏。
+- City Transport Simulator 2026: Expert Edition – v2026.0.0 + 11 DLCs
+- Stellar Tactics – v1.0 (Release) + Supporter Pack DLC
+- PGA TOUR 2K25: Pro Edition – Build 21251646 + 14 DLCs*
+- Formula Legends – v1.4.5 + 7 DLCs
+- Sid Meier’s Civilization VII: Settler’s Edition – v1.3.2 (1217315) + 34 DLCs
+- PowerWash Simulator 2, v1.2.1.167 + Adventure Time Pack DLC
+- Soul Hackers 2: Digital Premium Edition – v1.03 + 17 DLCs/Bonuses
+- Cooking Simulator 2: Better Together – v1.4.6717bcc
+- REPLACED: Supporter Edition – v1.0.1073 (Steam) / v1.0.1030 (MS Store) + Bonus OST
+- Marvel’s Midnight Suns: Legendary Edition – Build CL-930465 + 8 DLCs/Bonuses
 - ……
 
 ## 🙏 感谢
