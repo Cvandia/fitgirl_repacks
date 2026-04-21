@@ -15,7 +15,9 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2026-04-17`，共 `6434` 款游戏。
+最后更新时间 `2026-04-21`，共 `6446` 款游戏。
+- PRAGMATA: Deluxe Edition + 3 DLCs/Bonuses
+- Mark of the Deep: Deluxe Edition, v2.2.1 + 2 DLCs
 - City Transport Simulator 2026: Expert Edition – v2026.0.0 + 11 DLCs
 - Stellar Tactics – v1.0 (Release) + Supporter Pack DLC
 - PGA TOUR 2K25: Pro Edition – Build 21251646 + 14 DLCs*
@@ -23,9 +25,7 @@
 - Sid Meier’s Civilization VII: Settler’s Edition – v1.3.2 (1217315) + 34 DLCs
 - PowerWash Simulator 2, v1.2.1.167 + Adventure Time Pack DLC
 - Soul Hackers 2: Digital Premium Edition – v1.03 + 17 DLCs/Bonuses
-- Cooking Simulator 2: Better Together – v1.4.6717bcc
-- REPLACED: Supporter Edition – v1.0.1073 (Steam) / v1.0.1030 (MS Store) + Bonus OST
-- Marvel’s Midnight Suns: Legendary Edition – Build CL-930465 + 8 DLCs/Bonuses
+- Atomic Heart: Ultimate Edition – Build 22814599 + 9 DLCs/Bonuses
 - ……
 
 ## 🙏 感谢
