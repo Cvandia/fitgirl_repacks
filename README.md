@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2026-04-21`，共 `6446` 款游戏。
-- PRAGMATA: Deluxe Edition + 3 DLCs/Bonuses
-- Mark of the Deep: Deluxe Edition, v2.2.1 + 2 DLCs
-- City Transport Simulator 2026: Expert Edition – v2026.0.0 + 11 DLCs
-- Stellar Tactics – v1.0 (Release) + Supporter Pack DLC
-- PGA TOUR 2K25: Pro Edition – Build 21251646 + 14 DLCs*
-- Formula Legends – v1.4.5 + 7 DLCs
-- Sid Meier’s Civilization VII: Settler’s Edition – v1.3.2 (1217315) + 34 DLCs
-- PowerWash Simulator 2, v1.2.1.167 + Adventure Time Pack DLC
-- Soul Hackers 2: Digital Premium Edition – v1.03 + 17 DLCs/Bonuses
-- Atomic Heart: Ultimate Edition – Build 22814599 + 9 DLCs/Bonuses
+最后更新时间 `2026-04-25`，共 `6460` 款游戏。
+- Temtem: Swarm – v1.0.0 + Bonus OST
+- MX vs ATV Legends: Deluxe Edition, v5.00 + 48 DLCs + Windows 7 Fix
+- Assassin’s Creed Valhalla: Complete Edition, v1.7.0 + All DLCs* + Bonus Content
+- Vampire Crawlers: The Turbo Wildcard from Vampire Survivors – v1.4.0 + Bonus OST
+- Hearts of Iron IV: Ultimate Bundle – v1.18.0.0.858d + 57 DLCs/Bonuses + Windows 7 Fix
+- RAIDOU Remastered: The Mystery of the Soulless Army – Digital Deluxe Edition, v1.12 + 9 DLCs
+- ShantyTown – v1.0.03
+- GRID Legends: Deluxe Edition – v6.2.80.660 + 8 DLCs
+- Jay and Silent Bob: Chronic Blunt Punch
+- YAR: Forgotten Throne + DLC
 - ……
 
 ## 🙏 感谢
