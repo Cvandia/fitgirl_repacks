@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2026-04-25`，共 `6460` 款游戏。
+最后更新时间 `2026-04-29`，共 `6468` 款游戏。
+- Strings of Fate XI: Magic Dream – v1.59
+- Sonic Origins Plus – v2.0.2 + 4 DLCs
+- Vampire: The Masquerade – Bloodlines 2: Deluxe Edition, v51713 + 4 DLCs
+- Of Ash and Steel – v1.06
+- Dragon’s Dogma 2: Deluxe Edition* – v3.002.000 + All DLCs* + Bonus OST
+- Pompeii: The Legacy – v1.000.6
+- Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2: Deluxe Edition, v1.61 + 12 DLCs
+- Hell is Us: Deluxe Edition – v1.6.47.48410 + 6 DLCs/Bonuses
 - Temtem: Swarm – v1.0.0 + Bonus OST
 - MX vs ATV Legends: Deluxe Edition, v5.00 + 48 DLCs + Windows 7 Fix
-- Assassin’s Creed Valhalla: Complete Edition, v1.7.0 + All DLCs* + Bonus Content
-- Vampire Crawlers: The Turbo Wildcard from Vampire Survivors – v1.4.0 + Bonus OST
-- Hearts of Iron IV: Ultimate Bundle – v1.18.0.0.858d + 57 DLCs/Bonuses + Windows 7 Fix
-- RAIDOU Remastered: The Mystery of the Soulless Army – Digital Deluxe Edition, v1.12 + 9 DLCs
-- ShantyTown – v1.0.03
-- GRID Legends: Deluxe Edition – v6.2.80.660 + 8 DLCs
-- Jay and Silent Bob: Chronic Blunt Punch
-- YAR: Forgotten Throne + DLC
 - ……
 
 ## 🙏 感谢
