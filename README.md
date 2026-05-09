@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2026-05-05`，共 `6487` 款游戏。
-- EA SPORTS PGA TOUR – v1.0.3.53615
-- Demonologist – v2.0.3
-- Dawn Break
-- Football Manager 26 – v26.3.0 + In-Game Editor DLC
-- Lost Soul Aside: Deluxe Edition, v1.103 + 3 DLCs/Bonuses
-- Bus Bound + 2 DLCs
-- Planet Zoo: Ultimate Edition, v1.20.1.105668 + 22 DLCs/Bonuses
-- Under the Disco Lights: 80’s Bar Simulator
-- FATAL FURY: City of the Wolves, v2.0.1-134269 + 3 DLCs*
-- Lost Judgment – v1.12 + Expansion + 3 Bonus OSTs
+最后更新时间 `2026-05-09`，共 `6504` 款游戏。
+- The Coma 3: Bloodlines – v1.1.1 + 9 DLCs/Bonuses
+- Judgment – v1.12 + Bonus Soundtracks
+- Scriptorium: Master of Manuscripts – Deluxe Edition, v1.0.0 + Music & Art Pack DLC
+- Conan Exiles Enhanced: Complete Edition, v361894 + All DLCs/Bonuses
+- KuloNiku: Bowl Up! – Deluxe Edition – v1.0.3 + 2 Bonus DLCs
+- Inner Voice – v1.0.0.1
+- Speedball – v1.2.8.0
+- Mixtape – v1.1 (64146.206) MS Store
+- Hades II – v1.137792 + Bonus OST
+- EA SPORTS Madden NFL 25 – v1.0.126.45281
 - ……
 
 ## 🙏 感谢
