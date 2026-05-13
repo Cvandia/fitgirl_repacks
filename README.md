@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2026-05-09`，共 `6504` 款游戏。
-- The Coma 3: Bloodlines – v1.1.1 + 9 DLCs/Bonuses
-- Judgment – v1.12 + Bonus Soundtracks
-- Scriptorium: Master of Manuscripts – Deluxe Edition, v1.0.0 + Music & Art Pack DLC
-- Conan Exiles Enhanced: Complete Edition, v361894 + All DLCs/Bonuses
-- KuloNiku: Bowl Up! – Deluxe Edition – v1.0.3 + 2 Bonus DLCs
-- Inner Voice – v1.0.0.1
-- Speedball – v1.2.8.0
+最后更新时间 `2026-05-13`，共 `6515` 款游戏。
+- Outbound: Digital Deluxe Edition – v1.0.2-797 + 2 DLCs/Bonuses
+- Animal Shelter 2 – v1.3.0 + 3 DLCs
+- Directive 8020: Deluxe Edition + DLC
+- The Awakener: Battle Tendency
+- Shooting Range Simulator
+- DarkSwitch – vR26.0408.9102
+- WILL: Follow The Light
 - Mixtape – v1.1 (64146.206) MS Store
-- Hades II – v1.137792 + Bonus OST
-- EA SPORTS Madden NFL 25 – v1.0.126.45281
+- HELLBREAK – v1.0 (Release) + Bonus OST
+- Pocket Bravery – v3.02 + 6 DLCs
 - ……
 
 ## 🙏 感谢
