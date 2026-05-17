@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2026-05-13`，共 `6515` 款游戏。
-- Outbound: Digital Deluxe Edition – v1.0.2-797 + 2 DLCs/Bonuses
-- Animal Shelter 2 – v1.3.0 + 3 DLCs
-- Directive 8020: Deluxe Edition + DLC
-- The Awakener: Battle Tendency
-- Shooting Range Simulator
-- DarkSwitch – vR26.0408.9102
-- WILL: Follow The Light
-- Mixtape – v1.1 (64146.206) MS Store
-- HELLBREAK – v1.0 (Release) + Bonus OST
-- Pocket Bravery – v3.02 + 6 DLCs
+最后更新时间 `2026-05-17`，共 `6522` 款游戏。
+- Forza Horizon 6 – v354.221 + 10 DLCs + Multiplayer
+- PRAGMATA: Deluxe Edition + 3 DLCs/Bonuses
+- Football Manager 2024 – v24.4.2 + DLC
+- Age of Reforging: The Freelands – v1.21d + Supporter Pack DLC
+- The Ember Guardian: Supporter Bundle – v1.0.1.7 + 2 DLCs/Bonuses
+- Dome Keeper: Deluxe Edition – v5.0.0 + 4 DLCs/Bonuses
+- Werewolf: The Inner Beast + Unrated DLC
+- Camper Van: Make it Home – Deluxe Edition, Build 22429997 + Bonus DLCs
+- BRUTUS MAXIMUS – v1.0.24.2
+- Call of the Elder Gods – v0.0.0.279
 - ……
 
 ## 🙏 感谢
