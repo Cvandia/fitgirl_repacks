@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2026-05-17`，共 `6522` 款游戏。
-- Forza Horizon 6 – v354.221 + 10 DLCs + Multiplayer
-- PRAGMATA: Deluxe Edition + 3 DLCs/Bonuses
-- Football Manager 2024 – v24.4.2 + DLC
-- Age of Reforging: The Freelands – v1.21d + Supporter Pack DLC
-- The Ember Guardian: Supporter Bundle – v1.0.1.7 + 2 DLCs/Bonuses
-- Dome Keeper: Deluxe Edition – v5.0.0 + 4 DLCs/Bonuses
-- Werewolf: The Inner Beast + Unrated DLC
-- Camper Van: Make it Home – Deluxe Edition, Build 22429997 + Bonus DLCs
-- BRUTUS MAXIMUS – v1.0.24.2
-- Call of the Elder Gods – v0.0.0.279
+最后更新时间 `2026-05-25`，共 `6557` 款游戏。
+- Frontier Paladin
+- Bubsy 4D
+- Whisper of the House – v1.2.0.7 + Bonus OST
+- Lucky Tower Ultimate: Ultimate Edition – v1.0.6 + Bonus OST
+- LEGO Batman: Legacy of the Dark Knight + 4 DLCs
+- Mafia: The Old Country – Deluxe Edition, Build 20951841 + 4 DLCs
+- ZERO PARADES: For Dead Spies – Bundle, v1.0.36599 + Bonus Content
+- Warhammer 40,000: Gladius – Complete Edition – v1.18.0 + 21 DLCs/Bonuses
+- Luna Abyss: Deluxe Edition – Build 1295 (Steam) / Build 1292 (MS Store) + Bonus OST
+- Airborne Empire – v1.0.0-08183d4
 - ……
 
 ## 🙏 感谢
