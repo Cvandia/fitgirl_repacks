@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2026-05-25`，共 `6557` 款游戏。
-- Frontier Paladin
-- Bubsy 4D
-- Whisper of the House – v1.2.0.7 + Bonus OST
-- Lucky Tower Ultimate: Ultimate Edition – v1.0.6 + Bonus OST
-- LEGO Batman: Legacy of the Dark Knight + 4 DLCs
-- Mafia: The Old Country – Deluxe Edition, Build 20951841 + 4 DLCs
-- ZERO PARADES: For Dead Spies – Bundle, v1.0.36599 + Bonus Content
-- Warhammer 40,000: Gladius – Complete Edition – v1.18.0 + 21 DLCs/Bonuses
-- Luna Abyss: Deluxe Edition – Build 1295 (Steam) / Build 1292 (MS Store) + Bonus OST
-- Airborne Empire – v1.0.0-08183d4
+最后更新时间 `2026-05-29`，共 `6568` 款游戏。
+- Cavalry Girls: Complete Bundle & Skin Pack – v2.6.2801 + 4 DLCs
+- Librarian: Tidy Up the Arcane Library! – v1.0.2
+- 007 First Light
+- Caribbean Legend: Age of Pirates – v1.1.0 + 2 DLCs
+- Meltopia – v01.01.35
+- NITRO GEN OMEGA: Supporter Bundle – v1.2.1 + 2 Bonus DLCs
+- SCUM: Complete Bundle – v1.3.0.0.117753 + 17 DLCs/Bonuses
+- Alchemist: Journey of the Soul
+- R-Type Dimensions III: Ultimate Edition + 3 Bonus DLCs
+- F1 24 – v1.21.1256962 + 7 DLCs*
 - ……
 
 ## 🙏 感谢
