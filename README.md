@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2026-05-29`，共 `6568` 款游戏。
-- Cavalry Girls: Complete Bundle & Skin Pack – v2.6.2801 + 4 DLCs
-- Librarian: Tidy Up the Arcane Library! – v1.0.2
-- 007 First Light
-- Caribbean Legend: Age of Pirates – v1.1.0 + 2 DLCs
-- Meltopia – v01.01.35
-- NITRO GEN OMEGA: Supporter Bundle – v1.2.1 + 2 Bonus DLCs
-- SCUM: Complete Bundle – v1.3.0.0.117753 + 17 DLCs/Bonuses
-- Alchemist: Journey of the Soul
-- R-Type Dimensions III: Ultimate Edition + 3 Bonus DLCs
-- F1 24 – v1.21.1256962 + 7 DLCs*
+最后更新时间 `2026-06-09`，共 `6616` 款游戏。
+- WILD HEARTS: Karakuri Edition – v1.3.3 (1.6.3.9) HV / v.1.0.1.1 (Denuvoless) + 6 DLCs
+- XF Extreme Formula
+- House Builder: Pack and Punch Bundle, Build 18-05-2026 + 10 DLCs
+- Traders Life Together – v1.01
+- Tabletop Game Shop Simulator
+- Headquarters: World War II – Complete, v1.04.13 + 3 DLCs/Bonuses
+- Unclean Water – v1.0.9
+- Whirlight: No Time To Trip
+- ΔV (DeltaV): Rings of Saturn – Space Furry Edition – v1.89.2 + 6 DLCs/Bonuses
+- Alien Market Simulator – v1.00 (Release)
 - ……
 
 ## 🙏 感谢
