@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2026-06-09`，共 `6616` 款游戏。
-- WILD HEARTS: Karakuri Edition – v1.3.3 (1.6.3.9) HV / v.1.0.1.1 (Denuvoless) + 6 DLCs
-- XF Extreme Formula
-- House Builder: Pack and Punch Bundle, Build 18-05-2026 + 10 DLCs
-- Traders Life Together – v1.01
-- Tabletop Game Shop Simulator
-- Headquarters: World War II – Complete, v1.04.13 + 3 DLCs/Bonuses
-- Unclean Water – v1.0.9
-- Whirlight: No Time To Trip
-- ΔV (DeltaV): Rings of Saturn – Space Furry Edition – v1.89.2 + 6 DLCs/Bonuses
-- Alien Market Simulator – v1.00 (Release)
+最后更新时间 `2026-06-17`，共 `6651` 款游戏。
+- Ova Magica – v1.001
+- Oxygen Not Included: Complete Bundle, vU59-736649-SCRPAN + 7 DLCs/Bonuses
+- Map Map: A Game About Maps
+- FIFA 18 – v1.0.57.57320 HV / Update 2 Non-HV
+- Exo Rally Championship: Monolith Edition – v1.0.1 + Bonus OST
+- Vortica – v1.0.4
+- Kebab Chefs! – Restaurant Simulator – v1.0 + Bakery Shop DLC
+- Tavern Talk Stories: Dreamwalker – Captain’s Hoard Edition, v1.0.7 + 9 DLCs/Bonuses
+- Jurassic World Evolution 2: Premium Edition – v1.11.3.51848 HV / v1.3.1 (Non-HV Debug Build) + 12/4 DLCs
+- House Flipper Remastered Collection – v1.26155
 - ……
 
 ## 🙏 感谢
