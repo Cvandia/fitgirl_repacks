@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2026-06-17`，共 `6651` 款游戏。
-- Ova Magica – v1.001
-- Oxygen Not Included: Complete Bundle, vU59-736649-SCRPAN + 7 DLCs/Bonuses
-- Map Map: A Game About Maps
-- FIFA 18 – v1.0.57.57320 HV / Update 2 Non-HV
-- Exo Rally Championship: Monolith Edition – v1.0.1 + Bonus OST
-- Vortica – v1.0.4
-- Kebab Chefs! – Restaurant Simulator – v1.0 + Bakery Shop DLC
-- Tavern Talk Stories: Dreamwalker – Captain’s Hoard Edition, v1.0.7 + 9 DLCs/Bonuses
-- Jurassic World Evolution 2: Premium Edition – v1.11.3.51848 HV / v1.3.1 (Non-HV Debug Build) + 12/4 DLCs
-- House Flipper Remastered Collection – v1.26155
+最后更新时间 `2026-06-29`，共 `6673` 款游戏。
+- The Greatest Penguin Heist of All Time
+- Rustil: Eternal Labyrinth Castle – v1.1.3
+- Deer & Boy: Deluxe Edition – v1.0.19.24 + 2 Bonus DLCs
+- SnowRunner: 4-Year Anniversary Edition, v42.0 (Season 18 Update) + 48 DLCs + Chill Nature Beats Soundtrack
+- Sail the Seas – v0.0079
+- Until Then: Deluxe Edition – Build 23785927 + DLC
+- Final Strategy – Build 23575962
+- DEAD OR ALIVE 6 Last Round – v1.00a + 443 DLCs
+- JDM: Japanese Drift Master – Deluxe Edition, v1.4.132.1 + 3 DLCs/Bonuses
+- Lawn Care Simulator
 - ……
 
 ## 🙏 感谢
