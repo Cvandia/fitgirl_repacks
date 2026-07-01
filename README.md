@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2026-06-29`，共 `6673` 款游戏。
-- The Greatest Penguin Heist of All Time
-- Rustil: Eternal Labyrinth Castle – v1.1.3
-- Deer & Boy: Deluxe Edition – v1.0.19.24 + 2 Bonus DLCs
-- SnowRunner: 4-Year Anniversary Edition, v42.0 (Season 18 Update) + 48 DLCs + Chill Nature Beats Soundtrack
-- Sail the Seas – v0.0079
-- Until Then: Deluxe Edition – Build 23785927 + DLC
-- Final Strategy – Build 23575962
-- DEAD OR ALIVE 6 Last Round – v1.00a + 443 DLCs
+最后更新时间 `2026-07-01`，共 `6678` 款游戏。
+- Plant Nursery Simulator
+- Fretless: The Wrath of Riffson – Deluxe Edition, v1.5.08 + Bonus Soundtrack
 - JDM: Japanese Drift Master – Deluxe Edition, v1.4.132.1 + 3 DLCs/Bonuses
 - Lawn Care Simulator
+- PBA Pro Bowling 2026 – v3.0.9 + 3 DLCs
+- REANIMAL – v1.7.1 + DLC
+- SPORTAL – v1.0.04
+- Heroes of Science and Fiction – v1.0.8 + 2 DLCs/Bonuses
+- Project Motor Racing – v2.0.0.6 + 5 DLCs
+- BLACKSHARD – v1.01 + Bonus OST
 - ……
 
 ## 🙏 感谢
