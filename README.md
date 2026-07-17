@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2026-07-13`，共 `6690` 款游戏。
+最后更新时间 `2026-07-17`，共 `6704` 款游戏。
+- Femme Fatality – Build 24204068
+- Denshattack!: Digital Deluxe Edition – v1.2.6.1g + 2 DLC/Bonuses
+- Runix: Pinball Roguelike – v1.15
+- Easy Red 2: All Fronts – v2.0.7 + 5 DLCs
+- Everest: Real Climbing Simulator – Build 24171169
+- The Mound: Omen of Cthulhu – Deluxe Edition, v.CL34308 + 4 DLCs/Bonuses
+- Urban Strife – v1.0.0 (Release)
+- The Crimson Maid
+- MEMORIAPOLIS – v1.6.8
 - Arcane Ascent
-- Disney Dreamlight Valley: Ultimate Edition – v1.24.2.6 + 4 DLCs
-- Granblue Fantasy: Relink – Endless Ragnarok: Special Edition, v2.0.2 + 36 DLCs
-- Palworld – v1.0.0.100427 (Release) + Bonus OST
-- Hell Clock: Supporter Edition, v2.0.0.0 + 4 DLCs/Bonuses
-- DOOM: The Dark Ages – Premium Edition, Build 23888600 +  6 DLCs/Bonuses (Monkey Repack)
-- Jurassic World Evolution 3: Premium Edition, v1.3.5.915680 + 4 DLCs
-- Esports Manager 2026 – v1.0.0.20260630
-- Planet Coaster 2: Premium Edition – v1.10.2.906765 + 6 DLCs
-- EA SPORTS College Football 27 – v1.0.137.60694
 - ……
 
 ## 🙏 感谢
