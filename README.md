@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2026-07-17`，共 `6704` 款游戏。
-- Femme Fatality – Build 24204068
-- Denshattack!: Digital Deluxe Edition – v1.2.6.1g + 2 DLC/Bonuses
-- Runix: Pinball Roguelike – v1.15
-- Easy Red 2: All Fronts – v2.0.7 + 5 DLCs
-- Everest: Real Climbing Simulator – Build 24171169
-- The Mound: Omen of Cthulhu – Deluxe Edition, v.CL34308 + 4 DLCs/Bonuses
-- Urban Strife – v1.0.0 (Release)
-- The Crimson Maid
-- MEMORIAPOLIS – v1.6.8
-- Arcane Ascent
+最后更新时间 `2026-07-29`，共 `6743` 款游戏。
+- Heavy Cargo – The Truck Simulator, v1.3.0.20260727 + 3 DLCs
+- The Alley – v1.5.2
+- Rugby 25 – v1.0.4611
+- Terra Invicta: Complete Bundle – v1.0.49 + 2 DLCs
+- Forsaken Realms: Vahrin’s Call – v1.0.15
+- Rail Route: Supporter Bundle – v3.0.13 + 4 DLCs/Bonuses
+- Tormentum II
+- Cricket 26: The Official Game of the Ashes – v1.0.3315
+- Reap and Rush – v1.0072205 + Supporter Bundle DLC
+- Boba Cafe Simulator – v1.034
 - ……
 
 ## 🙏 感谢
