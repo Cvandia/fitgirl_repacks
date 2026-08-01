@@ -15,7 +15,8 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2026-07-29`，共 `6743` 款游戏。
+最后更新时间 `2026-08-01`，共 `6747` 款游戏。
+- Dodo Duckie
 - Heavy Cargo – The Truck Simulator, v1.3.0.20260727 + 3 DLCs
 - The Alley – v1.5.2
 - Rugby 25 – v1.0.4611
@@ -23,9 +24,8 @@
 - Forsaken Realms: Vahrin’s Call – v1.0.15
 - Rail Route: Supporter Bundle – v3.0.13 + 4 DLCs/Bonuses
 - Tormentum II
-- Cricket 26: The Official Game of the Ashes – v1.0.3315
-- Reap and Rush – v1.0072205 + Supporter Bundle DLC
-- Boba Cafe Simulator – v1.034
+- Company of Heroes 3: Ultimate Bundle, v2.5.0.48652 + 9 DLCs
+- City States: Medieval – v1.02
 - ……
 
 ## 🙏 感谢
