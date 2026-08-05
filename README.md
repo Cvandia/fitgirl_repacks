@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2026-08-01`，共 `6747` 款游戏。
-- Dodo Duckie
-- Heavy Cargo – The Truck Simulator, v1.3.0.20260727 + 3 DLCs
-- The Alley – v1.5.2
-- Rugby 25 – v1.0.4611
-- Terra Invicta: Complete Bundle – v1.0.49 + 2 DLCs
-- Forsaken Realms: Vahrin’s Call – v1.0.15
-- Rail Route: Supporter Bundle – v3.0.13 + 4 DLCs/Bonuses
-- Tormentum II
-- Company of Heroes 3: Ultimate Bundle, v2.5.0.48652 + 9 DLCs
-- City States: Medieval – v1.02
+最后更新时间 `2026-08-05`，共 `6758` 款游戏。
+- Rubinite & Soundtracks Bundle – v202607240040 + Bonus OST
+- MOUSE: P.I. For Hire – v1.2.2.8822 + 2 Bonus DLCs
+- REPLACED: Supporter Edition – v1.1.3.0 (MS Store) + Bonus OST
+- Mahou Arms: Digital Deluxe Edition, v1.0.2516 + Uncensoring Patch + Bonus OST
+- Rugby League 26 – v1.0.5033
+- Graphite – v0.1.0_290526
+- Avatar: Frontiers of Pandora – Complete Edition, v2.7 + 10 DLCs/Bonuses
+- Crimson Desert: Deluxe Edition – v1.14.00 + 3 DLCs
+- WARSHIFT 2 – v2.24281928
+- Edge of Destruction
 - ……
 
 ## 🙏 感谢
