@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2026-08-05`，共 `6758` 款游戏。
-- Rubinite & Soundtracks Bundle – v202607240040 + Bonus OST
-- MOUSE: P.I. For Hire – v1.2.2.8822 + 2 Bonus DLCs
-- REPLACED: Supporter Edition – v1.1.3.0 (MS Store) + Bonus OST
-- Mahou Arms: Digital Deluxe Edition, v1.0.2516 + Uncensoring Patch + Bonus OST
-- Rugby League 26 – v1.0.5033
-- Graphite – v0.1.0_290526
-- Avatar: Frontiers of Pandora – Complete Edition, v2.7 + 10 DLCs/Bonuses
-- Crimson Desert: Deluxe Edition – v1.14.00 + 3 DLCs
-- WARSHIFT 2 – v2.24281928
-- Edge of Destruction
+最后更新时间 `2026-09-05`，共 `6765` 款游戏。
+- Lady Death Demonicron – v0.240
+- Onirism – Hotfix 07/17/2026 (Build 24248659)
+- Broken Arrow: Complete Bundle – v1.2.0 + 4 DLCs/Bonuses
+- Crimson Moon – v1.0.0.160034 + Partial DLC
+- Salvation: Echoes of War – v1.2.5878
+- Big Ambitions – v1.0 (Build 3670, Release)
+- Shadow Dungeon – v1.0.0 (Release)
+- Lou’s Lagoon: Deluxe Edition – v1.0.4-43683 + 3 DLCs/Bonuses
+- BROK the InvestiGator: Deluxe Edition, v1.5.6.3 + 4 DLCs/Bonuses
+- Polylithic, v1.0.0.24
 - ……
 
 ## 🙏 感谢
