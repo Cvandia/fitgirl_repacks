@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2026-09-05`，共 `6765` 款游戏。
-- Lady Death Demonicron – v0.240
-- Onirism – Hotfix 07/17/2026 (Build 24248659)
-- Broken Arrow: Complete Bundle – v1.2.0 + 4 DLCs/Bonuses
-- Crimson Moon – v1.0.0.160034 + Partial DLC
-- Salvation: Echoes of War – v1.2.5878
-- Big Ambitions – v1.0 (Build 3670, Release)
-- Shadow Dungeon – v1.0.0 (Release)
-- Lou’s Lagoon: Deluxe Edition – v1.0.4-43683 + 3 DLCs/Bonuses
-- BROK the InvestiGator: Deluxe Edition, v1.5.6.3 + 4 DLCs/Bonuses
-- Polylithic, v1.0.0.24
+最后更新时间 `2026-09-09`，共 `6773` 款游戏。
+- Persona 3 Reload: Digital Premium Edition – v1.11 Build 22672075 + 10 DLCs/Bonuses
+- Island Market Simulator – v1.0 (Release) + Bonus OST
+- Mortal Kombat 1: Khaos Reigns Kollection – Definitive Edition, v0.308 + All Offline DLCs + Bonus OST + 4K Videos Add-on
+- Halloween: The Game – v1.0.0.69053
+- Star Wars Outlaws: Ultimate Edition – v1.7 (8779316.TU7) + All DLCs + 3 Bonus OSTs
+- Metal Gear Solid V: The Phantom Pain – v1.15 Build 24176213 + All Offline DLCs
+- Bus Simulator 27 – v1.06.52637 + 2 DLCs
+- SpeedRunners 2: King of Speed
+- Marsupilami 2: Salsa Palombia
+- Sins of a Solar Empire II: Premium Edition, v2.0.2 + 4 DLCs/Bonuses
 - ……
 
 ## 🙏 感谢
