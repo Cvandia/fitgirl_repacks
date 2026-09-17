@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2026-09-09`，共 `6773` 款游戏。
-- Persona 3 Reload: Digital Premium Edition – v1.11 Build 22672075 + 10 DLCs/Bonuses
-- Island Market Simulator – v1.0 (Release) + Bonus OST
-- Mortal Kombat 1: Khaos Reigns Kollection – Definitive Edition, v0.308 + All Offline DLCs + Bonus OST + 4K Videos Add-on
-- Halloween: The Game – v1.0.0.69053
-- Star Wars Outlaws: Ultimate Edition – v1.7 (8779316.TU7) + All DLCs + 3 Bonus OSTs
-- Metal Gear Solid V: The Phantom Pain – v1.15 Build 24176213 + All Offline DLCs
-- Bus Simulator 27 – v1.06.52637 + 2 DLCs
-- SpeedRunners 2: King of Speed
-- Marsupilami 2: Salsa Palombia
-- Sins of a Solar Empire II: Premium Edition, v2.0.2 + 4 DLCs/Bonuses
+最后更新时间 `2026-09-17`，共 `6779` 款游戏。
+- Palworld – v1.0.4.102642 + Bonus OST
+- Train Sim World 7: Ultimate Edition – Hotfix Update 11-09-26 (Build 832) + 165 DLCs
+- Moonlight Peaks: Digital Deluxe Edition, v1.2.7 + 2 Bonus DLCs
+- Project Cobalt – v1.5
+- Tiny Bakery
+- KIBORG: Deluxe Edition, v2026.08.06:1:83 + 3 DLCs/Bonuses
+- Sunken Engine – v1.0.33
+- Model Kit Shop Simulator
+- ChainStaff: Ultimate Edition, v1.2.0.12 + 3 DLCs/Bonuses
+- Ragnar – v1.0 (Release)
 - ……
 
 ## 🙏 感谢
