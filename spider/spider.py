@@ -11,6 +11,8 @@ from loguru import logger
 site_url = "https://fitgirl-repacks.site"
 popular_url = f"{site_url}/popular-repacks/"
 sem = asyncio.Semaphore(3)  # Limit to 3 concurrent tasks
+request_timeout = aiohttp.ClientTimeout(total=45, connect=15, sock_read=30)
+request_headers = {"User-Agent": "Mozilla/5.0 (compatible; FitGirlRepacksSpider/1.0)"}
 
 
 async def fetch_page(session: aiohttp.ClientSession, url):
@@ -25,10 +27,16 @@ async def fetch_page(session: aiohttp.ClientSession, url):
         str or None: 成功时返回网页文本内容，失败时返回None
     """
     async with sem:
-        max_retries = 3
+        max_retries = 4
         for attempt in range(max_retries):
             try:
-                async with session.get(url, max_redirects=10, timeout=aiohttp.ClientTimeout(total=30)) as response:
+                async with session.get(
+                    url,
+                    max_redirects=5,
+                    timeout=request_timeout,
+                    headers=request_headers,
+                ) as response:
+                    response.raise_for_status()
                     return await response.text()
             except TooManyRedirects as e:
                 # 处理重定向过多异常
@@ -36,25 +44,34 @@ async def fetch_page(session: aiohttp.ClientSession, url):
                 if attempt == max_retries - 1:
                     logger.error(f"多次尝试后仍无法获取页面: {url}")
                     return None
-                await asyncio.sleep(2 ** attempt)  # 指数退避
+                await asyncio.sleep(min(2 ** attempt, 8))  # 指数退避
             except Exception as e:
                 # 处理其他网络请求异常
                 logger.error(f"获取页面失败 {url}: {e}")
                 if attempt == max_retries - 1:
                     return None
-                await asyncio.sleep(2 ** attempt)
+                await asyncio.sleep(min(2 ** attempt, 8))
         return None
+
+
 async def fetch_data(session, page):
-    url = f"{site_url}/page/{page}"
+    url = f"{site_url}/page/{page}/"
     logger.info(f"正在爬取第 {page} 页")
     page_content = await fetch_page(session, url)
+    if not page_content:
+        logger.warning(f"× 第 {page} 页获取失败，跳过本页并继续爬取")
+        return []
     soup = BeautifulSoup(page_content, "html.parser")
     articles = soup.find_all("article")
     return articles
 
 
 async def process_articles(session, page, total_pages):
-    articles = await fetch_data(session, page)
+    try:
+        articles = await fetch_data(session, page)
+    except Exception as error:
+        logger.exception(f"× 第 {page} 页处理失败，跳过本页: {error}")
+        return []
     data_list = []
     now_article = 0
     for article in articles:
@@ -70,7 +87,7 @@ async def process_articles(session, page, total_pages):
             "div.su-spoiler-title:-soup-contains('Game Description') + div.su-spoiler-content"
         )
         if article_link_element:
-            article_id = article.get("id").split("-")[-1]
+            article_id = (article.get("id") or f"page-{page}-article-{now_article}").split("-")[-1]
             logger.info(f"√ 已保存第 {now_article}/{len(articles)} 条数据")
             article_title = (
                 article_title_element.text.strip() if article_title_element else None
@@ -142,12 +159,21 @@ async def main():
     async with aiohttp.ClientSession() as session:
         popular_data = await fetch_popular_repacks(session)
         response = await fetch_page(session, site_url)
+        if not response:
+            logger.error("首页获取失败，无法确定总页数，爬取终止")
+            return
         soup = BeautifulSoup(response, "html.parser")
         page_links = soup.find_all("a", class_="page-numbers")
         start_page = 1
-        end_page = max(
-            int(link.get_text()) for link in page_links if link.get_text().isdigit()
-        )
+        page_numbers = [
+            int(link.get_text())
+            for link in page_links
+            if link.get_text().strip().isdigit()
+        ]
+        if not page_numbers:
+            logger.error("首页未获取到有效页码，爬取终止")
+            return
+        end_page = max(page_numbers)
 
         if end_page < start_page:
             logger.error("未获取到有效页码，程序中止")
