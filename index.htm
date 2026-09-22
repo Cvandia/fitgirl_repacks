@@ -6,25 +6,42 @@
   <meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
   <link rel="shortcut icon" href="favicon.ico">
   <title>FitGirl Repacks 镜像库</title>
-  <link rel="stylesheet" href="inc/style.css">
+  <link rel="stylesheet" href="inc/style.css?v=20260923-popular">
 </head>
 
 <body>
   <div class="container">
-    <h1>FitGirl Repacks 镜像库</h1>
-    <h4>更多信息访问 <a href="https://fitgirl-repacks.site/" target="_blank">https://fitgirl-repacks.site/</a></h4>
-    <h4>更新时间：2026-09-17</h4>
+    <header class="site-header">
+      <div>
+        <p class="eyebrow">FITGIRL REPACKS · ARCHIVE</p>
+        <h1>游戏镜像库</h1>
+        <p class="intro">把值得留意的新作与经典版本，整理成一个更容易浏览的游戏清单。</p>
+        <p class="source-note">数据来源：<a href="https://fitgirl-repacks.site/" target="_blank">fitgirl-repacks.site</a> · 更新于 2026-09-17</p>
+      </div>
+      <div class="icons">
+        <a href="https://github.com/Cvandia/fitgirl_repacks" target="_blank" aria-label="打开 GitHub 项目"></a>
+        <span class="theme" role="button" tabindex="0" aria-label="切换深色主题"></span>
+      </div>
+    </header>
 
-    <div class="icons">
-      <a href="https://github.com/Cvandia/fitgirl_repacks" target="_blank"></a>
-      <span class="theme"></span>
+    <div class="content-layout">
+      <main class="library-content">
+        <div id="search"></div>
+        <div id="dataContainer"></div>
+        <div id="pagination"></div>
+      </main>
+
+      <aside class="featured-section" aria-labelledby="featuredTitle">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">TOP 50</p>
+            <h2 id="featuredTitle">热门推荐</h2>
+          </div>
+          <span class="section-note">最新收录</span>
+        </div>
+        <div id="featuredContainer" class="featured-grid"></div>
+      </aside>
     </div>
-
-    <div id="search"></div>
-
-    <div id="dataContainer"></div>
-
-    <div id="pagination"></div>
   </div>
 
   <script src="inc/dexie.min.js"></script>
@@ -33,7 +50,7 @@
     const fileVersion = '20260917035321';
     const fileURL = 'data/repacks-20260917035321.csv';
   </script>
-  <script src="inc/script.js"></script>
+  <script src="inc/script.js?v=20260923-magnet-final"></script>
 </body>
 
 </html>

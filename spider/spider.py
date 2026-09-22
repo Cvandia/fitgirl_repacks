@@ -9,6 +9,7 @@ from datetime import datetime
 from loguru import logger
 
 site_url = "https://fitgirl-repacks.site"
+popular_url = f"{site_url}/popular-repacks/"
 sem = asyncio.Semaphore(3)  # Limit to 3 concurrent tasks
 
 
@@ -108,8 +109,38 @@ async def process_articles(session, page, total_pages):
     return data_list
 
 
+async def fetch_popular_repacks(session):
+    page_content = await fetch_page(session, popular_url)
+    if not page_content:
+        return []
+
+    soup = BeautifulSoup(page_content, "html.parser")
+    widget = soup.select_one(".jetpack_top_posts_widget")
+    popular_data = []
+    if not widget:
+        return popular_data
+
+    for link in widget.select(".widget-grid-view-image a")[:50]:
+        image = link.find("img")
+        title = link.get("title") or (image.get("alt") if image else None)
+        cover = image.get("src") if image else None
+        if title and link.get("href"):
+            popular_data.append({"title": title, "url": link["href"], "cover": cover})
+    return popular_data
+
+
+async def fetch_magnet_link(session, url):
+    page_content = await fetch_page(session, url)
+    if not page_content:
+        return None
+    soup = BeautifulSoup(page_content, "html.parser")
+    link = soup.find("a", href=lambda href: href and href.startswith("magnet:"))
+    return link.get("href") if link else None
+
+
 async def main():
     async with aiohttp.ClientSession() as session:
+        popular_data = await fetch_popular_repacks(session)
         response = await fetch_page(session, site_url)
         soup = BeautifulSoup(response, "html.parser")
         page_links = soup.find_all("a", class_="page-numbers")
@@ -159,6 +190,17 @@ async def main():
             with open(config_file, "w") as f:
                 f.write(str(len(all_data)))
             logger.info(f"配置文件 {config_file} 已更新")
+
+            popular_file = os.path.join(save_path, "popular-repacks.json")
+            magnet_by_title = {item[1]: item[3] for item in all_data if item[1] and item[3]}
+            for popular_item in popular_data:
+                popular_item["magnet"] = magnet_by_title.get(popular_item["title"])
+                if not popular_item["magnet"]:
+                    popular_item["magnet"] = await fetch_magnet_link(session, popular_item["url"])
+            with open(popular_file, "w", encoding="utf-8") as jsonfile:
+                import json
+                json.dump(popular_data, jsonfile, ensure_ascii=False, indent=2)
+            logger.info(f"热门榜单文件 {popular_file} 已更新，共 {len(popular_data)} 条")
 
             template_file = "./readme.txt"
             md_file = "../README.md"

@@ -6,13 +6,18 @@ console.log(
 );
 
 // 定义全局变量
-let rawData, renderData;
+let rawData, renderData, popularData = [];
 
 const db = new Dexie('fitgirl-repacks');
 
 const search = document.getElementById('search');
 const dataContainer = document.getElementById('dataContainer');
 const pagination = document.getElementById('pagination');
+const featuredContainer = document.getElementById('featuredContainer');
+const popularURL = 'data/popular-repacks.json';
+
+const normalizeTitle = title => title.toLowerCase().replace(/[^a-z0-9]+/g, '');
+const gameTitleKey = title => normalizeTitle(title.split(/\s[-–]\s/)[0]);
 
 const itemsPerPage = 10; // 每页显示的数据条数
 let currentPage = 1; // 当前页码
@@ -35,6 +40,13 @@ theme.addEventListener('click', function () {
   document.body.style.transition = 'background-color 0.5s ease';
 });
 
+theme.addEventListener('keydown', event => {
+  if (event.key === 'Enter' || event.key === ' ') {
+    event.preventDefault();
+    theme.click();
+  }
+});
+
 // 初始化页面
 const initPage = async () => {
   creatIndexedDB(['fileVersion', 'fileData']); // 创建缓存数据库
@@ -54,6 +66,13 @@ const initPage = async () => {
     await writeIndexedDB('fileData', rawData);
   }
   renderData = rawData;
+  try {
+    const popularResponse = await fetch(`${popularURL}?v=${fileVersion}-magnet`);
+    if (popularResponse.ok) popularData = await popularResponse.json();
+  } catch (error) {
+    console.warn('热门榜单暂时不可用，使用本地数据回退。', error);
+  }
+  renderFeatured();
 
   // 从 URL 参数获取搜索词
   const urlParams = new URLSearchParams(window.location.search);
@@ -65,6 +84,72 @@ const initPage = async () => {
   // 渲染页面
   renderSearch();
   renderPage();
+};
+
+// 渲染首页推荐，优先使用官方热门榜单，未同步时回退到本地最新数据
+const renderFeatured = () => {
+  if (!featuredContainer) return;
+
+  featuredContainer.innerHTML = '';
+  const featuredData = popularData.length >= 50
+    ? popularData.slice(0, 50)
+    : [...rawData]
+      .filter(item => item[1])
+      .sort((first, second) => new Date(second[2]) - new Date(first[2]))
+      .slice(0, 50)
+      .map(item => ({ title: item[1], cover: item[4] }));
+
+  featuredData.forEach((item, index) => {
+    const popularTitleKey = gameTitleKey(item.title);
+    const matchedItem = rawData.find(dataItem => {
+      const localTitleKey = gameTitleKey(dataItem[1]);
+      return localTitleKey === popularTitleKey
+        || localTitleKey.includes(popularTitleKey)
+        || popularTitleKey.includes(localTitleKey);
+    });
+    const destination = item.magnet || matchedItem?.[3] || item.url;
+    const card = document.createElement(destination ? 'a' : 'button');
+    if (destination) {
+      card.href = destination;
+      if (!destination.startsWith('magnet:')) {
+        card.target = '_blank';
+        card.rel = 'noopener';
+      }
+    } else {
+      card.type = 'button';
+      card.addEventListener('click', () => performSearch(item.title));
+    }
+    card.className = 'featured-card';
+
+    const cover = document.createElement('div');
+    cover.className = 'featured-cover';
+    if (item.cover) {
+      const image = document.createElement('img');
+      image.src = item.cover;
+      image.alt = `${item.title} 封面`;
+      image.loading = 'lazy';
+      image.addEventListener('error', () => {
+        image.remove();
+        cover.classList.add('cover-missing');
+      });
+      cover.appendChild(image);
+    } else {
+      cover.classList.add('cover-missing');
+    }
+
+    const rank = document.createElement('span');
+    rank.className = 'featured-rank';
+    rank.textContent = String(index + 1).padStart(2, '0');
+
+    const title = document.createElement('strong');
+    title.textContent = item.title;
+
+    const date = document.createElement('small');
+    date.textContent = item.url ? '官方热门榜单' : '本地最新收录';
+
+    card.append(cover, rank, title, date);
+    featuredContainer.appendChild(card);
+  });
 };
 
 // 渲染搜索区域
