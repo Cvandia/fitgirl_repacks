@@ -18,6 +18,24 @@ const popularURL = 'data/popular-repacks.json';
 
 const normalizeTitle = title => title.toLowerCase().replace(/[^a-z0-9]+/g, '');
 const gameTitleKey = title => normalizeTitle(title.split(/\s[-–]\s/)[0]);
+const searchAliases = {
+  gta: 'grand theft auto',
+  cod: 'call of duty',
+  ac: "assassin's creed",
+  rdr: 'red dead redemption',
+  re: 'resident evil',
+  fc: 'ea sports fc',
+  nfs: 'need for speed',
+  ff: 'final fantasy'
+};
+
+const normalizeSearchText = text => text.toLowerCase().replace(/[’']/g, '').replace(/[^a-z0-9\u4e00-\u9fff]+/g, ' ');
+const searchTermMatches = (title, term) => {
+  const normalizedTitle = normalizeSearchText(title);
+  const normalizedTerm = normalizeSearchText(term).trim();
+  const alias = searchAliases[normalizedTerm];
+  return normalizedTitle.includes(normalizedTerm) || Boolean(alias && normalizedTitle.includes(alias));
+};
 
 const itemsPerPage = 10; // 每页显示的数据条数
 let currentPage = 1; // 当前页码
@@ -182,8 +200,10 @@ const renderSearch = () => {
 
 // 执行搜索
 const performSearch = (searchTerm) => {
-  const terms = searchTerm.toLowerCase().split(' ');
-  renderData = rawData.filter(item => terms.every(word => item[1].toLowerCase().includes(word)));
+  const terms = normalizeSearchText(searchTerm).split(/\s+/).filter(Boolean);
+  renderData = terms.length
+    ? rawData.filter(item => terms.every(term => searchTermMatches(item[1], term)))
+    : rawData;
   currentPage = 1;
   renderPage();
   updateURL(searchTerm);
