@@ -15,17 +15,17 @@
 [https://cvandia.github.io/fitgirl_repacks/](https://cvandia.github.io/fitgirl_repacks/)
 
 ## 🔄 更新
-最后更新时间 `2026-09-17`，共 `6779` 款游戏。
-- Palworld – v1.0.4.102642 + Bonus OST
-- Train Sim World 7: Ultimate Edition – Hotfix Update 11-09-26 (Build 832) + 165 DLCs
-- Moonlight Peaks: Digital Deluxe Edition, v1.2.7 + 2 Bonus DLCs
-- Project Cobalt – v1.5
-- Tiny Bakery
-- KIBORG: Deluxe Edition, v2026.08.06:1:83 + 3 DLCs/Bonuses
-- Sunken Engine – v1.0.33
-- Model Kit Shop Simulator
-- ChainStaff: Ultimate Edition, v1.2.0.12 + 3 DLCs/Bonuses
-- Ragnar – v1.0 (Release)
+最后更新时间 `2026-09-23`，共 `6801` 款游戏。
+- The Alighieri Circle: Dante’s Bloodline
+- Granblue Fantasy Versus: Rising – Legendary Edition, v2.61 + 64 DLCs/Bonuses
+- Police Chief Simulator – Rev.3871
+- Liftoff: Micro Drones – v1.1.2
+- Creator Chronicles – v1.01
+- Tainted Grail: The Fall of Avalon – Excalibur Edition, v1.25 + 9 DLCs/Bonuses
+- Cosmic Fear: Deluxe Edition – v1.1 + Bonus DLC
+- The Walking Dead: Streets of Survival – Deluxe Edition + 2 DLCs
+- UNDER NIGHT IN-BIRTH II Sys:Celes, v1.41.00 + 6 DLCs
+- Dig For Riches
 - ……
 
 ## 🙏 感谢
