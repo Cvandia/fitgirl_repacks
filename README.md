@@ -37,25 +37,25 @@ cd fitgirl_repacks
 
 ## 📊 数据说明
 - 数据来源：[FitGirl Repacks](https://fitgirl-repacks.site/)
-- 当前数据更新时间：`2026-09-17`
-- 当前收录数量：`6779` 款游戏
-- 首页默认加载 `data/repacks-20260917035321.csv`
+- 当前数据更新时间：`2026-09-25`
+- 当前收录数量：`6806` 款游戏
+- 首页默认加载与本次抓取对应的 CSV 数据
 - “热门推荐”来自 `data/popular-repacks.json`
 
 README 下方的更新列表由抓取程序根据最近获取到的数据自动生成，展示最新收录的 10 条记录。
 
 ## 🔄 更新
-最后更新时间 `2026-09-23`，共 `6801` 款游戏。
+最后更新时间 `2026-09-25`，共 `6806` 款游戏。
+- Escape Simulator 2 – v22719r + 2 DLCs/Bonuses
+- Brave New Wonders
+- Shape of Dreams – v1.4.0.13 + DLC
+- Tenebris: Terra Incognita
+- Sunken Realms
+- MindsEye – v1527350/8332038 + 10 DLCs
+- DeathSprint 66 – Build 17155957
+- Demonic Mahjong – v0.2.67 + 2 DLCs/Bonuses
 - The Alighieri Circle: Dante’s Bloodline
 - Granblue Fantasy Versus: Rising – Legendary Edition, v2.61 + 64 DLCs/Bonuses
-- Police Chief Simulator – Rev.3871
-- Liftoff: Micro Drones – v1.1.2
-- Creator Chronicles – v1.01
-- Tainted Grail: The Fall of Avalon – Excalibur Edition, v1.25 + 9 DLCs/Bonuses
-- Cosmic Fear: Deluxe Edition – v1.1 + Bonus DLC
-- The Walking Dead: Streets of Survival – Deluxe Edition + 2 DLCs
-- UNDER NIGHT IN-BIRTH II Sys:Celes, v1.41.00 + 6 DLCs
-- Dig For Riches
 - ……
 
 ## 🤖 自动更新
