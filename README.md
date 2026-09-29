@@ -37,25 +37,25 @@ cd fitgirl_repacks
 
 ## 📊 数据说明
 - 数据来源：[FitGirl Repacks](https://fitgirl-repacks.site/)
-- 当前数据更新时间：`2026-09-25`
-- 当前收录数量：`6806` 款游戏
+- 当前数据更新时间：`2026-09-29`
+- 当前收录数量：`6817` 款游戏
 - 首页默认加载与本次抓取对应的 CSV 数据
 - “热门推荐”来自 `data/popular-repacks.json`
 
 README 下方的更新列表由抓取程序根据最近获取到的数据自动生成，展示最新收录的 10 条记录。
 
 ## 🔄 更新
-最后更新时间 `2026-09-25`，共 `6806` 款游戏。
-- Escape Simulator 2 – v22719r + 2 DLCs/Bonuses
-- Brave New Wonders
-- Shape of Dreams – v1.4.0.13 + DLC
-- Tenebris: Terra Incognita
-- Sunken Realms
-- MindsEye – v1527350/8332038 + 10 DLCs
-- DeathSprint 66 – Build 17155957
-- Demonic Mahjong – v0.2.67 + 2 DLCs/Bonuses
-- The Alighieri Circle: Dante’s Bloodline
-- Granblue Fantasy Versus: Rising – Legendary Edition, v2.61 + 64 DLCs/Bonuses
+最后更新时间 `2026-09-29`，共 `6817` 款游戏。
+- Seafarer: The Ship Sim – Voyager Edition, v1.0.0.2651_7 + 3 DLCs/Bonuses
+- Age of Reforging: The Freelands – v1.30b + Supporter Pack DLC
+- The Handler of Dragons – v2.67
+- FACEMINER – v2.4.1 + Bonus OST
+- Woman Simulator – v1.0.20
+- ENTITY: THE BLACK DAY – v1.01 + Operative DLC v0.2
+- Kingdom Rush 6: Genesis TD – v1.00.44
+- Garfield: Escape from Monday – v1.02.10
+- Alaska Gold Fever – v2026.09.23.01 + 5 DLCs
+- Nocturne – v1.0.0 + Supporter Pack DLC
 - ……
 
 ## 🤖 自动更新
