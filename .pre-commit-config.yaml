@@ -3,4 +3,9 @@ repos:
     rev: v5.0.0
     hooks:
       - id: check-yaml
-        stages: [commit]
+        stages: [pre-commit]
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: v0.16.9
+    hooks:
+      - id: ruff-check
+        stages: [pre-commit]
