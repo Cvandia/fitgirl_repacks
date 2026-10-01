@@ -1,0 +1,15 @@
+[project]
+name = "fitgirl-repacks"
+version = "0.1.0"
+description = "Static game catalog and asynchronous metadata spider"
+requires-python = ">=3.11"
+dependencies = [
+    "aiohttp==3.11.10",
+    "beautifulsoup4==4.9.3",
+    "loguru==0.7.3",
+]
+
+[dependency-groups]
+dev = [
+    "ruff>=0.16.9",
+]

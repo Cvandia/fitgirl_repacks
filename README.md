@@ -35,6 +35,16 @@ cd fitgirl_repacks
 
 随后使用浏览器打开 `index.htm` 即可。也可以使用 VS Code Live Server 等静态文件服务器访问。
 
+运行 Python 爬虫需先安装 uv，在项目根目录执行：
+
+```bash
+uv sync --locked
+uv run ruff check spider/spider.py
+uv run --directory spider python spider.py
+```
+
+uv 会自动创建并使用 `.venv`，Python 版本由 `.python-version` 指定，依赖版本由 `uv.lock` 锁定。爬虫使用相对路径，需通过上述命令在 `spider` 目录运行。VS Code 中请选择 `.venv/Scripts/python.exe` 作为 Python 解释器。
+
 ## 📊 数据说明
 - 数据来源：[FitGirl Repacks](https://fitgirl-repacks.site/)
 - 当前数据更新时间：`2026-09-29`

@@ -55,7 +55,7 @@ async def fetch_page(session: aiohttp.ClientSession, url):
                     logger.error(f"多次尝试后仍无法获取页面: {url}")
                     return None
                 await asyncio.sleep(min(2 ** attempt, 8))  # 指数退避
-            except (aiohttp.ClientError, asyncio.TimeoutError, UnicodeError) as e:
+            except (TimeoutError, aiohttp.ClientError, UnicodeError) as e:
                 # 处理其他网络请求异常
                 logger.error(f"获取页面失败 {url}: {e}")
                 if attempt == max_retries - 1:
@@ -79,7 +79,7 @@ async def fetch_data(session, page):
 async def process_articles(session, page, total_pages):
     try:
         articles = await fetch_data(session, page)
-    except (aiohttp.ClientError, asyncio.TimeoutError, ValueError) as error:
+    except (TimeoutError, aiohttp.ClientError, ValueError) as error:
         logger.exception(f"× 第 {page} 页处理失败，跳过本页: {error}")
         return []
     data_list = []

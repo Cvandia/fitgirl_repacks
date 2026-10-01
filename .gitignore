@@ -1,2 +1,18 @@
+# Local temporary files
 /temp/
 desktop.ini
+.DS_Store
+
+# Python virtual environments and caches
+.venv/
+__pycache__/
+*.py[cod]
+.ruff_cache/
+.pytest_cache/
+.mypy_cache/
+.uv-cache/
+
+# Local environment variables (keep example files tracked)
+.env
+.env.*
+!.env.example
