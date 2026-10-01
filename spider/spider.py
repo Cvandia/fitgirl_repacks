@@ -1,11 +1,14 @@
-﻿import os
+﻿import asyncio
 import csv
-import aiohttp
-import asyncio
+import json
+import os
 import random
+from datetime import datetime
+from pathlib import Path
+
+import aiohttp
 from aiohttp.client_exceptions import TooManyRedirects
 from bs4 import BeautifulSoup
-from datetime import datetime
 from loguru import logger
 
 site_url = "https://fitgirl-repacks.site"
@@ -13,6 +16,13 @@ popular_url = f"{site_url}/popular-repacks/"
 sem = asyncio.Semaphore(3)  # Limit to 3 concurrent tasks
 request_timeout = aiohttp.ClientTimeout(total=45, connect=15, sock_read=30)
 request_headers = {"User-Agent": "Mozilla/5.0 (compatible; FitGirlRepacksSpider/1.0)"}
+
+
+def save_csv(path, rows):
+    with open(path, "w", newline="", encoding="utf-8-sig") as csvfile:
+        writer = csv.writer(csvfile)
+        writer.writerow(["ID", "标题", "时间", "链接", "封面", "说明", "简介"])
+        writer.writerows(rows)
 
 
 async def fetch_page(session: aiohttp.ClientSession, url):
@@ -45,7 +55,7 @@ async def fetch_page(session: aiohttp.ClientSession, url):
                     logger.error(f"多次尝试后仍无法获取页面: {url}")
                     return None
                 await asyncio.sleep(min(2 ** attempt, 8))  # 指数退避
-            except Exception as e:
+            except (aiohttp.ClientError, asyncio.TimeoutError, UnicodeError) as e:
                 # 处理其他网络请求异常
                 logger.error(f"获取页面失败 {url}: {e}")
                 if attempt == max_retries - 1:
@@ -69,13 +79,11 @@ async def fetch_data(session, page):
 async def process_articles(session, page, total_pages):
     try:
         articles = await fetch_data(session, page)
-    except Exception as error:
+    except (aiohttp.ClientError, asyncio.TimeoutError, ValueError) as error:
         logger.exception(f"× 第 {page} 页处理失败，跳过本页: {error}")
         return []
     data_list = []
-    now_article = 0
-    for article in articles:
-        now_article += 1
+    for now_article, article in enumerate(articles, start=1):
         article_title_element = article.find("h1", class_="entry-title")
         article_time_element = article.find("time", class_="entry-date")
         article_link_element = article.find(
@@ -194,27 +202,26 @@ async def main():
                     logger.info(f"暂停 {pause_time} 秒")
                     await asyncio.sleep(pause_time)
 
-        config_file = "./config.txt"
-        if os.path.exists(config_file):
-            with open(config_file, "r") as f:
-                previous_count = int(f.read())
-        else:
+        config_file = Path("./config.txt")
+        try:
+            previous_count = int(
+                await asyncio.to_thread(config_file.read_text, encoding="utf-8")
+            )
+        except FileNotFoundError:
             previous_count = 0
         logger.info(f"共获取到 {len(all_data)} 条有效数据，上次 {previous_count} 条")
 
         if len(all_data) >= previous_count:
             save_path = "../data"
-            os.makedirs(save_path, exist_ok=True)
-            current_time = datetime.now().strftime("%Y%m%d%H%M%S")
+            await asyncio.to_thread(os.makedirs, save_path, exist_ok=True)
+            current_time = datetime.now().astimezone().strftime("%Y%m%d%H%M%S")
             csv_file = os.path.join(save_path, f"repacks-{current_time}.csv")
-            with open(csv_file, "w", newline="", encoding="utf-8-sig") as csvfile:
-                writer = csv.writer(csvfile)
-                writer.writerow(["ID", "标题", "时间", "链接", "封面", "说明", "简介"])
-                writer.writerows(all_data)
+            await asyncio.to_thread(save_csv, csv_file, all_data)
             logger.info(f"数据文件 {csv_file} 已更新")
 
-            with open(config_file, "w") as f:
-                f.write(str(len(all_data)))
+            await asyncio.to_thread(
+                config_file.write_text, str(len(all_data)), encoding="utf-8"
+            )
             logger.info(f"配置文件 {config_file} 已更新")
 
             popular_file = os.path.join(save_path, "popular-repacks.json")
@@ -223,15 +230,18 @@ async def main():
                 popular_item["magnet"] = magnet_by_title.get(popular_item["title"])
                 if not popular_item["magnet"]:
                     popular_item["magnet"] = await fetch_magnet_link(session, popular_item["url"])
-            with open(popular_file, "w", encoding="utf-8") as jsonfile:
-                import json
-                json.dump(popular_data, jsonfile, ensure_ascii=False, indent=2)
+            await asyncio.to_thread(
+                Path(popular_file).write_text,
+                json.dumps(popular_data, ensure_ascii=False, indent=2),
+                encoding="utf-8",
+            )
             logger.info(f"热门榜单文件 {popular_file} 已更新，共 {len(popular_data)} 条")
 
             template_file = "./readme.txt"
             md_file = "../README.md"
-            with open(template_file, "r", encoding="utf-8") as f:
-                template_content = f.read()
+            template_content = await asyncio.to_thread(
+                Path(template_file).read_text, encoding="utf-8"
+            )
             template_content = template_content.replace(
                 "{{lastupdated}}",
                 f"{current_time[:4]}-{current_time[4:6]}-{current_time[6:8]}",
@@ -243,21 +253,24 @@ async def main():
                 template_content = template_content.replace(
                     "{{articletitle}}", all_data[i][1], 1
                 )
-            with open(md_file, "w", encoding="utf-8") as f:
-                f.write(template_content)
+            await asyncio.to_thread(
+                Path(md_file).write_text, template_content, encoding="utf-8"
+            )
             logger.info(f"README 文件 {md_file} 已更新")
 
             template_file = "./template.txt"
             html_file = "../index.htm"
-            with open(template_file, "r", encoding="utf-8") as f:
-                template_content = f.read()
+            template_content = await asyncio.to_thread(
+                Path(template_file).read_text, encoding="utf-8"
+            )
             template_content = template_content.replace("{{lastupdated}}", current_time)
             # 添加以下三行来处理日期切片格式
             template_content = template_content.replace("year", current_time[:4])
             template_content = template_content.replace("month", current_time[4:6])
             template_content = template_content.replace("day", current_time[6:8])
-            with open(html_file, "w", encoding="utf-8") as f:
-                f.write(template_content)
+            await asyncio.to_thread(
+                Path(html_file).write_text, template_content, encoding="utf-8"
+            )
             logger.info(f"HTML 模板 {html_file} 已更新")
         else:
             logger.warning("爬取内容不完整，放弃数据更新")
