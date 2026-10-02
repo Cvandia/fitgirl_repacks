@@ -1,0 +1,38 @@
+name: Weekly Data Cleanup
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Every Monday at 04:00 Asia/Shanghai (Sunday 20:00 UTC).
+    - cron: '0 20 * * 0'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: repacks-data-update
+  cancel-in-progress: false
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: master
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Validate and clean snapshots
+        run: python spider/archive.py
+      - name: Commit cleanup
+        run: |
+          git config user.email "Cvandia@users.noreply.github.com"
+          git config user.name "Cvandia"
+          git add -- data index.htm
+          if git diff --cached --quiet; then
+            echo "No cleanup changes"
+          else
+            git commit -m "Retain latest complete data snapshot"
+            git push origin HEAD:master
+          fi

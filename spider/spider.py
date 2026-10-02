@@ -8,6 +8,7 @@ from pathlib import Path
 
 import aiohttp
 from aiohttp.client_exceptions import TooManyRedirects
+from archive import validate_csv
 from bs4 import BeautifulSoup
 from loguru import logger
 
@@ -69,10 +70,12 @@ async def fetch_data(session, page):
     logger.info(f"正在爬取第 {page} 页")
     page_content = await fetch_page(session, url)
     if not page_content:
-        logger.warning(f"× 第 {page} 页获取失败，跳过本页并继续爬取")
-        return []
+        logger.error(f"× 第 {page} 页获取失败，终止本次更新")
+        raise RuntimeError(f"Page {page} could not be fetched")
     soup = BeautifulSoup(page_content, "html.parser")
     articles = soup.find_all("article")
+    if not articles:
+        raise RuntimeError(f"Page {page} contains no articles")
     return articles
 
 
@@ -80,8 +83,8 @@ async def process_articles(session, page, total_pages):
     try:
         articles = await fetch_data(session, page)
     except (TimeoutError, aiohttp.ClientError, ValueError) as error:
-        logger.exception(f"× 第 {page} 页处理失败，跳过本页: {error}")
-        return []
+        logger.exception(f"× 第 {page} 页处理失败，终止本次更新: {error}")
+        raise RuntimeError(f"Page {page} could not be processed") from error
     data_list = []
     for now_article, article in enumerate(articles, start=1):
         article_title_element = article.find("h1", class_="entry-title")
@@ -169,7 +172,7 @@ async def main():
         response = await fetch_page(session, site_url)
         if not response:
             logger.error("首页获取失败，无法确定总页数，爬取终止")
-            return
+            raise RuntimeError("Homepage fetch failed")
         soup = BeautifulSoup(response, "html.parser")
         page_links = soup.find_all("a", class_="page-numbers")
         start_page = 1
@@ -180,12 +183,12 @@ async def main():
         ]
         if not page_numbers:
             logger.error("首页未获取到有效页码，爬取终止")
-            return
+            raise RuntimeError("Homepage pagination missing")
         end_page = max(page_numbers)
 
         if end_page < start_page:
             logger.error("未获取到有效页码，程序中止")
-            os._exit(0)
+            raise RuntimeError("Invalid pagination")
 
         all_data = []
 
@@ -217,6 +220,7 @@ async def main():
             current_time = datetime.now().astimezone().strftime("%Y%m%d%H%M%S")
             csv_file = os.path.join(save_path, f"repacks-{current_time}.csv")
             await asyncio.to_thread(save_csv, csv_file, all_data)
+            await asyncio.to_thread(validate_csv, Path(csv_file), previous_count)
             logger.info(f"数据文件 {csv_file} 已更新")
 
             await asyncio.to_thread(
@@ -273,7 +277,7 @@ async def main():
             )
             logger.info(f"HTML 模板 {html_file} 已更新")
         else:
-            logger.warning("爬取内容不完整，放弃数据更新")
+            raise RuntimeError("爬取内容不完整，放弃数据更新")
 
 
 if __name__ == "__main__":
