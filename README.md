@@ -47,17 +47,15 @@ uv 会自动创建并使用 `.venv`，Python 版本由 `.python-version` 指定�
 
 ## 📊 数据说明
 - 数据来源：[FitGirl Repacks](https://fitgirl-repacks.site/)
-- 当前数据更新时间：`2026-09-29`
-- 当前收录数量：`6817` 款游戏
+- 当前数据更新时间：`2026-10-01`
+- 当前收录数量：`6819` 款游戏
 - 首页默认加载与本次抓取对应的 CSV 数据
 - “热门推荐”来自 `data/popular-repacks.json`
 
 README 下方的更新列表由抓取程序根据最近获取到的数据自动生成，展示最新收录的 10 条记录。
 
 ## 🔄 更新
-最后更新时间 `2026-09-29`，共 `6817` 款游戏。
-- Seafarer: The Ship Sim – Voyager Edition, v1.0.0.2651_7 + 3 DLCs/Bonuses
-- Age of Reforging: The Freelands – v1.30b + Supporter Pack DLC
+最后更新时间 `2026-10-01`，共 `6819` 款游戏。
 - The Handler of Dragons – v2.67
 - FACEMINER – v2.4.1 + Bonus OST
 - Woman Simulator – v1.0.20
@@ -66,6 +64,8 @@ README 下方的更新列表由抓取程序根据最近获取到的数据自动�
 - Garfield: Escape from Monday – v1.02.10
 - Alaska Gold Fever – v2026.09.23.01 + 5 DLCs
 - Nocturne – v1.0.0 + Supporter Pack DLC
+- Le Mans Ultimate: WEC Full Access Bundle – v1.4.2 + 13 DLCs
+- Pioneers of Pagonia: Gold Edition – v1.5.0-12845 + 6 DLCs/Bonuses
 - ……
 
 ## 🤖 自动更新
