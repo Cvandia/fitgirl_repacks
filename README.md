@@ -47,25 +47,25 @@ uv 会自动创建并使用 `.venv`，Python 版本由 `.python-version` 指定�
 
 ## 📊 数据说明
 - 数据来源：[FitGirl Repacks](https://fitgirl-repacks.site/)
-- 当前数据更新时间：`2026-10-01`
-- 当前收录数量：`6819` 款游戏
+- 当前数据更新时间：`2026-10-05`
+- 当前收录数量：`6827` 款游戏
 - 首页默认加载与本次抓取对应的 CSV 数据
 - “热门推荐”来自 `data/popular-repacks.json`
 
 README 下方的更新列表由抓取程序根据最近获取到的数据自动生成，展示最新收录的 10 条记录。
 
 ## 🔄 更新
-最后更新时间 `2026-10-01`，共 `6819` 款游戏。
-- The Handler of Dragons – v2.67
-- FACEMINER – v2.4.1 + Bonus OST
-- Woman Simulator – v1.0.20
-- ENTITY: THE BLACK DAY – v1.01 + Operative DLC v0.2
-- Kingdom Rush 6: Genesis TD – v1.00.44
-- Garfield: Escape from Monday – v1.02.10
-- Alaska Gold Fever – v2026.09.23.01 + 5 DLCs
-- Nocturne – v1.0.0 + Supporter Pack DLC
-- Le Mans Ultimate: WEC Full Access Bundle – v1.4.2 + 13 DLCs
-- Pioneers of Pagonia: Gold Edition – v1.5.0-12845 + 6 DLCs/Bonuses
+最后更新时间 `2026-10-05`，共 `6827` 款游戏。
+- Minecraft Dungeons II – v1.1.1.0 + 2 DLCs [Monkey Repack]
+- Reus 2: Complete Edition , v1.12.0 + 5 DLCs
+- Lawn Mowing Simulator 2 – v1.0.1.1264558.5273
+- Way of the Hunter 2 – v1.0.0.212045 + 3 DLCs
+- Little Nightmares III: Deluxe Edition, Build 25370921 + 7 DLCs
+- Qliphah in Providence’s Shadow – v1.0.3 + 2 DLCs
+- Star Trek: Voyager – Across the Unknown: Deluxe Edition, v2.1.27832 + 3 DLCs
+- Mars Attracts: Supporter’s Edition – v0.6.2 + 4 DLCs/Bonuses
+- Heads Will Roll: Reforged – Complete Edition, v3.07c + 10 DLCs/Bonuses
+- Dragon Shelter – v0.0.58
 - ……
 
 ## 🤖 自动更新
