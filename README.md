@@ -47,25 +47,25 @@ uv 会自动创建并使用 `.venv`，Python 版本由 `.python-version` 指定�
 
 ## 📊 数据说明
 - 数据来源：[FitGirl Repacks](https://fitgirl-repacks.site/)
-- 当前数据更新时间：`2026-10-05`
-- 当前收录数量：`6827` 款游戏
+- 当前数据更新时间：`2026-10-09`
+- 当前收录数量：`6840` 款游戏
 - 首页默认加载与本次抓取对应的 CSV 数据
 - “热门推荐”来自 `data/popular-repacks.json`
 
 README 下方的更新列表由抓取程序根据最近获取到的数据自动生成，展示最新收录的 10 条记录。
 
 ## 🔄 更新
-最后更新时间 `2026-10-05`，共 `6827` 款游戏。
-- Minecraft Dungeons II – v1.1.1.0 + 2 DLCs [Monkey Repack]
-- Reus 2: Complete Edition , v1.12.0 + 5 DLCs
-- Lawn Mowing Simulator 2 – v1.0.1.1264558.5273
-- Way of the Hunter 2 – v1.0.0.212045 + 3 DLCs
-- Little Nightmares III: Deluxe Edition, Build 25370921 + 7 DLCs
-- Qliphah in Providence’s Shadow – v1.0.3 + 2 DLCs
-- Star Trek: Voyager – Across the Unknown: Deluxe Edition, v2.1.27832 + 3 DLCs
-- Mars Attracts: Supporter’s Edition – v0.6.2 + 4 DLCs/Bonuses
-- Heads Will Roll: Reforged – Complete Edition, v3.07c + 10 DLCs/Bonuses
-- Dragon Shelter – v0.0.58
+最后更新时间 `2026-10-09`，共 `6840` 款游戏。
+- Gear.Club Unlimited 3 + 4 DLCs
+- The Adventures of Elliot: The Millennium Tales – Digital Deluxe Edition, Build 24232671 + 8 DLCs/Unlocks
+- Neon Abyss 2: Deluxe Edition – v2026.10.8 + 3 DLCs
+- Ale & Tale Tavern – v1.6.16 + Bonus Soundtrack
+- STUNTBOOST + Supporter Pack DLC
+- Atomfall: Complete Edition – v1.2.2 + 5 DLCs
+- Gamer Stop Simulator – v1.0 (Release)
+- End of Abyss – v22954
+- MXGP 26: Fox Holeshot Edition + 2 DLCs
+- Land of Glarefall – v1.0.1
 - ……
 
 ## 🤖 自动更新
