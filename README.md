@@ -47,25 +47,25 @@ uv 会自动创建并使用 `.venv`，Python 版本由 `.python-version` 指定�
 
 ## 📊 数据说明
 - 数据来源：[FitGirl Repacks](https://fitgirl-repacks.site/)
-- 当前数据更新时间：`2026-10-29`
-- 当前收录数量：`6887` 款游戏
+- 当前数据更新时间：`2026-11-01`
+- 当前收录数量：`6897` 款游戏
 - 首页默认加载与本次抓取对应的 CSV 数据
 - “热门推荐”来自 `data/popular-repacks.json`
 
 README 下方的更新列表由抓取程序根据最近获取到的数据自动生成，展示最新收录的 10 条记录。
 
 ## 🔄 更新
-最后更新时间 `2026-10-29`，共 `6887` 款游戏。
-- over the hill: Supporter Pack Bundle – v26.10.22 + 2 Bonus DLCs
-- Forza Motorsport 7: Ultimate Edition – v1.174.4791.2 + All DLCs
-- Azure Striker Gunvolt Trilogy Enhanced – v2.0.0 + DLC
-- Reentry: A Space Flight Simulator – v1.1.2
-- Nomori – v1.0.13 + Bonus OST
-- Mortal Shell II: Devout Edition – v97404+1875 + 2 DLCs
-- Star Trek: Outposts Unknown
+最后更新时间 `2026-11-01`，共 `6897` 款游戏。
+- Stygian: Outer Gods – v05b68d5f
+- Keep Driving – v1.4.3.2d
+- Princess Maker: Children of Revelation
+- Planet Zoo 2: Deluxe Edition – v1.0.7.1031590 + 2 DLCs
+- Village in the Shade: Deluxe Edition – v1.30 + 2 Bonus DLCs
+- Low-Budget Repairs, v1.7.17 + Bonus App
+- In Falsus – v1.0.5 + DLC
+- Diplomacy is Not an Option – v1.0.187r + 3 DLCs/Bonuses
 - STAR WARS: Galactic Racer – Deluxe Edition, vCL386500 + 3 DLCs/Bonuses
 - Farming Simulator 25: Year 1 Bundle, v1.25.0.0 (49226/83394) + 13 DLCs
-- Remothered: Red Nun’s Legacy – v74e0052.7 + Bonus Content
 - ……
 
 ## 🤖 自动更新
