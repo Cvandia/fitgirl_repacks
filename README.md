@@ -47,25 +47,25 @@ uv 会自动创建并使用 `.venv`，Python 版本由 `.python-version` 指定�
 
 ## 📊 数据说明
 - 数据来源：[FitGirl Repacks](https://fitgirl-repacks.site/)
-- 当前数据更新时间：`2026-11-01`
-- 当前收录数量：`6897` 款游戏
+- 当前数据更新时间：`2026-11-05`
+- 当前收录数量：`6905` 款游戏
 - 首页默认加载与本次抓取对应的 CSV 数据
 - “热门推荐”来自 `data/popular-repacks.json`
 
 README 下方的更新列表由抓取程序根据最近获取到的数据自动生成，展示最新收录的 10 条记录。
 
 ## 🔄 更新
-最后更新时间 `2026-11-01`，共 `6897` 款游戏。
-- Stygian: Outer Gods – v05b68d5f
-- Keep Driving – v1.4.3.2d
-- Princess Maker: Children of Revelation
-- Planet Zoo 2: Deluxe Edition – v1.0.7.1031590 + 2 DLCs
-- Village in the Shade: Deluxe Edition – v1.30 + 2 Bonus DLCs
-- Low-Budget Repairs, v1.7.17 + Bonus App
-- In Falsus – v1.0.5 + DLC
-- Diplomacy is Not an Option – v1.0.187r + 3 DLCs/Bonuses
-- STAR WARS: Galactic Racer – Deluxe Edition, vCL386500 + 3 DLCs/Bonuses
-- Farming Simulator 25: Year 1 Bundle, v1.25.0.0 (49226/83394) + 13 DLCs
+最后更新时间 `2026-11-05`，共 `6905` 款游戏。
+- Silica – v1.0.15 (Release)
+- Cairn: Deluxe Edition – v1.1.593s_2337 + 4 DLCs/Bonuses
+- Warrior Cats: Clans of the Forest + 2 DLCs
+- Distant Worlds 2 – v1.3.7.9 + 5 DLCs
+- COP BASTARD – v1.00b3
+- Probably Stolen: Cyberpunk Shopkeeper Sim, v1.00-REV2 + Bonus OST
+- You Are Empty: Absolute Edition Complete – Hotfix 3 + Bonus OST
+- Chained Together – v1.11.1 + 2 DLCs
+- Toy Shire – v1.00 (Release)
+- Resonance of Fate (End of Eternity) 4K/HD Edition – ENHANCED REMASTER, Build 25984155 + High Resolution Texture Pack DLC
 - ……
 
 ## 🤖 自动更新
