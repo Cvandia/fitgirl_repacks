@@ -47,25 +47,25 @@ uv 会自动创建并使用 `.venv`，Python 版本由 `.python-version` 指定�
 
 ## 📊 数据说明
 - 数据来源：[FitGirl Repacks](https://fitgirl-repacks.site/)
-- 当前数据更新时间：`2026-11-05`
-- 当前收录数量：`6905` 款游戏
+- 当前数据更新时间：`2026-11-09`
+- 当前收录数量：`6914` 款游戏
 - 首页默认加载与本次抓取对应的 CSV 数据
 - “热门推荐”来自 `data/popular-repacks.json`
 
 README 下方的更新列表由抓取程序根据最近获取到的数据自动生成，展示最新收录的 10 条记录。
 
 ## 🔄 更新
-最后更新时间 `2026-11-05`，共 `6905` 款游戏。
-- Silica – v1.0.15 (Release)
-- Cairn: Deluxe Edition – v1.1.593s_2337 + 4 DLCs/Bonuses
-- Warrior Cats: Clans of the Forest + 2 DLCs
-- Distant Worlds 2 – v1.3.7.9 + 5 DLCs
-- COP BASTARD – v1.00b3
-- Probably Stolen: Cyberpunk Shopkeeper Sim, v1.00-REV2 + Bonus OST
-- You Are Empty: Absolute Edition Complete – Hotfix 3 + Bonus OST
-- Chained Together – v1.11.1 + 2 DLCs
-- Toy Shire – v1.00 (Release)
-- Resonance of Fate (End of Eternity) 4K/HD Edition – ENHANCED REMASTER, Build 25984155 + High Resolution Texture Pack DLC
+最后更新时间 `2026-11-09`，共 `6914` 款游戏。
+- Giggleland – v1.0.0
+- Sort The Capybaras – v1.02
+- Decktamer – v1.9.4
+- Godzilla: Destroy All Monsters Melee Remastered – Digital Deluxe Edition + DLC
+- Age of Wonders 4: 2026 Collector’s Bundle – v1.017.001.126767 + 18 DLCs
+- Lightyear Frontier & Soundtrack Bundle – v1.0.2540 + 2 DLCs/Bonuses
+- Heart of the Machine: Complete – v2.000 + 2 DLC/Bonuses
+- Bluey’s Happy Snaps
+- VOID/BREAKER – v1.0.6_4488
+- Lost Host – v1.0.5
 - ……
 
 ## 🤖 自动更新
