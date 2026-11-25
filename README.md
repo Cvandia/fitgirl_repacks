@@ -47,25 +47,25 @@ uv 会自动创建并使用 `.venv`，Python 版本由 `.python-version` 指定�
 
 ## 📊 数据说明
 - 数据来源：[FitGirl Repacks](https://fitgirl-repacks.site/)
-- 当前数据更新时间：`2026-11-21`
-- 当前收录数量：`6949` 款游戏
+- 当前数据更新时间：`2026-11-25`
+- 当前收录数量：`6962` 款游戏
 - 首页默认加载与本次抓取对应的 CSV 数据
 - “热门推荐”来自 `data/popular-repacks.json`
 
 README 下方的更新列表由抓取程序根据最近获取到的数据自动生成，展示最新收录的 10 条记录。
 
 ## 🔄 更新
-最后更新时间 `2026-11-21`，共 `6949` 款游戏。
-- Frontier: Path of Shadows + 4 DLCs/Bonuses
-- Frontier Tale – v2.1.2
-- Frontier Paladin – Build 25255980
-- ilomilo plus – v1.1.43.0
-- Unbroken: The Awakening
-- GROUND BRANCH – v1.1.0 Build 22612
-- Ancient Wars: Sparta HD
-- Mr. Prepper: Complete Edition – v1.44h + 4 DLCs/Bonuses
-- Fish & Hike
-- Shipping Store Simulator 2037 – v1.0.5
+最后更新时间 `2026-11-25`，共 `6962` 款游戏。
+- Phantom Blade Zero: Deluxe Edition – v302256-17280 + 2 DLCs
+- Eternal Palace Sakura
+- Dinkum: Official Soundtrack Edition, v1.0.9 + Bonus OST
+- Penguin Colony – v1.5
+- Anno 117: Pax Romana – Gold Edition, v3.0.1733841 + 6 DLCs + Bonus OST
+- 771: Smile and Work
+- BOXROOM
+- Goat Simulator 3: Multiversal Traveler’s Bundle, v1.3.0.0_517119 + 7 DLCs/Bonuses
+- Moadra
+- Bendy and the Dark Revival – v2.1.0 + Bonus OST
 - ……
 
 ## 🤖 自动更新
